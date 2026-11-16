@@ -1,0 +1,3 @@
+Límites de departamentos y provincias y capitales de provincia del Perú:
+https://github.com/juaneladio/peru-geojson (licencia Mozilla Public License 2.0, ver LICENSE_peru-geojson.txt).
+Coordenadas redondeadas a 3 decimales (unos 100 m) para aligerar el archivo; sin otros cambios.
