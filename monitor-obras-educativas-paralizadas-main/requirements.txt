@@ -1,0 +1,14 @@
+selenium
+pandas
+openpyxl
+beautifulsoup4
+lxml
+pdfplumber
+pypdf
+pyreadstat
+tqdm
+ipykernel
+scikit-learn
+nbformat
+nbclient
+plotly
