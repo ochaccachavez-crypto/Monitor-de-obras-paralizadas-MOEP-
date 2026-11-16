@@ -1,0 +1,401 @@
+﻿anio,tipo,termino,frecuencia,tfidf,anios_con_termino
+2022,termino,municipalidad,333,10.881,2
+2022,termino,mejoramiento,596,10.857,3
+2022,termino,distrito,580,10.566,3
+2022,termino,rreeppourbtleic,161,9.241,1
+2022,termino,provincia,444,8.088,3
+2022,termino,agua,236,7.712,2
+2022,termino,potable,195,6.372,2
+2022,termino,huancavelica,100,5.74,1
+2022,termino,distrital,172,5.62,2
+2022,termino,universidad,94,5.395,1
+2022,termino,piura,86,4.936,1
+2022,termino,descripcion,150,4.902,2
+2022,termino,instalacion,83,4.764,1
+2022,termino,tramo,80,4.592,1
+2022,termino,dios,77,4.419,1
+2022,termino,carretera,76,4.362,1
+2022,termino,trimestre,75,4.305,1
+2022,termino,camino,74,4.247,1
+2022,termino,erpeoprutbel,73,4.19,1
+2022,termino,idcea,73,4.19,1
+2022,termino,vecinal,73,4.19,1
+2022,termino,tumbes,71,4.075,1
+2022,termino,alcantarillado,124,4.052,2
+2022,termino,huanuco,70,4.018,1
+2022,termino,junin,70,4.018,1
+2022,termino,apurimac,68,3.903,1
+2022,termino,tacna,67,3.846,1
+2022,termino,loreto,63,3.616,1
+2022,termino,puente,61,3.501,1
+2022,termino,provias,61,3.501,1
+2022,termino,pasco,56,3.214,1
+2022,termino,region,173,3.152,3
+2022,termino,callao,96,3.137,2
+2022,termino,lambayeque,54,3.099,1
+2022,termino,provincial,94,3.072,2
+2022,termino,localidad,52,2.985,1
+2022,termino,centro,90,2.941,2
+2022,termino,madre,83,2.712,2
+2022,termino,salud,145,2.641,3
+2022,termino,santa,75,2.451,2
+2023,termino,cant,36,3.238,1
+2023,termino,elaborada,15,0.768,2
+2023,termino,monitor,24,0.685,3
+2023,termino,nuevas,24,0.685,3
+2023,termino,manantay,6,0.54,1
+2023,termino,ucayali,10,0.512,2
+2023,termino,organismos,37,0.461,4
+2023,termino,padre,9,0.461,2
+2023,termino,abad,9,0.461,2
+2023,termino,desastres,16,0.457,3
+2023,termino,autoridad,16,0.457,3
+2023,termino,concesiones,16,0.457,3
+2023,termino,permiso,15,0.428,3
+2023,termino,reactivaron,15,0.428,3
+2023,termino,anexo,34,0.424,4
+2023,termino,arcc,8,0.41,2
+2023,termino,gestionado,8,0.41,2
+2023,termino,asesoria,8,0.41,2
+2023,termino,areas,8,0.41,2
+2023,termino,tecnicas,8,0.41,2
+2023,termino,tenemos,8,0.41,2
+2023,termino,reconstruccio,7,0.358,2
+2023,termino,pircc,7,0.358,2
+2023,termino,cumpla,7,0.358,2
+2023,termino,encuentre,7,0.358,2
+2023,termino,quedan,7,0.358,2
+2023,termino,excluidos,7,0.358,2
+2023,termino,algun,7,0.358,2
+2023,termino,licencia,7,0.358,2
+2023,termino,entrega,7,0.358,2
+2023,termino,definitiva,7,0.358,2
+2023,termino,limitacion,7,0.358,2
+2023,termino,juridicamente,7,0.358,2
+2023,termino,inviable,7,0.358,2
+2023,termino,continuar,7,0.358,2
+2023,termino,paralizaron,12,0.343,3
+2023,termino,municipalidad,6,0.307,2
+2023,termino,convenios,24,0.299,4
+2023,termino,siendo,24,0.299,4
+2023,termino,setiembre,24,0.299,4
+2024,termino,reactivaron,23,1.23,3
+2024,termino,nuevas,21,1.123,3
+2024,termino,paralizaron,18,0.963,3
+2024,termino,marzo,34,0.795,4
+2024,termino,extiende,4,0.674,1
+2024,termino,numeral,4,0.674,1
+2024,termino,indicando,4,0.674,1
+2024,termino,excepcionalmente,4,0.674,1
+2024,termino,ciertos,4,0.674,1
+2024,termino,adicionales,4,0.674,1
+2024,termino,incluyen,4,0.674,1
+2024,termino,presupuestaria,4,0.674,1
+2024,termino,dirigidas,4,0.674,1
+2024,termino,setiembre,28,0.654,4
+2024,termino,intervencione,12,0.642,3
+2024,termino,desastres,12,0.642,3
+2024,termino,situacional,12,0.642,3
+2024,termino,variacion,12,0.642,3
+2024,termino,comparativo,11,0.588,3
+2024,termino,banco,24,0.561,4
+2024,termino,permanecen,24,0.561,4
+2024,termino,cumplan,10,0.535,3
+2024,termino,involucran,10,0.535,3
+2024,termino,resumen,9,0.481,3
+2024,termino,organismos,19,0.444,4
+2024,termino,contratacione,8,0.428,3
+2024,termino,anexo,18,0.421,4
+2024,termino,reconstruccio,4,0.384,2
+2024,termino,pircc,4,0.384,2
+2024,termino,cumpla,4,0.384,2
+2024,termino,encuentre,4,0.384,2
+2024,termino,legislativo,4,0.384,2
+2024,termino,reactivar,4,0.384,2
+2024,termino,momento,4,0.384,2
+2024,termino,aprobacion,4,0.384,2
+2024,termino,riego,4,0.384,2
+2024,termino,seguridad,4,0.384,2
+2024,termino,prevencion,4,0.384,2
+2024,termino,considera,4,0.384,2
+2024,termino,dado,4,0.384,2
+2025,termino,formato,12,1.313,2
+2025,termino,banco,34,0.906,4
+2025,termino,situacional,12,0.732,3
+2025,termino,avanzada,11,0.671,3
+2025,termino,departamentos,6,0.656,2
+2025,termino,concentran,6,0.656,2
+2025,termino,organismo,6,0.656,2
+2025,termino,presupuesto,6,0.656,2
+2025,termino,beneficiadas,3,0.577,1
+2025,termino,garantice,3,0.577,1
+2025,termino,sociedad,3,0.577,1
+2025,termino,contratacione,8,0.488,3
+2025,termino,intervencione,8,0.488,3
+2025,termino,orme,4,0.438,2
+2025,termino,formatos,4,0.438,2
+2025,termino,previsibles,4,0.438,2
+2025,termino,impidan,4,0.438,2
+2025,termino,continuidad,4,0.438,2
+2025,termino,funcionamiento,4,0.438,2
+2025,termino,considera,4,0.438,2
+2025,termino,dado,4,0.438,2
+2025,termino,inspector,4,0.438,2
+2025,termino,cuaderno,4,0.438,2
+2025,termino,organismos,16,0.426,4
+2025,termino,anexo,15,0.4,4
+2025,termino,wilfredo,3,0.328,2
+2025,termino,claudio,3,0.328,2
+2025,termino,cardenas,3,0.328,2
+2025,termino,cortez,3,0.328,2
+2025,termino,provenientes,3,0.328,2
+2025,termino,registrada,3,0.328,2
+2025,termino,puestos,3,0.328,2
+2025,termino,asignado,3,0.328,2
+2025,termino,siendo,12,0.32,4
+2025,termino,convenios,10,0.266,4
+2025,termino,analoga,4,0.244,3
+2025,termino,infraestructur,4,0.244,3
+2025,termino,incluyendo,4,0.244,3
+2025,termino,obtenido,4,0.244,3
+2025,termino,cumplan,4,0.244,3
+2026,termino,indirecta,8,3.276,1
+2026,termino,actualizados,4,1.638,1
+2026,termino,extranjero,4,1.638,1
+2026,termino,complejos,4,1.638,1
+2026,termino,licitacion,4,1.638,1
+2026,termino,convencionales,4,1.638,1
+2026,termino,presupuestales,4,1.638,1
+2026,termino,departamentos,7,1.632,2
+2026,termino,presupuesto,7,1.632,2
+2026,termino,banco,26,1.476,4
+2026,termino,funcionamiento,6,1.399,2
+2026,termino,formato,6,1.399,2
+2026,termino,snpmgi,3,1.229,1
+2026,termino,decir,3,1.229,1
+2026,termino,rige,3,1.229,1
+2026,termino,estandares,3,1.229,1
+2026,termino,objeto,3,1.229,1
+2026,termino,avanzada,8,1.04,3
+2026,termino,edificacion,4,0.933,2
+2026,termino,formatos,4,0.933,2
+2026,termino,concentran,4,0.933,2
+2026,termino,minimo,3,0.699,2
+2026,termino,provenientes,3,0.699,2
+2026,termino,asignado,3,0.699,2
+2026,termino,anexo,12,0.681,4
+2026,termino,situacional,4,0.52,3
+2026,termino,ancash,3,0.39,3
+2026,termino,gmpl,4,0.227,4
+2026,termino,disposiciones,4,0.227,4
+2026,termino,consideradas,4,0.227,4
+2026,termino,resuelto,3,0.17,4
+2026,termino,nulo,3,0.17,4
+2026,termino,marzo,3,0.17,4
+2026,termino,cusco,3,0.17,4
+2026,termino,puno,3,0.17,4
+2026,termino,consecuencia,3,0.17,4
+2026,termino,lima,4,0.0,5
+2026,termino,generalidades,4,0.0,5
+2026,termino,marco,18,0.0,5
+2026,termino,normativo,13,0.0,5
+2022,par,municipalidad local,118,8.022,1
+2022,par,actualizado gobierno,104,7.07,1
+2022,par,gobierno declarada,101,6.866,1
+2022,par,agua potable,149,5.767,2
+2022,par,erpeoprutbel idcea,73,4.963,1
+2022,par,gobierno incumplimiento,72,4.895,1
+2022,par,ampliacion mejoramiento,65,4.419,1
+2022,par,madre dios,63,4.283,1
+2022,par,proyecto especial,60,4.079,1
+2022,par,distrital gobierno,59,4.011,1
+2022,par,regional incumplimiento,49,3.331,1
+2022,par,costo causal,49,3.331,1
+2022,par,actualizado declaracion,48,3.263,1
+2022,par,declaracion gobierno,48,3.263,1
+2022,par,camino vecinal,47,3.195,1
+2022,par,incumplimiento contrato,82,3.174,2
+2022,par,eventos climaticos,43,2.923,1
+2022,par,potable alcantarillado,75,2.903,2
+2022,par,mejoramiento servicios,71,2.748,2
+2022,par,municipalidad distrital,66,2.554,2
+2022,par,mejoramiento ampliacion,115,2.481,3
+2022,par,mejoramiento municipalidad,36,2.447,1
+2022,par,gobierno falta,36,2.447,1
+2022,par,mejoramiento servicio,63,2.438,2
+2022,par,mejoramiento carretera,32,2.175,1
+2022,par,regional falta,32,2.175,1
+2022,par,municipalidad provincial,31,2.107,1
+2022,par,provincial gobierno,31,2.107,1
+2022,par,local incumplimiento,30,2.039,1
+2022,par,invierte ministerio,92,1.985,3
+2022,par,finanzas infobras,92,1.985,3
+2022,par,servicios salud,51,1.974,2
+2022,par,sistemas agua,28,1.903,1
+2022,par,mariscal nieto,28,1.903,1
+2022,par,servicio agua,48,1.858,2
+2022,par,mejoramiento camino,26,1.767,1
+2022,par,trimestre descripcion,25,1.7,1
+2022,par,gobierno eventos,25,1.7,1
+2022,par,setiembre descripcion,25,1.7,1
+2022,par,diciembre costo,25,1.7,1
+2023,par,costo saldo,25,1.706,2
+2023,par,modalidad costo,16,1.092,2
+2023,par,actualizado ejecucion,16,1.092,2
+2023,par,ejecucion actualizado,16,1.092,2
+2023,par,fisico costo,16,1.092,2
+2023,par,saldo tipo,16,1.092,2
+2023,par,actualizado cant,9,1.078,1
+2023,par,departamento anexo,8,0.959,1
+2023,par,cant transportes,8,0.959,1
+2023,par,impuesto concesiones,8,0.959,1
+2023,par,inversion fisico,8,0.959,1
+2023,par,sesnc comprende,8,0.959,1
+2023,par,recreacionales continuacion,8,0.959,1
+2023,par,sesnc otra,8,0.959,1
+2023,par,reglamento infraestructura,7,0.839,1
+2023,par,contratacion reglamento,7,0.839,1
+2023,par,nucleos ejecutar,7,0.839,1
+2023,par,intervenciones rehabilitacion,7,0.839,1
+2023,par,gobierno reposicion,7,0.839,1
+2023,par,frente reconstruccion,7,0.839,1
+2023,par,desastres construccion,7,0.839,1
+2023,par,dispone infraestructura,7,0.839,1
+2023,par,creacion publico,7,0.839,1
+2023,par,tecnico falta,7,0.839,1
+2023,par,contractual respecto,7,0.839,1
+2023,par,costo modalidad,11,0.75,2
+2023,par,contrato discrepancias,6,0.719,1
+2023,par,constructora contrataciones,6,0.719,1
+2023,par,mano intervenciones,6,0.719,1
+2023,par,intervenciones gestionar,6,0.719,1
+2023,par,servicios infraestructura,6,0.719,1
+2023,par,infraestructura proyecto,6,0.719,1
+2023,par,basica seleccionado,6,0.719,1
+2023,par,seleccionados productiva,6,0.719,1
+2023,par,productiva poblacion,6,0.719,1
+2023,par,necesidad natural,6,0.719,1
+2023,par,natural ejecutar,6,0.719,1
+2023,par,juridica nucleos,6,0.719,1
+2023,par,nucleos infraestructura,6,0.719,1
+2023,par,ejecutores basica,6,0.719,1
+2024,par,actualizado permanecen,9,1.157,2
+2024,par,monto millones,16,1.147,3
+2024,par,saldo sectores,5,1.129,1
+2024,par,traves decreto,4,0.904,1
+2024,par,legislativo extiende,4,0.904,1
+2024,par,diciembre plazo,4,0.904,1
+2024,par,establecido numeral,4,0.904,1
+2024,par,numeral anexo,4,0.904,1
+2024,par,anexo indicando,4,0.904,1
+2024,par,indicando excepcionalmente,4,0.904,1
+2024,par,ambito aplicacion,4,0.904,1
+2024,par,cumplan condiciones,4,0.904,1
+2024,par,fisico siempre,4,0.904,1
+2024,par,cumplan ciertos,4,0.904,1
+2024,par,ciertos requisitos,4,0.904,1
+2024,par,requisitos adicionales,4,0.904,1
+2024,par,requisitos incluyen,4,0.904,1
+2024,par,incluyen disponibilidad,4,0.904,1
+2024,par,disponibilidad presupuestaria,4,0.904,1
+2024,par,presupuestaria momento,4,0.904,1
+2024,par,momento aprobacion,4,0.904,1
+2024,par,aprobacion lista,4,0.904,1
+2024,par,encuentren dirigidas,4,0.904,1
+2024,par,dirigidas servicios,4,0.904,1
+2024,par,salud saneamiento,4,0.904,1
+2024,par,saneamiento riego,4,0.904,1
+2024,par,riego agricultura,4,0.904,1
+2024,par,agricultura educacion,4,0.904,1
+2024,par,educacion transportes,4,0.904,1
+2024,par,transportes seguridad,4,0.904,1
+2024,par,seguridad prevencion,4,0.904,1
+2024,par,prevencion desastres,4,0.904,1
+2024,par,desastres respecto,4,0.904,1
+2024,par,registradas inventario,12,0.86,3
+2024,par,analisis comparativo,11,0.789,3
+2024,par,costo saldo,6,0.772,2
+2024,par,banco inversiones,24,0.752,4
+2024,par,involucran monto,10,0.717,3
+2024,par,condiciones avance,3,0.678,1
+2024,par,situacional inversion,3,0.678,1
+2025,par,organismo internacional,6,1.535,1
+2025,par,banco inversiones,34,1.206,4
+2025,par,pago contratacione,4,1.023,1
+2025,par,contratacione abastece,4,1.023,1
+2025,par,infraestructura logrados,4,1.023,1
+2025,par,reglamento edificaciones,4,1.023,1
+2025,par,edificaciones traslada,4,1.023,1
+2025,par,riesgos publicada,4,1.023,1
+2025,par,publicada estructuras,4,1.023,1
+2025,par,estructuras proceso,4,1.023,1
+2025,par,junio excavacion,4,1.023,1
+2025,par,riesgos perforaciones,4,1.023,1
+2025,par,perforaciones diseno,4,1.023,1
+2025,par,ocurrencia carreteras,4,1.023,1
+2025,par,puentes necesidades,4,1.023,1
+2025,par,cambios buscando,4,1.023,1
+2025,par,buscando proyecto,4,1.023,1
+2025,par,calidad objetivos,4,1.023,1
+2025,par,impacto finalidad,4,1.023,1
+2025,par,finalidad politicas,4,1.023,1
+2025,par,componentes ejecuta,4,1.023,1
+2025,par,procesos contratacione,4,1.023,1
+2025,par,contratacione estado,4,1.023,1
+2025,par,propiciando reglamento,4,1.023,1
+2025,par,reglamento convenios,4,1.023,1
+2025,par,oportunidades publicada,4,1.023,1
+2025,par,publicada organismos,4,1.023,1
+2025,par,junio internacionales,4,1.023,1
+2025,par,encargos documentos,4,1.023,1
+2025,par,aplicacion quienes,4,1.023,1
+2025,par,manuales procesos,4,1.023,1
+2025,par,cargo realizar,4,1.023,1
+2025,par,realizar implica,4,1.023,1
+2025,par,contiene siguientes,4,1.023,1
+2025,par,siguientes formatos,4,1.023,1
+2025,par,formatos reporte,4,1.023,1
+2025,par,nulo causas,4,1.023,1
+2025,par,actualizado costo,12,0.974,3
+2025,par,consulta avanzada,11,0.893,3
+2025,par,avanzada inversiones,11,0.893,3
+2026,par,costo inversion,13,7.012,1
+2026,par,rangos costo,6,3.236,1
+2026,par,inversion actualizados,4,2.157,1
+2026,par,peruano contrata,4,2.157,1
+2026,par,directamente otro,4,2.157,1
+2026,par,otro gobierno,4,2.157,1
+2026,par,servicios gestionar,4,2.157,1
+2026,par,proyectos complejos,4,2.157,1
+2026,par,procesos licitacion,4,2.157,1
+2026,par,natural poblacion,4,2.157,1
+2026,par,edificacion infraestructura,4,2.157,1
+2026,par,banco inversiones,26,1.944,4
+2026,par,efectuados departamentos,3,1.618,1
+2026,par,inversiones snpmgi,3,1.618,1
+2026,par,participacion capital,3,1.618,1
+2026,par,capital privado,3,1.618,1
+2026,par,especifica administracion,3,1.618,1
+2026,par,cusco puno,3,1.618,1
+2026,par,puno ancash,3,1.618,1
+2026,par,ejecutar avance,3,1.618,1
+2026,par,presupuesto institucional,5,1.535,2
+2026,par,consulta avanzada,8,1.37,3
+2026,par,avanzada inversiones,8,1.37,3
+2026,par,inversiones banco,8,1.37,3
+2026,par,infobras banco,8,1.37,3
+2026,par,ejecucion inversiones,4,1.228,2
+2026,par,componente edificacion,4,1.228,2
+2026,par,actualizado costo,6,1.027,3
+2026,par,falta ejecutar,3,0.921,2
+2026,par,ejecutar saldo,3,0.921,2
+2026,par,saldo millones,3,0.921,2
+2026,par,departamentos concentran,3,0.921,2
+2026,par,provenientes reconstruccion,3,0.921,2
+2026,par,institucional modificado,3,0.921,2
+2026,par,monto asignado,3,0.921,2
+2026,par,ejecucion contrata,4,0.685,3
+2026,par,social basica,4,0.685,3
+2026,par,actualizado administracion,4,0.685,3
+2026,par,actualizado saldo,9,0.673,4
+2026,par,anexo base,8,0.598,4

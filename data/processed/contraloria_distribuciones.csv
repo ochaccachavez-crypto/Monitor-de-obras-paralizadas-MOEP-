@@ -1,0 +1,416 @@
+﻿anio,fecha_corte,dimension,categoria,obras_paralizadas,pct_obras,costo_actualizado_soles,pct_costo,saldo_inversion_soles,pct_saldo,fuente_pdf,pagina,tabla_n
+2022,2022-06-30,nivel_gobierno,GOBIERNO NACIONAL,368,,9893971783.0,,5066931041.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,12,3
+2022,2022-06-30,nivel_gobierno,GOBIERNO REGIONAL,274,,12854410978.0,,6784819519.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,12,3
+2022,2022-06-30,nivel_gobierno,GOBIERNO LOCAL,1704,,6983825072.0,,2801946307.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,12,3
+2022,2022-06-30,rango_costo,HASTA 1 MILLON,946,,408258969.0,,194409594.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,6
+2022,2022-06-30,rango_costo,1 - 3 MILLONES,453,,841844824.0,,387454977.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,6
+2022,2022-06-30,rango_costo,3 - 10 MILLONES,600,,3412931821.0,,1201015225.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,6
+2022,2022-06-30,rango_costo,10 A 100 MILLONES,308,,8053129377.0,,3184873310.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,6
+2022,2022-06-30,rango_costo,100 A 1000 MILLONES,35,,9463389332.0,,4499368716.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,6
+2022,2022-06-30,rango_costo,DE MAS DE 1000 MILLONES,4,,7552653510.0,,5186575044.0,,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,6
+2022,2022-06-30,rango_avance_fisico,90 - 100,262,11.1,2654905611.0,,503609153.0,3.4,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,80 - 90,311,13.2,1926592519.0,,470319938.0,3.2,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,70 - 80,271,11.6,3099704649.0,,967058889.0,6.6,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,60 - 70,298,12.7,3959840971.0,,1992422166.0,13.6,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,50 - 60,271,11.6,3122816955.0,,1228492084.0,8.4,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,40 - 50,213,9.1,1486947204.0,,588399952.0,4.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,30 - 40,183,7.8,1761762526.0,,875806775.0,6.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,20 - 30,185,7.9,5928331383.0,,4303351212.0,29.4,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,10 - 20,169,7.2,2361797029.0,,1481786099.0,10.1,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-06-30,rango_avance_fisico,0 - 10,183,7.8,3429508988.0,,2242450598.0,15.3,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,nivel_gobierno,GOBIERNO NACIONAL,435,,26254557262.0,,21757759264.0,,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,12,3
+2022,2022-09-30,nivel_gobierno,GOBIERNO REGIONAL,243,,9083777300.0,,4611161777.0,,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,12,3
+2022,2022-09-30,nivel_gobierno,GOBIERNO LOCAL,1624,,6528819377.0,,1674426911.0,,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,12,3
+2022,2022-09-30,rango_costo,HASTA 1 MILLON,954,41.5,456678994.0,1.0,37296113.0,0.1,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,6
+2022,2022-09-30,rango_costo,1 - 3 MILLONES,466,20.2,846911080.0,2.0,132815702.0,0.5,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,6
+2022,2022-09-30,rango_costo,3 - 10 MILLONES,551,23.9,3077330057.0,7.4,582101972.0,2.1,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,6
+2022,2022-09-30,rango_costo,10 A 100 MILLONES,288,12.5,6972089680.0,16.7,2627222653.0,9.4,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,6
+2022,2022-09-30,rango_costo,100 A 1000 MILLONES,39,1.7,7861455270.0,18.8,3001853222.0,10.7,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,6
+2022,2022-09-30,rango_costo,DE MAS DE 1000 MILLONES,4,0.2,22652688859.0,54.1,21662058290.0,77.2,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,6
+2022,2022-09-30,rango_avance_fisico,90 - 100,294,12.8,2784078714.0,6.6,1136138835.0,4.1,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,80 - 90,297,12.9,1718947147.0,4.1,574127480.0,2.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,70 - 80,248,10.8,1493855128.0,3.6,335630081.0,1.2,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,60 - 70,290,12.6,18405650054.0,44.0,17500348295.0,62.4,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,50 - 60,245,10.6,2801330566.0,6.7,1445070533.0,5.2,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,40 - 50,205,8.9,1417069481.0,3.4,405078155.0,1.4,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,30 - 40,197,8.6,2483108636.0,5.9,942874695.0,3.4,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,20 - 30,160,7.0,4430430054.0,10.6,3418236215.0,12.2,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,10 - 20,147,6.4,1841203248.0,4.4,378510248.0,1.3,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-09-30,rango_avance_fisico,0 - 10,219,9.5,4491480911.0,10.7,1907333415.0,6.8,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,nivel_gobierno,GOBIERNO NACIONAL,351,,10703506847.0,,5924804183.0,,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,12,3
+2022,2022-12-31,nivel_gobierno,GOBIERNO REGIONAL,193,,5135354804.0,,2129591975.0,,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,12,3
+2022,2022-12-31,nivel_gobierno,GOBIERNO LOCAL,1335,,5756180671.0,,2319887036.0,,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,12,3
+2022,2022-12-31,rango_costo,HASTA 1 MILLON,771,41.0,339574566.0,1.6,126013467.0,1.2,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,6
+2022,2022-12-31,rango_costo,1 - 3 MILLONES,378,20.1,690783358.0,3.2,258292693.0,2.5,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,6
+2022,2022-12-31,rango_costo,3 - 10 MILLONES,452,24.1,2501589684.0,11.6,826551168.0,8.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,6
+2022,2022-12-31,rango_costo,10 A 100 MILLONES,241,12.8,5635740684.0,26.1,1950147189.0,18.8,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,6
+2022,2022-12-31,rango_costo,100 A 1000 MILLONES,35,1.9,8229870816.0,38.1,4063378248.0,39.2,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,6
+2022,2022-12-31,rango_costo,DE MAS DE 1000 MILLONES,2,0.1,4197483214.0,19.4,3149900428.0,30.4,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,6
+2022,2022-12-31,rango_avance_fisico,90 - 100,230,12.2,2307713293.0,10.7,420806827.0,4.1,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,80 - 90,240,12.8,1412999112.0,6.5,299195456.0,2.9,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,70 - 80,211,11.2,5128714815.0,23.7,2700155890.0,26.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,60 - 70,241,12.8,1959146096.0,9.1,699423476.0,6.7,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,50 - 60,198,10.5,1212757903.0,5.6,382243330.0,3.7,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,40 - 50,176,9.4,1538616737.0,7.1,549686418.0,5.3,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,30 - 40,156,8.3,1644343165.0,7.6,799756195.0,7.7,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,20 - 30,135,7.2,1275117355.0,5.9,858484874.0,8.3,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,10 - 20,130,6.9,1643852656.0,7.6,1183330647.0,11.4,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2022,2022-12-31,rango_avance_fisico,0 - 10,162,8.6,3471781191.0,16.1,2481200081.0,23.9,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,14,7
+2023,2023-02-28,nivel_gobierno,GOBIERNO NACIONAL,338,19.9,11878404760.0,52.1,7010846620.0,61.4,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,10,1
+2023,2023-02-28,nivel_gobierno,GOBIERNO REGIONAL,183,10.4,5727693637.0,25.1,2175997749.0,19.1,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,10,1
+2023,2023-02-28,nivel_gobierno,GOBIERNO LOCAL,1230,69.7,5171996713.0,22.7,2234605249.0,19.6,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,10,1
+2023,2023-02-28,rango_costo,HASTA 1 MILLON,708,40.4,311612876.0,1.4,178523619.0,1.6,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,1
+2023,2023-02-28,rango_costo,1 - 3 MILLONES,347,19.8,628400407.0,2.8,322187430.0,2.8,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,1
+2023,2023-02-28,rango_costo,3 - 10 MILLONES,436,24.9,2419821376.0,10.6,976949332.0,8.6,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,1
+2023,2023-02-28,rango_costo,10 A 100 MILLONES,222,12.7,5219364287.0,22.9,2081607781.0,18.2,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,1
+2023,2023-02-28,rango_costo,100 A 1000 MILLONES,36,2.1,10001412950.0,43.9,4712281027.0,41.3,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,1
+2023,2023-02-28,rango_costo,DE MAS DE 1000 MILLONES,2,0.1,4197483214.0,18.4,3149900428.0,27.6,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,1
+2023,2023-02-28,rango_avance_fisico,90 - 100,214,12.2,2182787165.0,9.6,498763901.0,4.4,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,80 - 90,219,12.5,1378453260.0,6.1,391861820.0,3.4,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,70 - 80,197,11.3,5063750218.0,22.2,2708061766.0,23.7,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,60 - 70,219,12.5,1880941368.0,8.3,801949272.0,7.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,50 - 60,188,10.7,1058697737.0,4.6,357279604.0,3.1,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,40 - 50,160,9.1,1456833325.0,6.4,761883832.0,6.7,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,30 - 40,149,8.5,2359003452.0,10.4,1250819344.0,11.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,20 - 30,126,7.2,2229120548.0,9.8,1261254872.0,11.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,10 - 20,118,6.7,1511651477.0,6.6,677846054.0,5.9,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-02-28,rango_avance_fisico,0 - 10,161,9.2,3656856560.0,16.1,2711729152.0,23.7,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,nivel_gobierno,GOBIERNO NACIONAL,256,15.5,9277968805.0,41.0,4455090954.0,39.5,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,11,1
+2023,2023-05-31,nivel_gobierno,GOBIERNO REGIONAL,171,10.8,8102137645.0,35.8,4557551781.0,40.5,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,11,1
+2023,2023-05-31,nivel_gobierno,GOBIERNO LOCAL,1182,73.7,5268843451.0,23.3,2251921254.0,20.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,11,1
+2023,2023-05-31,rango_costo,HASTA 1 MILLON,658,40.9,304030989.0,1.3,153904290.0,1.4,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,rango_costo,1 - 3 MILLONES,317,19.7,560203251.0,2.5,263474551.0,2.3,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,rango_costo,3 - 10 MILLONES,398,24.7,2268740792.0,10.1,896869701.0,8.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,rango_costo,10 A 100 MILLONES,197,12.2,4854837595.0,21.4,1670959531.0,14.8,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,rango_costo,100 A 1000 MILLONES,36,2.2,9100950512.0,40.2,4620508171.0,41.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,rango_costo,DE MAS DE 1000 MILLONES,3,0.2,5560186762.0,24.5,3658847746.0,32.5,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,4
+2023,2023-05-31,rango_avance_fisico,90 - 100,178,11.1,1720942669.0,7.6,342155833.0,3.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,80 - 90,193,12.0,1200173648.0,5.3,350206773.0,3.1,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,70 - 80,170,10.6,2016231823.0,8.9,533018838.0,4.7,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,60 - 70,201,12.5,1867334912.0,8.2,657156169.0,5.8,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,50 - 60,185,11.5,2624388692.0,11.6,893060494.0,7.9,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,40 - 50,151,9.4,1054600989.0,4.7,434594936.0,3.9,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,30 - 40,127,7.9,2519700099.0,11.1,1269815014.0,11.3,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,20 - 30,131,8.1,4758761663.0,21.0,3256115023.0,28.9,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,10 - 20,119,7.4,1308127619.0,5.8,783085159.0,7.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-05-31,rango_avance_fisico,0 - 10,154,9.6,3578687787.0,15.8,2745355751.0,24.4,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,nivel_gobierno,GOBIERNO NACIONAL,284,14.6,9627091961.0,40.0,4536855959.0,38.5,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,11,1
+2023,2023-06-30,nivel_gobierno,GOBIERNO REGIONAL,198,11.2,8472001164.0,35.2,4669309387.0,39.6,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,11,1
+2023,2023-06-30,nivel_gobierno,GOBIERNO LOCAL,1344,74.1,5991268684.0,24.9,2570668485.0,21.8,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,11,1
+2023,2023-06-30,rango_costo,HASTA 1 MILLON,751,41.1,333902877.0,1.4,145001126.0,1.2,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,4
+2023,2023-06-30,rango_costo,1 - 3 MILLONES,359,19.7,633621968.0,2.6,267572112.0,2.3,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,4
+2023,2023-06-30,rango_costo,3 - 10 MILLONES,457,25.0,2662271034.0,11.1,974879882.0,8.3,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,4
+2023,2023-06-30,rango_costo,10 A 100 MILLONES,219,12.0,5534319511.0,23.0,1949327607.0,16.6,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,4
+2023,2023-06-30,rango_costo,100 A 1000 MILLONES,37,2.0,9366059658.0,38.9,4781205359.0,40.6,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,4
+2023,2023-06-30,rango_costo,DE MAS DE 1000 MILLONES,3,0.2,5560186762.0,23.1,3658847746.0,31.1,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,4
+2023,2023-06-30,rango_avance_fisico,90 - 100,201,11.0,1805069388.0,7.5,358051048.0,3.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,80 - 90,218,11.9,1387274199.0,5.8,363114185.0,3.1,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,70 - 80,187,10.2,2086434293.0,8.7,527289470.0,4.5,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,60 - 70,216,11.8,1880282986.0,7.8,633764530.0,5.4,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,50 - 60,202,11.1,2695251870.0,11.2,893066790.0,7.6,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,40 - 50,180,9.9,1386453439.0,5.8,542203746.0,4.6,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,30 - 40,150,8.2,2624861153.0,10.9,1373051846.0,11.7,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,20 - 30,150,8.2,5269157922.0,21.9,3606491602.0,30.6,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,10 - 20,139,7.6,1447139122.0,6.0,811634353.0,6.9,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-06-30,rango_avance_fisico,0 - 10,183,10.0,3508437437.0,14.6,2668166261.0,22.7,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,nivel_gobierno,GOBIERNO NACIONAL,315,15.3,9710597805.0,38.2,4654656276.0,36.7,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,11,1
+2023,2023-07-31,nivel_gobierno,GOBIERNO REGIONAL,237,11.5,9222867713.0,36.3,5038912978.0,39.7,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,11,1
+2023,2023-07-31,nivel_gobierno,GOBIERNO LOCAL,1503,73.2,6488268390.0,25.5,2987559720.0,23.6,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,11,1
+2023,2023-07-31,rango_costo,HASTA 1 MILLON,840,40.9,381587861.0,1.4,199893444.0,1.6,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_costo,1 - 3 MILLONES,411,20.0,730823082.0,2.9,346888207.0,2.7,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_costo,3 - 10 MILLONES,501,24.4,2913077523.0,11.5,1181183766.0,9.3,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_costo,10 A 100 MILLONES,260,12.7,6151669394.0,24.2,2384240602.0,18.8,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_costo,100 A 200 MILLONES,22,1.0,2950633381.0,11.6,1601808010.0,12.6,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_costo,200 A 1000 MILLONES,18,0.9,6733755905.0,26.5,3308267199.0,26.1,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_costo,DE MAS DE 1000 MILLONES,3,0.1,5560186762.0,21.9,3658847746.0,28.9,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,4
+2023,2023-07-31,rango_avance_fisico,90 - 100,206,10.0,1643818762.0,6.5,371952102.0,2.9,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,80 - 90,246,12.0,1699210011.0,6.7,431597242.0,3.4,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,70 - 80,213,10.4,2182919796.0,8.6,600312059.0,4.7,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,60 - 70,238,11.6,1974567761.0,7.8,682810691.0,5.4,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,50 - 60,226,11.0,2706990097.0,10.6,967853359.0,7.7,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,40 - 50,199,9.7,1459451352.0,5.7,625769155.0,4.9,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,30 - 40,180,8.6,2901809187.0,11.4,1501620999.0,11.8,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,20 - 30,174,8.5,5360047581.0,21.1,3672265432.0,29.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,10 - 20,170,8.3,1638872439.0,6.4,992252522.0,7.8,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-07-31,rango_avance_fisico,0 - 10,203,9.9,3854046922.0,15.2,2834695413.0,22.4,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,nivel_gobierno,G. NACIONAL,330,16.4,9475683255.0,35.1,4579048922.0,37.3,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,11,1
+2023,2023-08-31,nivel_gobierno,G. REGIONAL,224,11.2,11411137520.0,42.3,5033503968.0,40.9,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,11,1
+2023,2023-08-31,nivel_gobierno,G. LOCAL,1456,72.4,6097685666.0,22.6,2679739572.0,21.8,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,11,1
+2023,2023-08-31,rango_costo,HASTA 1 MILLON,831,41.3,368404579.0,1.4,170731223.0,1.4,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_costo,1 - 3 MILLONES,400,19.9,717581174.0,2.7,330244724.0,2.7,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_costo,3 - 10 MILLONES,488,24.3,2768497096.0,10.3,1139986010.0,9.3,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_costo,10 A 100 MILLONES,250,12.4,5953809715.0,22.1,2161454705.0,17.6,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_costo,100 A 200 MILLONES,20,1.0,2644896285.0,9.8,1415798317.0,11.5,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_costo,200 A 1000 MILLONES,17,0.9,6514309341.0,24.0,3405879644.0,27.7,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_costo,DE MAS DE 1000 MILLONES,4,0.2,8017008251.0,29.7,3668197839.0,29.8,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,5
+2023,2023-08-31,rango_avance_fisico,90 - 100,196,9.8,1573235920.0,5.8,256156351.0,2.1,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,80 - 90,230,11.4,1658380297.0,6.1,419352638.0,3.4,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,70 - 80,208,10.3,2141214037.0,7.9,521231708.0,4.2,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,60 - 70,232,11.5,4292956992.0,15.9,657821072.0,5.4,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,50 - 60,223,11.1,2680888611.0,9.9,918353528.0,7.5,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,40 - 50,193,9.6,1421912729.0,5.3,594749398.0,4.8,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,30 - 40,175,8.7,2458012659.0,9.1,1301707492.0,10.6,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,20 - 30,163,8.1,4757350603.0,17.6,3230432930.0,26.3,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,10 - 20,161,8.0,1289027570.0,4.8,870817739.0,7.1,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-08-31,rango_avance_fisico,0 - 10,229,11.4,4711527022.0,17.5,3521669606.0,28.6,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,nivel_gobierno,GOBIERNO NACIONAL,363,17.6,9540168093.0,35.2,5204801134.0,37.1,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,11,1
+2023,2023-09-30,nivel_gobierno,GOBIERNO REGIONAL,223,10.8,11102897002.0,41.0,6128995869.0,43.7,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,11,1
+2023,2023-09-30,nivel_gobierno,GOBIERNO LOCAL,1480,71.6,6461487471.0,23.8,2688725390.0,19.2,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,11,1
+2023,2023-09-30,rango_costo,HASTA 1 MILLON,858,41.5,376142303.0,1.4,179879450.0,1.3,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_costo,1 - 3 MILLONES,421,20.4,754231619.0,2.8,358273732.0,2.5,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_costo,3 - 10 MILLONES,503,24.3,2860210629.0,10.6,1204923934.0,8.6,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_costo,10 A 100 MILLONES,244,11.8,5888687098.0,21.7,2492934633.0,17.8,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_costo,100 A 200 MILLONES,22,1.1,2920131865.0,10.9,1709324008.0,12.2,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_costo,200 A 1000 MILLONES,14,0.7,6284127036.0,23.2,2813214061.0,20.1,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_costo,DE MAS DE 1000 MILLONES,4,0.2,8021022017.0,29.6,5263972574.0,37.5,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,5
+2023,2023-09-30,rango_avance_fisico,90 - 100,218,10.6,1334060075.0,4.9,224121145.0,1.7,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,80 - 90,287,13.9,1910179029.0,7.0,528273531.0,3.8,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,70 - 80,226,10.9,2144135493.0,7.9,560374647.0,4.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,60 - 70,252,12.2,4645263030.0,17.1,2305176127.0,16.4,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,50 - 60,223,10.9,2803497967.0,10.3,1112564606.0,7.9,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,40 - 50,189,9.1,1404619515.0,5.2,574956830.0,4.1,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,30 - 40,172,8.3,1906531100.0,7.0,981581099.0,7.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,20 - 30,151,7.3,4381810101.0,16.2,3184649541.0,22.7,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,10 - 20,160,7.7,2436159392.0,9.1,1323776036.0,9.4,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-09-30,rango_avance_fisico,0 - 10,188,9.1,4138296864.0,15.3,3227048832.0,23.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,nivel_gobierno,G. NACIONAL,379,17.4,10864893392.0,38.5,6171676960.0,41.8,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,11,1
+2023,2023-10-31,nivel_gobierno,G. REGIONAL,208,9.6,10752113730.0,38.1,5912249672.0,40.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,11,1
+2023,2023-10-31,nivel_gobierno,G. LOCAL,1584,73.0,6582811040.0,23.3,2682505645.0,18.2,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,11,1
+2023,2023-10-31,rango_costo,<= 1 MILLON,961,44.3,408377729.0,1.4,189055760.0,1.3,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_costo,> 1 - 3 MILLONES,440,20.3,791047579.0,2.8,372584004.0,2.5,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_costo,> 3 - 10 MILLONES,509,23.4,2899884632.0,10.3,1172263691.0,7.9,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_costo,> 10 - 100 MILLONES,222,10.2,5699519204.0,20.2,2253318349.0,15.3,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_costo,> 100 - 200 MILLONES,19,0.9,2612481956.0,9.4,1532744941.0,10.4,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_costo,> 200 - 1000 MILLONES,16,0.7,7767485046.0,27.6,3982492957.0,27.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_costo,>1000 MILLONES,4,0.2,8021022017.0,28.4,5263972574.0,35.6,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,4
+2023,2023-10-31,rango_avance_fisico,90 - 100 %,197,9.1,1079986074.0,3.8,200682390.0,1.4,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,80 - 90 %,274,12.6,1801349727.0,6.4,476837086.0,3.2,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,70 - 80 %,216,9.9,2039789292.0,7.2,520618684.0,3.5,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,60 - 70 %,243,11.2,4532800211.0,16.1,2256881294.0,15.3,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,50 - 60 %,261,12.0,2796408404.0,9.9,1105631774.0,7.5,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,40 - 50 %,215,9.9,1477334530.0,5.3,581464701.0,3.9,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,30 - 40 %,199,9.2,1932149324.0,6.9,971198419.0,6.6,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,20 - 30 %,175,8.1,5214388021.0,18.5,3705940264.0,25.1,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,10 - 20 %,180,8.3,3227796292.0,11.4,1978691424.0,13.4,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-10-31,rango_avance_fisico,0 - 10 %,211,9.7,4097816288.0,14.5,2968486241.0,20.1,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,nivel_gobierno,GOBIERNO NACIONAL,361,15.7,9684874871.0,35.9,4938156902.0,35.9,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,11,1
+2023,2023-12-31,nivel_gobierno,GOBIERNO REGIONAL,223,9.7,10142133991.0,37.6,5731366741.0,41.6,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,11,1
+2023,2023-12-31,nivel_gobierno,GOBIERNO LOCAL,1714,74.6,7165190751.0,26.5,3102892725.0,22.5,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,11,1
+2023,2023-12-31,rango_costo,HASTA 1 MILLON,976,42.5,482464375.0,1.8,238310968.0,1.7,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_costo,1 - 3 MILLONES,486,21.2,867680431.0,3.2,416352535.0,3.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_costo,3 - 10 MILLONES,545,23.7,3062211546.0,11.4,1334743540.0,9.7,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_costo,10 A 100 MILLONES,256,11.1,6154977138.0,22.8,2463549479.0,17.9,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_costo,100 A 200 MILLONES,17,0.7,2080975620.0,7.7,949972640.0,6.9,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_costo,200 A 1000 MILLONES,14,0.6,6298992426.0,23.3,3122836882.0,22.7,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_costo,DE MAS DE 1000 MILLONES,4,0.2,8044898076.0,29.8,5246650325.0,38.1,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,5
+2023,2023-12-31,rango_avance_fisico,90 - 100,208,9.1,1341540493.0,5.0,350399078.0,2.5,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,80 - 90,268,11.7,1599609743.0,5.9,459918513.0,3.3,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,70 - 80,260,11.3,2205121729.0,8.2,572134436.0,4.2,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,60 - 70,300,13.1,3664432436.0,13.6,1930771048.0,14.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,50 - 60,267,11.6,2647526363.0,9.8,915713826.0,6.6,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,40 - 50,220,9.6,1549222900.0,5.7,651030172.0,4.7,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,30 - 40,218,9.5,2201235445.0,8.2,1028728651.0,7.5,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,20 - 30,178,7.7,5312539084.0,19.7,3813917918.0,27.7,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,10 - 20,175,7.6,2238348495.0,8.3,1036290365.0,7.5,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2023,2023-12-31,rango_avance_fisico,0 - 10,204,8.9,4232622925.0,15.7,3013512361.0,21.9,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13,1
+2024,2024-03-31,nivel_gobierno,GOBIERNO NACIONAL,342,14.7,11797787426.0,35.5,5290223257.0,32.6,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,11,1
+2024,2024-03-31,nivel_gobierno,GOBIERNO REGIONAL,268,11.5,13021668125.0,39.3,7150222396.0,44.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,11,1
+2024,2024-03-31,nivel_gobierno,GOBIERNO LOCAL,1714,73.8,8347702527.0,25.2,3796968218.0,23.4,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,11,1
+2024,2024-03-31,rango_costo,HASTA 1 MILLON,902,38.8,405010833.0,1.221,184567786.0,1.1,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_costo,1 - 3 MILLONES,481,20.7,869570800.0,2.622,398554520.0,2.5,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_costo,3 - 10 MILLONES,574,24.7,3231566160.0,9.743,1254601760.0,7.7,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_costo,10 A 100 MILLONES,317,13.6,7728743731.0,23.302,2852363716.0,17.6,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_costo,100 A 200 MILLONES,21,0.9,2422967048.0,7.305,963745319.0,5.9,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_costo,200 A 1000 MILLONES,25,1.1,9755424476.0,29.413,4708977692.0,29.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_costo,DE MAS DE 1000 MILLONES,4,0.2,8753875029.0,26.393,5874603080.0,36.2,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,4
+2024,2024-03-31,rango_avance_fisico,90 - 100,212,9.1,2041393745.0,6.2,366288110.0,2.3,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,80 - 90,255,11.0,2277442463.0,6.9,414809667.0,2.6,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,70 - 80,233,10.0,2640256916.0,8.0,797432305.0,4.9,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,60 - 70,283,12.2,4417222530.0,13.3,2131368961.0,13.1,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,50 - 60,262,11.3,2956586678.0,8.9,941061294.0,5.8,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,40 - 50,238,10.2,2466975604.0,7.4,956102953.0,5.9,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,30 - 40,230,9.9,2939749268.0,8.9,1448825122.0,8.9,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,20 - 30,217,9.3,7265941996.0,21.9,4895012104.0,30.1,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,10 - 20,175,7.5,2160850135.0,6.5,1551911842.0,9.6,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-03-31,rango_avance_fisico,0 - 10,219,9.4,4000738743.0,12.1,2734601513.0,16.8,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13,1
+2024,2024-06-30,nivel_gobierno,G. NACIONAL,356,15.8,14337786271.0,39.7,6247483241.0,36.2,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,10,2
+2024,2024-06-30,nivel_gobierno,G. REGIONAL,298,13.2,13638735559.0,37.8,7574013439.0,44.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,10,2
+2024,2024-06-30,nivel_gobierno,G. LOCAL,1602,71.0,8145806057.0,22.6,3406559396.0,19.8,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,10,2
+2024,2024-06-30,rango_costo,< =1 MILLON,816,36.2,372305660.0,1.0,175858681.0,1.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_costo,> 1 - 3 MILLONES,451,20.0,810879323.0,2.2,376064914.0,2.2,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_costo,> 3 - 10 MILLONES,594,26.3,3388102006.0,9.4,1296160790.0,7.5,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_costo,> 10 - 100 MILLONES,334,14.8,9022336909.0,25.0,3439455226.0,20.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_costo,> 100 - 200 MILLONES,31,1.4,3851720878.0,10.7,1491985496.0,8.7,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_costo,> 200 - 1000 MILLONES,26,1.2,9870614767.0,27.3,4506208380.0,26.2,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_costo,> 1000 MILLONES,4,0.1,8806368344.0,24.4,5942322589.0,34.5,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,1
+2024,2024-06-30,rango_avance_fisico,90 - 100 %,223,9.9,3076608676.0,8.5,594932707.0,3.4,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,80 - 90 %,290,12.8,3011221670.0,8.3,742639109.0,4.3,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,70 - 80 %,243,10.8,2560990913.0,7.1,646280263.0,3.8,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,60 - 70 %,291,12.9,4713237832.0,13.0,2140371954.0,12.4,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,50 - 60 %,243,10.8,3012905581.0,8.4,996806491.0,5.8,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,40 - 50 %,211,9.3,2770622081.0,7.7,1067463258.0,6.2,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,30 - 40 %,211,9.3,2737721757.0,7.6,1362920320.0,7.9,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,20 - 30 %,182,8.1,7276105707.0,20.2,4922985247.0,28.6,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,10 - 20 %,170,7.5,2435611292.0,6.7,1564265207.0,9.1,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-06-30,rango_avance_fisico,0 - 10 %,192,8.5,4527302378.0,12.5,3189391518.0,18.5,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,nivel_gobierno,G. NACIONAL,436,16.5,17178925372.0,39.4,7389636945.0,38.5,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,10,2
+2024,2024-09-30,nivel_gobierno,G. REGIONAL,335,12.7,15729538202.0,36.1,7909551426.0,41.2,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,10,2
+2024,2024-09-30,nivel_gobierno,G. LOCAL,1877,70.9,10646852188.0,24.4,3879520536.0,20.2,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,10,2
+2024,2024-09-30,rango_costo,< =1 MILLON,1024,38.7,363221154.0,0.83,543019163.0,2.8,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_costo,> 1 - 3 MILLONES,460,17.4,849141664.0,1.95,324634492.0,1.7,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_costo,> 3 - 10 MILLONES,673,25.4,3909296967.0,8.98,1248707190.0,6.5,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_costo,> 10 - 100 MILLONES,422,15.9,11459427148.0,26.31,3628311270.0,18.9,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_costo,> 100 - 200 MILLONES,34,1.3,4745170851.0,10.89,1915025870.0,10.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_costo,> 200 - 1000 MILLONES,31,1.17,13476691235.0,30.94,5728233095.0,29.9,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_costo,> 1000 MILLONES,4,0.2,8752366743.0,20.09,5790777828.0,30.2,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,1
+2024,2024-09-30,rango_avance_fisico,90 - 100 %,281,10.6,7485999329.0,17.2,3570004630.0,18.6,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,80 - 90 %,337,12.7,3094371934.0,7.1,599287641.0,3.1,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,70 - 80 %,296,11.2,3142197884.0,7.2,839655160.0,4.4,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,60 - 70 %,313,11.8,7020279972.0,16.1,3137559874.0,16.4,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,50 - 60 %,278,10.5,4755872752.0,10.9,1539042003.0,8.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,40 - 50 %,256,9.7,4072662242.0,9.4,1669979901.0,8.7,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,30 - 40 %,245,9.3,4610694812.0,10.6,2043454078.0,10.7,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,20 - 30 %,210,7.9,1615043495.0,3.7,771767007.0,4.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,10 - 20 %,201,7.6,1999216950.0,4.6,1330962138.0,6.9,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,0 - 10 %,221,8.3,5019927737.0,11.5,3212480230.0,16.8,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-09-30,rango_avance_fisico,FILA ROTULADA TOTAL EN EL PDF (NO ES EL TOTAL),10,0.4,739048654.0,1.7,464516244.0,2.4,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,12,3
+2024,2024-12-31,nivel_gobierno,G. NACIONAL,384,15.5,15837305793.0,36.7,7453818253.0,33.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,10,2
+2024,2024-12-31,nivel_gobierno,G. REGIONAL,310,12.5,17482758333.0,40.6,10810464136.0,47.8,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,10,2
+2024,2024-12-31,nivel_gobierno,G. LOCAL,1782,72.0,9798817079.0,22.7,4336803696.0,19.2,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,10,2
+2024,2024-12-31,rango_costo,< =1 MILLON,904,36.5,403929438.0,0.9,180663733.0,0.8,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_costo,> 1 - 3 MILLONES,482,19.5,888539472.0,2.1,390780252.0,1.7,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_costo,> 3 - 10 MILLONES,650,26.2,3746802709.0,8.7,1456871725.0,6.4,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_costo,> 10 - 100 MILLONES,377,15.2,10314929460.0,23.9,4245644293.0,18.8,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_costo,> 100 - 200 MILLONES,32,1.3,4362304624.0,10.1,1999244324.0,8.9,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_costo,> 200 - 1000 MILLONES,27,1.1,12254699670.0,28.4,6198844047.0,27.4,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_costo,> 1000 MILLONES,4,0.2,11147675832.0,25.9,8129037711.0,36.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,1
+2024,2024-12-31,rango_avance_fisico,90 - 100 %,251,10.1,2859935184.0,6.6,566185534.0,2.5,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,80 - 90 %,301,12.2,3195917950.0,7.4,638216144.0,2.8,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,70 - 80 %,255,10.3,3184430524.0,7.4,1079197021.0,4.8,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,60 - 70 %,290,11.7,7891254097.0,18.3,5003887134.0,22.2,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,50 - 60 %,269,10.9,3705616341.0,8.6,1425581689.0,6.3,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,40 - 50 %,239,9.6,2789803829.0,6.5,1200277587.0,5.3,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,30 - 40 %,227,9.2,2957726007.0,6.9,1588824066.0,7.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,20 - 30 %,195,7.9,7879855248.0,18.3,5343989435.0,23.6,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,10 - 20 %,203,8.2,3717626756.0,8.6,2469809836.0,10.9,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2024,2024-12-31,rango_avance_fisico,0 - 10 %,246,9.9,4936715269.0,11.4,3285117639.0,14.6,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,12,2
+2025,2025-03-31,nivel_gobierno,G. NACIONAL,387,15.0,15930268255.0,36.9,7302451393.0,32.4,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,10,2
+2025,2025-03-31,nivel_gobierno,G. REGIONAL,339,13.2,17518846184.0,40.6,10860902492.0,48.3,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,10,2
+2025,2025-03-31,nivel_gobierno,G. LOCAL,1846,71.8,9714252867.0,22.5,4348704215.0,19.3,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,10,2
+2025,2025-03-31,rango_costo,< =1 MILLON,940,36.5,417978374.0,1.0,227361983.0,1.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_costo,> 1 - 3 MILLONES,515,20.0,957487754.0,2.2,414078101.0,1.8,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_costo,> 3 - 10 MILLONES,670,26.1,3832660168.0,8.9,1521337584.0,6.8,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_costo,> 10 - 100 MILLONES,386,15.0,10439913850.0,24.2,4341527314.0,19.3,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_costo,> 100 - 200 MILLONES,32,1.2,4460868723.0,10.3,2085093191.0,9.3,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_costo,> 200 - 1000 MILLONES,25,1.0,11906782606.0,27.6,5793622215.0,25.7,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_costo,> 1000 MILLONES,4,0.2,11147675832.0,25.8,8129037711.0,36.1,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,1
+2025,2025-03-31,rango_avance_fisico,90 - 100 %,251,9.8,2662964818.0,6.2,570359569.0,2.5,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,80 - 90 %,306,11.9,3277470945.0,7.6,684452261.0,3.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,70 - 80 %,266,10.3,3113384375.0,7.2,999025334.0,4.4,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,60 - 70 %,290,11.3,7845903699.0,18.2,5000092919.0,22.2,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,50 - 60 %,290,11.3,3970020977.0,9.2,1599511614.0,7.1,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,40 - 50 %,244,9.5,2611705302.0,6.1,928128080.0,4.2,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,30 - 40 %,241,9.3,2879242189.0,6.6,1504203585.0,6.7,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,20 - 30 %,206,8.0,7886657795.0,18.3,5313833167.0,23.6,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,10 - 20 %,220,8.6,3923949979.0,9.1,2547202332.0,11.4,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-03-31,rango_avance_fisico,0 - 10 %,258,10.0,4992067228.0,11.5,3365249239.0,14.9,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,12,2
+2025,2025-06-30,nivel_gobierno,G. NACIONAL,369,15.2,17252005273.0,38.9,7139935032.0,32.7,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,11,1
+2025,2025-06-30,nivel_gobierno,G. REGIONAL,327,13.5,17339280760.0,39.1,10585384930.0,48.5,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,11,1
+2025,2025-06-30,nivel_gobierno,G. LOCAL,1732,71.3,9706667942.0,21.9,4087458893.0,18.7,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,11,1
+2025,2025-06-30,rango_costo,< =1 MILLON,859,35.4,394883373.0,0.9,169763905.0,0.8,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_costo,> 1 - 3 MILLONES,481,19.8,897410213.0,2.0,365532617.0,1.7,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_costo,> 3 - 10 MILLONES,636,26.2,3632132933.0,8.2,1317753991.0,6.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_costo,> 10 - 100 MILLONES,388,16.0,10255903091.0,23.2,3942006420.0,18.1,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_costo,> 100 - 200 MILLONES,30,1.2,4059113261.0,9.2,1702106704.0,7.8,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_costo,> 200 - 1000 MILLONES,30,1.2,13790691140.0,31.1,6072784009.0,27.8,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_costo,> 1000 MILLONES,4,0.2,11267819965.0,25.4,8242831208.0,37.8,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,3
+2025,2025-06-30,rango_avance_fisico,90 - 100 %,263,10.8,3228159703.0,7.3,454368877.0,2.1,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,80 - 90 %,280,11.5,3248570486.0,7.3,641863474.0,2.9,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,70 - 80 %,240,9.9,3520634465.0,7.9,1188456869.0,5.4,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,60 - 70 %,285,11.7,7548339425.0,17.0,4736713631.0,21.7,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,50 - 60 %,257,10.6,3369245842.0,7.6,1272546031.0,5.8,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,40 - 50 %,235,9.7,3474964137.0,7.8,1291170189.0,5.9,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,30 - 40 %,229,9.4,4065417523.0,9.2,1903973590.0,8.7,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,20 - 30 %,183,7.5,6530488836.0,14.7,4450069602.0,20.4,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,10 - 20 %,187,7.7,2999585657.0,6.8,1905434464.0,8.7,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-06-30,rango_avance_fisico,0 - 10 %,269,11.1,6312547900.0,14.3,3968182127.0,18.2,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,nivel_gobierno,G. NACIONAL,333,15.0,16635518313.0,39.3,6887572051.0,33.2,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,11,1
+2025,2025-09-30,nivel_gobierno,G. REGIONAL,306,13.8,16686087607.0,39.4,10238538497.0,49.4,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,11,1
+2025,2025-09-30,nivel_gobierno,G. LOCAL,1576,71.2,9004025763.0,21.3,3591774131.0,17.3,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,11,1
+2025,2025-09-30,rango_costo,< =1 MILLON,773,34.9,355650395.0,0.8,153076923.0,0.7,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_costo,> 1 - 3 MILLONES,421,19.0,789747125.0,1.9,321538440.0,1.6,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_costo,> 3 - 10 MILLONES,593,26.8,3373479651.0,8.0,1210659014.0,5.8,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_costo,> 10 - 100 MILLONES,366,16.5,9885370880.0,23.4,3730897298.0,18.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_costo,> 100 - 200 MILLONES,29,1.3,4043162902.0,9.6,1661466738.0,8.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_costo,> 200 - 1000 MILLONES,29,1.3,12610400764.0,29.8,5397415057.0,26.1,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_costo,> 1000 MILLONES,4,0.2,11267819965.0,26.6,8242831208.0,39.8,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,3
+2025,2025-09-30,rango_avance_fisico,90 - 100 %,237,10.7,2837650103.0,6.7,352439863.0,1.7,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,80 - 90 %,264,11.9,3212400743.0,7.6,654543477.0,3.2,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,70 - 80 %,227,10.2,3132503936.0,7.4,1055618566.0,5.1,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,60 - 70 %,273,12.3,7671614155.0,18.1,4767434343.0,23.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,50 - 60 %,238,10.7,3316270987.0,7.8,1257632115.0,6.1,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,40 - 50 %,196,8.8,3744575184.0,8.8,1355010587.0,6.5,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,30 - 40 %,208,9.4,4020604217.0,9.5,1898880744.0,9.2,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,20 - 30 %,160,7.2,6564288269.0,15.5,4498204668.0,21.7,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,10 - 20 %,169,7.6,2939089060.0,6.9,1812779296.0,8.7,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-09-30,rango_avance_fisico,0 - 10 %,243,11.0,4886635028.0,11.5,3065341021.0,14.8,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13,1
+2025,2025-12-31,nivel_gobierno,G. NACIONAL,386,16.0,37432953672.0,55.8,15701346361.0,48.7,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,10,2
+2025,2025-12-31,nivel_gobierno,G. REGIONAL,337,13.9,19180770403.0,28.6,11932603521.0,37.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,10,2
+2025,2025-12-31,nivel_gobierno,G. LOCAL,1693,70.1,10525406224.0,15.7,4609545064.0,14.3,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,10,2
+2025,2025-12-31,rango_costo,< =1 MILLON,812,33.6,382176904.0,0.6,169929497.0,0.5,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_costo,> 1 - 3 MILLONES,475,19.7,911313155.0,1.4,782469854.0,2.4,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_costo,> 3 - 10 MILLONES,657,27.2,3900711136.0,5.8,1519565539.0,4.7,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_costo,> 10 - 100 MILLONES,399,16.5,29230328479.0,43.5,11103409909.0,34.4,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_costo,> 100 - 200 MILLONES,31,1.3,4643692992.0,6.9,2236971629.0,6.9,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_costo,> 200 - 1000 MILLONES,38,1.6,16417549813.0,24.5,7848202978.0,24.3,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_costo,> 1000 MILLONES,4,0.2,11653357819.0,17.4,8582945540.0,26.6,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,1
+2025,2025-12-31,rango_avance_fisico,90 - 100 %,282,11.7,3439563854.0,5.1,1022487202.0,3.2,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,80 - 90 %,297,12.3,3584634893.0,5.3,794907720.0,2.5,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,70 - 80 %,252,10.4,3453867388.0,5.1,1140422543.0,3.5,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,60 - 70 %,291,12.0,8415555053.0,12.5,5254122992.0,16.3,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,50 - 60 %,246,10.2,3758403988.0,5.6,1593546634.0,4.9,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,40 - 50 %,217,9.0,22757698285.0,33.9,8237596342.0,25.5,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,30 - 40 %,216,8.9,4293155236.0,6.4,2193014329.0,6.8,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,20 - 30 %,176,7.3,6938863989.0,10.3,4712547163.0,14.6,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,10 - 20 %,172,7.1,3821490886.0,5.7,2655213975.0,8.2,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2025,2025-12-31,rango_avance_fisico,0 - 10 %,267,11.1,6675896726.0,9.9,4639636046.0,14.4,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,12,2
+2026,2026-03-31,nivel_gobierno,G. NACIONAL,391,17.4,42564363505.0,58.2,17044688732.0,48.4,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,11,1
+2026,2026-03-31,nivel_gobierno,G. REGIONAL,317,14.1,18509662122.0,25.3,11384187772.0,32.3,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,11,1
+2026,2026-03-31,nivel_gobierno,G. LOCAL,1533,68.4,12091978451.0,16.5,6767591032.0,19.2,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,11,1
+2026,2026-03-31,rango_costo,< =1 MILLON,716,32.0,326752126.0,0.4,143441513.0,0.4,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_costo,> 1 - 3 MILLONES,428,19.1,801461625.0,1.1,330813034.0,0.9,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_costo,> 3 - 10 MILLONES,589,26.3,3382409964.0,4.6,1307809331.0,3.7,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_costo,> 10 - 100 MILLONES,413,18.4,11595989096.0,15.8,4873347903.0,13.8,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_costo,> 100 - 200 MILLONES,35,1.6,4393834348.0,6.0,2212931387.0,6.3,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_costo,> 200 - 1000 MILLONES,53,2.4,20617685342.0,28.2,9415346950.0,26.8,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_costo,> 1000 MILLONES,7,0.3,32047871577.0,43.8,16912777417.0,48.1,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,3
+2026,2026-03-31,rango_avance_fisico,90 - 100 %,267,11.9,6772848255.0,9.3,2636202585.0,7.5,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,80 - 90 %,270,12.0,3450001073.0,4.7,824028679.0,2.3,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,70 - 80 %,235,10.5,4436343743.0,6.1,1550435951.0,4.4,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,60 - 70 %,278,12.4,9410215915.0,12.9,5533658331.0,15.7,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,50 - 60 %,228,10.2,3627781654.0,5.0,1638114659.0,4.7,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,40 - 50 %,196,8.7,22505598303.0,30.8,8077050416.0,22.9,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,30 - 40 %,197,8.8,4220940448.0,5.8,2209274273.0,6.3,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,20 - 30 %,170,7.6,6782487844.0,9.3,4817868405.0,13.7,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,10 - 20 %,163,7.3,4570283198.0,6.2,3448166066.0,9.8,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-03-31,rango_avance_fisico,0 - 10 %,237,10.6,7389503645.0,10.1,4461668172.0,12.7,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13,1
+2026,2026-06-30,nivel_gobierno,G. NACIONAL,396,17.51,39737257830.0,63.25,15887009789.1,57.67,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,10,2
+2026,2026-06-30,nivel_gobierno,G. REGIONAL,323,14.28,11174531821.0,17.79,4777002686.6,17.34,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,10,2
+2026,2026-06-30,nivel_gobierno,G. LOCAL,1543,68.21,11916824195.0,18.97,6884008575.1,24.99,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,10,2
+2026,2026-06-30,rango_costo,< =1 MILLON,738,32.6,283906500.0,0.5,128383248.0,0.5,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_costo,> 1 - 3 MILLONES,400,17.7,747631212.0,1.2,312736939.0,1.1,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_costo,> 3 - 10 MILLONES,597,26.4,3416633553.0,5.4,1351572947.0,4.9,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_costo,> 10 - 100 MILLONES,425,18.8,11930950655.0,19.0,5271514488.0,19.1,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_costo,> 100 - 200 MILLONES,34,1.5,4217524280.0,6.7,2076649882.0,7.5,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_costo,> 200 - 1000 MILLONES,60,2.7,19879409748.0,31.6,10157916410.0,36.9,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_costo,> 1000 MILLONES,8,0.4,22352557899.0,35.6,8249247136.0,29.9,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,1
+2026,2026-06-30,rango_avance_fisico,90 - 100 %,281,12.4,7853449592.0,12.5,2603861280.0,9.5,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,80 - 90 %,268,11.8,3838244335.0,6.1,865808562.0,3.1,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,70 - 80 %,238,10.5,3949518508.0,6.3,1580023752.0,5.7,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,60 - 70 %,255,11.3,2798311822.0,4.5,988502195.0,3.6,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,50 - 60 %,228,10.1,3738144951.0,5.9,1849731690.0,6.7,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,40 - 50 %,201,8.9,21274290334.0,33.9,6625994082.0,24.1,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,30 - 40 %,196,8.7,4681578234.0,7.5,2335027983.0,8.5,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,20 - 30 %,170,7.5,2669793050.0,4.2,1800482083.0,6.5,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,10 - 20 %,156,6.9,4446128247.0,7.1,3613737841.0,13.1,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3
+2026,2026-06-30,rango_avance_fisico,0 - 10 %,269,11.9,7579154772.0,12.1,5284851583.0,19.2,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,12,3

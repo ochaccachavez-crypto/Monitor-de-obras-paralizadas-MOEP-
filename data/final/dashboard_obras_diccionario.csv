@@ -1,0 +1,113 @@
+﻿columna,tipo,descripcion,unidad,rellena_en
+tipo_registro,texto,"Qué representa la fila: obra_infobras, obra_corte_contraloria, departamento_corte, pais_total_corte, pais_educacion_corte, causal_corte o contexto_region. Filtrar siempre por este campo.",categoría,"causal_corte, contexto_region, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+fecha_corte,fecha AAAA-MM-DD,"Fecha del dato: corte del informe de la Contraloría, o fecha de lectura de INFOBRAS (2026-11-11) para obra_infobras. Vacía en contexto_region.",fecha,"causal_corte, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+anio,entero,Año de fecha_corte.,año,"causal_corte, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+fuente_dato,texto,"Archivo o fuente de donde sale la fila (PDF, Excel, INFOBRAS, ENLA/ESCALE).",texto,"causal_corte, contexto_region, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+alertas_calidad,texto,"Avisos sobre el dato de esa fila, separados por «|»; vacío = sin avisos. Los valores NO se corrigen (vienen así de la fuente): se marcan para filtrarlos o explicarlos. obra_infobras: sin_coordenadas, sin_expediente_tecnico, cui_no_asociado, cui_sin_datos_mef, cui_en_varias_obras, paralizacion_anterior_al_inicio, avance_infobras_vs_mef_difiere_30_puntos, devengado_mayor_al_costo, ejecucion_mayor_al_expediente, causa_sin_clasificar. obra_corte_contraloria: costo_cero_o_vacio_en_fuente, saldo_mayor_que_costo, sin_provincia_ni_distrito.",texto,"obra_corte_contraloria, obra_infobras"
+codigo_infobras,texto,Código de la obra en INFOBRAS (como texto).,código,"obra_corte_contraloria, obra_infobras"
+cui,texto,Código Único de Inversión; «NO ASOCIADO» si la obra no tiene.,código,"obra_corte_contraloria, obra_infobras"
+nombre_obra,texto,Nombre de la obra (solo obra_infobras).,texto,obra_infobras
+entidad,texto,Entidad ejecutora.,texto,"obra_corte_contraloria, obra_infobras"
+cod_departamento,texto,"Código INEI del departamento, 2 dígitos como texto (Callao = 07).",código,"contexto_region, departamento_corte, obra_corte_contraloria, obra_infobras"
+departamento,texto,Departamento en MAYÚSCULAS sin tildes.,texto,"departamento_corte, obra_corte_contraloria, obra_infobras"
+provincia,texto,Provincia en MAYÚSCULAS sin tildes.,texto,"obra_corte_contraloria, obra_infobras"
+distrito,texto,Distrito en MAYÚSCULAS sin tildes.,texto,"obra_corte_contraloria, obra_infobras"
+ubigeo,texto,Ubigeo de 6 dígitos como texto (solo obra_infobras).,código,obra_infobras
+region_enla,texto,Región según la ENLA (Lima se divide en LIMA METROPOLITANA y LIMA PROVINCIAS; Callao aparte).,categoría,"contexto_region, obra_corte_contraloria, obra_infobras"
+latitud,decimal,Latitud (grados decimales) de la ficha de INFOBRAS; vacía si INFOBRAS no tiene coordenadas de la obra.,grados,obra_infobras
+longitud,decimal,Longitud (grados decimales) de la ficha de INFOBRAS.,grados,obra_infobras
+latitud_mapa,decimal,"Latitud para el mapa (solo obra_infobras): la de INFOBRAS o, si falta, una aproximada de ESCALE. Es la que usa el mapa del dashboard, junto con coordenada_origen.",grados,obra_infobras
+longitud_mapa,decimal,Longitud para el mapa (mismo criterio que latitud_mapa).,grados,obra_infobras
+coordenada_origen,texto,"infobras (exacta), escale_local_obra (local escolar que declara el CUI de la obra) o centro_distrito_escale (mediana de los colegios del distrito): estas dos son aproximadas.",categoría,obra_infobras
+sector,texto,Sector: EDUCACION para las obras de INFOBRAS y de la Contraloría; TODOS en pais_total_corte.,categoría,"causal_corte, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+nivel_gobierno,texto,Nivel de gobierno de la entidad (Contraloría).,categoría,"obra_corte_contraloria, obra_infobras"
+origen,texto,"Por qué la obra está en obra_infobras: paralizada en INFOBRAS el 27-oct, o en la lista de la Contraloría de jun-2026 y no paralizada en esa fecha.",categoría,obra_infobras
+estado_infobras,texto,"Estado de la obra en INFOBRAS (PARALIZADA, EN EJECUCIÓN, FINALIZADO, SIN EJECUCIÓN).",categoría,obra_infobras
+paralizada_hoy,lógico,TRUE si el estado en INFOBRAS es PARALIZADA (solo obra_infobras).,lógico,obra_infobras
+modalidad,texto,Modalidad de ejecución (INFOBRAS o Contraloría).,categoría,"obra_corte_contraloria, obra_infobras"
+tipo_obra,texto,Tipo de obra.,categoría,"obra_corte_contraloria, obra_infobras"
+tipo_infraestructura,texto,"Solo obra_infobras. Tipo de infraestructura según el nombre de la obra (reglas; si el nombre no lo dice, el tipo de obra de INFOBRAS): educacion_basica (colegios, inicial, CEBA, CETPRO), educacion_superior (universidades e institutos), deportiva_recreativa, cultural_patrimonio u otra. INFOBRAS agrupa Educación y Cultura. Para el objetivo del proyecto (instituciones educativas) filtrar educacion_basica.",categoría,obra_infobras
+evento_contraloria,texto,"Evento de la obra en el corte de la Contraloría (p. ej. PROCESO NORMAL, REINICIO).",categoría,"obra_corte_contraloria, obra_infobras"
+causal_oficial,texto,"Causal de paralización declarada: la del corte en obra_corte_contraloria, la del último corte en obra_infobras, el texto de la causal en causal_corte.",texto,"causal_corte, obra_corte_contraloria, obra_infobras"
+causa_grupo_final,texto,"Causa principal (NLP) en 14 grupos: recursos_financieros, incumplimiento_contractual, expediente_tecnico, controversias_arbitraje, clima, conflictos_sociales, terreno_saneamiento, permisos_licencias, interferencias, materiales_logistica, personal_clave, pandemia, obra_concluida_o_en_marcha, sin_restricciones (más otros y sin_informacion). En las filas de la Contraloría se deduce de la causal oficial.",categoría,"causal_corte, obra_corte_contraloria, obra_infobras"
+causa_macro,texto,"Causa en 8 macro-categorías para gráficos: financiera, contractual_y_legal, tecnica, logistica, entorno_social_y_territorial, fuerza_mayor, sin_causa_de_paralizacion, sin_clasificar.",categoría,"causal_corte, obra_corte_contraloria, obra_infobras"
+causas_secundarias,texto,"Hasta 2 causas adicionales detectadas en los textos de la obra, separadas por «|» (solo obra_infobras).",categoría,obra_infobras
+causa_fuente,texto,"Fuente que más aportó a la causa principal: infobras_comentario, contraloria_causal, mef_problema, texto_libre o sin_causa_clara (solo obra_infobras).",categoría,obra_infobras
+causa_confianza,texto,"alta (2 o más fuentes coinciden), media (una fuente), baja (solo modelo) o vacío (solo obra_infobras).",categoría,obra_infobras
+causa_metodo,texto,reglas o modelo (solo obra_infobras).,categoría,obra_infobras
+causa_grupo_infobras,texto,Causa según solo los comentarios de INFOBRAS (solo obra_infobras).,categoría,obra_infobras
+causa_grupo_contraloria,texto,Causa según solo la causal oficial de la Contraloría (solo obra_infobras).,categoría,obra_infobras
+causa_grupo_mef,texto,Causa según solo la problemática registrada en el MEF (solo obra_infobras).,categoría,obra_infobras
+n_obras,entero,Medida: cantidad de obras que representa la fila (1 en las filas por obra; la cifra del informe en las agregadas). En pais_total_corte son todas las obras del país.,obras,"causal_corte, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+n_obras_paralizadas,entero,Medida: obras paralizadas que representa la fila (en obra_infobras es 1 solo si paralizada_hoy; en los demás tipos es igual a n_obras porque las listas de la Contraloría son de obras paralizadas).,obras,"causal_corte, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+costo_actualizado_soles,decimal,Medida: costo actualizado de la inversión (soles).,soles,"causal_corte, departamento_corte, obra_corte_contraloria, obra_infobras, pais_educacion_corte, pais_total_corte"
+saldo_inversion_soles,decimal,Medida: saldo por invertir (soles).,soles,"causal_corte, obra_corte_contraloria, obra_infobras, pais_total_corte"
+monto_expediente_tecnico,decimal,"Monto del expediente técnico (INFOBRAS, soles).",soles,obra_infobras
+monto_ejecucion_acumulado,decimal,"Monto de ejecución acumulado (INFOBRAS, soles).",soles,obra_infobras
+avance_fisico_pct,decimal,Avance físico % (INFOBRAS para obra_infobras; Contraloría para obra_corte_contraloria).,%,"obra_corte_contraloria, obra_infobras"
+pct_obras,decimal,% de las obras que representa la causal (causal_corte) o % de Educación sobre el país (pais_educacion_corte).,%,"causal_corte, pais_educacion_corte"
+n_obras_estricto,entero,Obras de Educación con la definición estricta del anexo (departamento_corte).,obras,departamento_corte
+costo_estricto_soles,decimal,Costo de las obras con la definición estricta (departamento_corte).,soles,departamento_corte
+educacion_corregida,lógico,TRUE si la cifra de Educación del PDF se corrigió con los anexos Excel (pais_educacion_corte).,lógico,pais_educacion_corte
+fuente_obras_educacion,texto,De dónde sale la cifra de obras de Educación del país: pdf o excel (pais_educacion_corte).,categoría,pais_educacion_corte
+fecha_inicio,fecha AAAA-MM-DD,Fecha de inicio de la obra (INFOBRAS).,fecha,obra_infobras
+fecha_fin_prevista,fecha AAAA-MM-DD,Fecha de fin prevista (INFOBRAS).,fecha,obra_infobras
+fecha_paralizacion,fecha AAAA-MM-DD,Fecha de paralización del último tramo (INFOBRAS).,fecha,obra_infobras
+dias_paralizado,entero,"Valor «días paralizado» del detalle del último avance paralizado de INFOBRAS. OJO: en casi todas las obras vale 30 o 31 (los días de ese mes del informe), no el tiempo total; para el tiempo total usar dias_desde_paralizacion.",días,obra_infobras
+dias_desde_paralizacion,entero,"Solo obra_infobras. Días entre fecha_paralizacion y la lectura de INFOBRAS (11-nov-2026), solo en las obras paralizadas hoy: cuánto tiempo lleva detenida la obra en su paralización actual.",días,obra_infobras
+meses_paralizado,entero,Meses con estado paralizado en el historial de avances.,meses,obra_infobras
+n_tramos_paralizacion,entero,Cantidad de tramos de paralización distintos.,tramos,obra_infobras
+n_cortes_contraloria,entero,Cantidad de cortes (de los 13 con base obra por obra) en que aparece la obra.,cortes,obra_infobras
+reingresos_contraloria,entero,Veces que la obra salió y volvió a entrar a la lista de la Contraloría.,veces,obra_infobras
+n_servicios_control,entero,Servicios de control que la Contraloría registra para la obra (todos los tipos). Vacío = la obra no figura en el anexo 03 (corte mar-2026).,servicios,obra_infobras
+n_control_simultaneo,entero,"Servicios de control simultáneo (concurrente, visitas, orientación de oficio). Vacío = la obra no figura en el anexo 03 (corte mar-2026).",servicios,obra_infobras
+n_control_previo,entero,Servicios de control previo. Vacío = la obra no figura en el anexo 03 (corte mar-2026).,servicios,obra_infobras
+n_control_posterior,entero,Servicios de control posterior (auditorías). Vacío = la obra no figura en el anexo 03 (corte mar-2026).,servicios,obra_infobras
+n_servicios_concluidos,entero,Servicios de control con estado «Concluida». Vacío = la obra no figura en el anexo 03 (corte mar-2026).,servicios,obra_infobras
+ultimo_anio_informe_control,entero,Año de emisión del informe más reciente. Vacío = la obra no figura en el anexo 03 (corte mar-2026).,año,obra_infobras
+en_ultimo_corte_contraloria,lógico,TRUE si la obra está en la lista de jun-2026.,lógico,obra_infobras
+estado_mef,texto,Estado de la inversión en el Formato 12-B del MEF.,categoría,obra_infobras
+devengado_total_soles,decimal,Devengado acumulado según el MEF (soles).,soles,obra_infobras
+pim_anio_actual_soles,decimal,Presupuesto institucional modificado del año actual (MEF).,soles,obra_infobras
+pct_devengado_del_costo,decimal,Devengado total / costo actualizado × 100 (puede pasar 100 por diferencias entre fuentes).,%,obra_infobras
+avance_fisico_mef_pct,decimal,Avance físico % que reporta el MEF.,%,obra_infobras
+mef_ult_problema,texto,Última problemática registrada en el MEF (nombres de personas omitidos).,texto,obra_infobras
+escale_locales_publicos,entero,Locales públicos del distrito (ESCALE).,locales,obra_infobras
+escale_pct_3_servicios,decimal,% de locales del distrito con los 3 servicios básicos.,%,obra_infobras
+escale_pct_rural,decimal,% de locales rurales del distrito.,%,obra_infobras
+escale_pct_riesgo_estructural,decimal,% de locales con riesgo estructural.,%,obra_infobras
+escale_pct_estructura_mal_estado,decimal,% de locales con estructura en mal estado.,%,obra_infobras
+escale_n_locales_obra,entero,Locales que declaran en el Censo 2025 estar en construcción con el CUI de esta obra (0 = ninguno).,locales,obra_infobras
+escale_codlocal,texto,Código del primer local de ESCALE que declara el CUI de esta obra.,código,obra_infobras
+escale_pct_internet,decimal,"% de locales públicos con servicio de internet (de los que respondieron sí o no). (distrito, Censo 2025)",%,obra_infobras
+escale_pct_modulo_conectividad,decimal,"% de locales públicos con módulo de conectividad. (distrito, Censo 2025)",%,obra_infobras
+escale_pct_agua_todos_los_dias,decimal,"% de locales con agua potable todos los días de la semana (de los que respondieron la pregunta, que solo se hace si hay servicio). (distrito, Censo 2025)",%,obra_infobras
+escale_pct_energia_todos_los_dias,decimal,"% de locales con energía eléctrica todos los días de la semana. (distrito, Censo 2025)",%,obra_infobras
+escale_pct_centro_poblado_internet,decimal,"% de locales cuyo centro poblado cuenta con internet. (distrito, Censo 2025)",%,obra_infobras
+escale_area_terreno_mediana_m2,decimal,"Mediana del área del terreno del local (m²), sin contar los que declaran 0. (distrito, Censo 2025)",m²,obra_infobras
+escale_n_edificaciones_en_uso,entero,"Edificaciones en uso de los locales públicos del distrito. (distrito, Censo 2025)",edificaciones,obra_infobras
+escale_pisos_promedio,decimal,"Promedio de pisos de las edificaciones en uso. (distrito, Censo 2025)",pisos,obra_infobras
+escale_antiguedad_mediana_anios,decimal,"Mediana de años desde el término de la construcción (2025 − año de término; solo años entre 1900 y 2025). (distrito, Censo 2025)",años,obra_infobras
+escale_pct_edif_red_interna_agua,decimal,"% de edificaciones con red interna de agua. (distrito, Censo 2025)",%,obra_infobras
+escale_pct_edif_red_interna_energia,decimal,"% de edificaciones con red interna de energía eléctrica. (distrito, Censo 2025)",%,obra_infobras
+escale_pct_edif_rampa_primer_piso,decimal,"% de edificaciones con rampa de acceso al primer piso (de las que respondieron). (distrito, Censo 2025)",%,obra_infobras
+escale_pct_edif_techo_mal_estado,decimal,"% de edificaciones con la estructura de techos en mal estado (de las que informan su estado). (distrito, Censo 2025)",%,obra_infobras
+escale_pct_edif_cobertura_mal_estado,decimal,"% de edificaciones con la cobertura de techos en mal estado. (distrito, Censo 2025)",%,obra_infobras
+escale_pct_edif_tablero_mal_estado,decimal,"% de edificaciones con el tablero eléctrico en mal estado. (distrito, Censo 2025)",%,obra_infobras
+region_escale_locales_publicos,entero,"Locales públicos de la región (suma de distritos, ESCALE).",locales,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_escale_pct_3_servicios,decimal,% de locales de la región con los 3 servicios básicos.,%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_escale_pct_rural,decimal,% de locales rurales de la región.,%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_escale_pct_riesgo_estructural,decimal,% de locales de la región con riesgo estructural.,%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_escale_pct_estructura_mal_estado,decimal,% de locales de la región con estructura en mal estado.,%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_4p_lectura_satisfactorio,decimal,% de estudiantes de 4.º primaria de la región en nivel Satisfactorio en Lectura (último año ENLA).,%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_4p_matematica_satisfactorio,decimal,"% en nivel Satisfactorio en Matemática, 4.º primaria.",%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_2s_lectura_satisfactorio,decimal,"% en nivel Satisfactorio en Lectura, 2.º secundaria.",%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_2s_matematica_satisfactorio,decimal,"% en nivel Satisfactorio en Matemática, 2.º secundaria.",%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_2p_anio,entero,Último año de la ENLA de 2.º primaria disponible para la región.,año,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_4p_anio,entero,Último año de la ENLA de 4.º primaria disponible para la región.,año,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_6p_anio,entero,Último año de la ENLA de 6.º primaria disponible para la región.,año,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_2s_anio,entero,Último año de la ENLA de 2.º secundaria disponible para la región.,año,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_2p_lectura_satisfactorio,decimal,"% en nivel Satisfactorio en Lectura, 2.º primaria (último año ENLA).",%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_2p_matematica_satisfactorio,decimal,"% en nivel Satisfactorio en Matemática, 2.º primaria.",%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_6p_lectura_satisfactorio,decimal,"% en nivel Satisfactorio en Lectura, 6.º primaria (último año ENLA).",%,"contexto_region, obra_corte_contraloria, obra_infobras"
+region_enla_6p_matematica_satisfactorio,decimal,"% en nivel Satisfactorio en Matemática, 6.º primaria.",%,"contexto_region, obra_corte_contraloria, obra_infobras"

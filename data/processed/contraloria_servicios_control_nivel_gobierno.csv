@@ -1,0 +1,253 @@
+﻿anio,fecha_corte,tipo_servicio,nivel_gobierno,cantidad,pct,orden_niveles,fuente_pdf,pagina,tabla_n
+2022,2022-06-30,PREVIO,LOCAL,1,0.1,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,PREVIO,REGIONAL,23,6.3,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,PREVIO,NACIONAL,5,1.3,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,PREVIO,TOTAL,29,1.7,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,SIMULTANEO,LOCAL,884,94.7,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,SIMULTANEO,REGIONAL,306,84.3,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,SIMULTANEO,NACIONAL,371,95.1,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,SIMULTANEO,TOTAL,1561,92.5,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,POSTERIOR,LOCAL,49,5.2,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,POSTERIOR,REGIONAL,34,9.4,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,POSTERIOR,NACIONAL,14,3.6,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-06-30,POSTERIOR,TOTAL,97,5.8,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,20,5
+2022,2022-09-30,PREVIO,NACIONAL,2,0.1,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,PREVIO,REGIONAL,16,1.0,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,PREVIO,LOCAL,1,0.1,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,PREVIO,TOTAL,19,1.2,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,SIMULTANEO,NACIONAL,423,26.8,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,SIMULTANEO,REGIONAL,262,16.6,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,SIMULTANEO,LOCAL,763,48.4,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,SIMULTANEO,TOTAL,1448,91.8,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,POSTERIOR,NACIONAL,15,1.0,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,POSTERIOR,REGIONAL,38,2.4,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,POSTERIOR,LOCAL,58,3.7,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-09-30,POSTERIOR,TOTAL,111,7.0,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,26,5
+2022,2022-12-31,PREVIO,NACIONAL,4,0.3,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,PREVIO,REGIONAL,17,1.2,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,PREVIO,LOCAL,0,0.0,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,PREVIO,TOTAL,21,1.5,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,SIMULTANEO,NACIONAL,347,24.4,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,SIMULTANEO,REGIONAL,286,20.1,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,SIMULTANEO,LOCAL,664,46.7,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,SIMULTANEO,TOTAL,1297,91.2,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,POSTERIOR,NACIONAL,16,1.1,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,POSTERIOR,REGIONAL,34,2.4,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,POSTERIOR,LOCAL,54,3.8,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2022,2022-12-31,POSTERIOR,TOTAL,104,7.3,segun el encabezado del PDF,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,29,5
+2023,2023-02-28,PREVIO,LOCAL,0,0.0,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,PREVIO,REGIONAL,18,1.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,PREVIO,NACIONAL,4,0.28,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,PREVIO,TOTAL,22,1.6,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,SIMULTANEO,LOCAL,632,44.6,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,SIMULTANEO,REGIONAL,267,18.8,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,SIMULTANEO,NACIONAL,389,27.43,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,SIMULTANEO,TOTAL,1288,90.8,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,POSTERIOR,LOCAL,57,4.0,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,POSTERIOR,REGIONAL,36,2.5,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,POSTERIOR,NACIONAL,15,1.06,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-02-28,POSTERIOR,TOTAL,108,7.6,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,17,2
+2023,2023-05-31,PREVIO,LOCAL,1,0.1,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,PREVIO,REGIONAL,22,1.6,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,PREVIO,NACIONAL,7,0.52,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,PREVIO,TOTAL,30,2.2,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,SIMULTANEO,LOCAL,605,44.9,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,SIMULTANEO,REGIONAL,257,19.1,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,SIMULTANEO,NACIONAL,358,26.56,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,SIMULTANEO,TOTAL,1220,90.5,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,POSTERIOR,LOCAL,52,3.9,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,POSTERIOR,REGIONAL,32,2.4,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,POSTERIOR,NACIONAL,14,1.04,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-05-31,POSTERIOR,TOTAL,98,7.3,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,18,1
+2023,2023-06-30,PREVIO,LOCAL,0,0.0,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,PREVIO,REGIONAL,16,1.1,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,PREVIO,NACIONAL,4,0.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,PREVIO,TOTAL,20,1.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,SIMULTANEO,LOCAL,686,45.9,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,SIMULTANEO,REGIONAL,265,17.7,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,SIMULTANEO,NACIONAL,406,27.2,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,SIMULTANEO,TOTAL,1357,90.8,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,POSTERIOR,LOCAL,61,4.1,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,POSTERIOR,REGIONAL,37,2.5,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,POSTERIOR,NACIONAL,20,1.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-06-30,POSTERIOR,TOTAL,118,7.9,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,23,2
+2023,2023-07-31,PREVIO,LOCAL,0,0.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,PREVIO,REGIONAL,17,0.9,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,PREVIO,NACIONAL,4,0.2,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,PREVIO,TOTAL,21,1.1,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,SIMULTANEO,LOCAL,893,47.1,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,SIMULTANEO,REGIONAL,421,22.2,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,SIMULTANEO,NACIONAL,437,23.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,SIMULTANEO,TOTAL,1751,92.4,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,POSTERIOR,LOCAL,66,3.5,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,POSTERIOR,REGIONAL,37,1.95,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,POSTERIOR,NACIONAL,21,1.2,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-07-31,POSTERIOR,TOTAL,124,6.5,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,PREVIO,LOCAL,0,0.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,PREVIO,REGIONAL,16,0.9,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,PREVIO,NACIONAL,4,0.2,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,PREVIO,TOTAL,20,1.1,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,SIMULTANEO,LOCAL,871,46.9,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,SIMULTANEO,REGIONAL,417,22.4,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,SIMULTANEO,NACIONAL,434,23.3,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,SIMULTANEO,TOTAL,1722,92.6,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,POSTERIOR,LOCAL,62,3.3,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,POSTERIOR,REGIONAL,35,1.9,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,POSTERIOR,NACIONAL,20,1.1,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-08-31,POSTERIOR,TOTAL,117,6.3,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,18,1
+2023,2023-09-30,PREVIO,LOCAL,0,0.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,PREVIO,REGIONAL,16,0.8,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,PREVIO,NACIONAL,4,0.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,PREVIO,TOTAL,20,1.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,SIMULTANEO,LOCAL,970,50.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,SIMULTANEO,REGIONAL,408,21.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,SIMULTANEO,NACIONAL,438,23.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,SIMULTANEO,TOTAL,1816,93.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,POSTERIOR,LOCAL,58,3.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,POSTERIOR,REGIONAL,32,1.2,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,POSTERIOR,NACIONAL,20,1.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-09-30,POSTERIOR,TOTAL,110,6.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,24,1
+2023,2023-10-31,PREVIO,LOCAL,0,0.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,PREVIO,REGIONAL,16,1.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,PREVIO,NACIONAL,4,0.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,PREVIO,TOTAL,20,1.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,SIMULTANEO,LOCAL,1063,52.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,SIMULTANEO,REGIONAL,412,20.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,SIMULTANEO,NACIONAL,441,21.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,SIMULTANEO,TOTAL,1916,93.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,POSTERIOR,LOCAL,61,3.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,POSTERIOR,REGIONAL,35,2.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,POSTERIOR,NACIONAL,22,1.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-10-31,POSTERIOR,TOTAL,118,6.0,verificado con la narracion,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,18,1
+2023,2023-12-31,PREVIO,LOCAL,0,0.0,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,PREVIO,REGIONAL,16,0.7,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,PREVIO,NACIONAL,4,0.2,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,PREVIO,TOTAL,20,0.9,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,POSTERIOR,LOCAL,71,3.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,POSTERIOR,REGIONAL,35,1.6,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,POSTERIOR,NACIONAL,25,1.2,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,POSTERIOR,TOTAL,131,6.1,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,SIMULTANEO,LOCAL,1144,53.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,SIMULTANEO,REGIONAL,415,19.3,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,SIMULTANEO,NACIONAL,438,20.4,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2023,2023-12-31,SIMULTANEO,TOTAL,1997,93.0,segun el encabezado del PDF,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,24,2
+2024,2024-03-31,PREVIO,LOCAL,4,0.2,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,PREVIO,REGIONAL,6,0.2,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,PREVIO,NACIONAL,17,0.7,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,PREVIO,TOTAL,27,1.1,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,SIMULTANEO,LOCAL,1058,49.3,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,SIMULTANEO,REGIONAL,487,23.0,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,SIMULTANEO,NACIONAL,479,21.6,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,SIMULTANEO,TOTAL,2024,93.8,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,POSTERIOR,LOCAL,71,2.8,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,POSTERIOR,REGIONAL,23,0.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,POSTERIOR,NACIONAL,33,1.3,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-03-31,POSTERIOR,TOTAL,127,5.1,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,PREVIO,NACIONAL,9,0.4,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,PREVIO,REGIONAL,17,0.6,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,PREVIO,LOCAL,4,0.1,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,PREVIO,TOTAL,30,1.2,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,SIMULTANEO,NACIONAL,604,23.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,SIMULTANEO,REGIONAL,573,22.6,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,SIMULTANEO,LOCAL,1154,47.4,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,SIMULTANEO,TOTAL,2331,93.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,POSTERIOR,NACIONAL,30,1.0,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,POSTERIOR,REGIONAL,40,1.4,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,POSTERIOR,LOCAL,73,2.5,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-06-30,POSTERIOR,TOTAL,143,4.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,PREVIO,NACIONAL,12,0.3,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,PREVIO,REGIONAL,27,0.7,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,PREVIO,LOCAL,5,0.1,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,PREVIO,TOTAL,44,1.2,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,SIMULTANEO,NACIONAL,883,24.4,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,SIMULTANEO,REGIONAL,701,19.4,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,SIMULTANEO,LOCAL,1782,49.3,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,SIMULTANEO,TOTAL,3366,93.2,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,POSTERIOR,NACIONAL,37,1.0,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,POSTERIOR,REGIONAL,52,1.4,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,POSTERIOR,LOCAL,113,3.1,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-09-30,POSTERIOR,TOTAL,202,5.6,segun el encabezado del PDF,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,25,1
+2024,2024-12-31,PREVIO,NACIONAL,13,0.3,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,PREVIO,REGIONAL,16,0.4,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,PREVIO,LOCAL,7,0.2,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,PREVIO,TOTAL,36,0.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,SIMULTANEO,NACIONAL,930,23.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,SIMULTANEO,REGIONAL,735,18.9,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,SIMULTANEO,LOCAL,2017,51.8,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,SIMULTANEO,TOTAL,3682,94.6,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,POSTERIOR,NACIONAL,28,0.8,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,POSTERIOR,REGIONAL,44,1.1,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,POSTERIOR,LOCAL,101,2.6,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2024,2024-12-31,POSTERIOR,TOTAL,173,4.5,verificado con la narracion,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,17,2
+2025,2025-03-31,PREVIO,NACIONAL,11,0.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,PREVIO,REGIONAL,16,0.4,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,PREVIO,LOCAL,10,0.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,PREVIO,TOTAL,37,1.0,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,SIMULTANEO,NACIONAL,997,26.0,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,SIMULTANEO,REGIONAL,736,19.2,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,SIMULTANEO,LOCAL,1901,49.6,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,SIMULTANEO,TOTAL,3634,94.8,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,POSTERIOR,NACIONAL,27,0.7,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,POSTERIOR,REGIONAL,42,1.1,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,POSTERIOR,LOCAL,92,2.4,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-03-31,POSTERIOR,TOTAL,161,4.2,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,17,1
+2025,2025-06-30,PREVIO,NACIONAL,11,0.3,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,PREVIO,REGIONAL,18,0.5,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,PREVIO,LOCAL,5,0.1,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,PREVIO,TOTAL,34,0.9,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,SIMULTANEO,NACIONAL,958,24.1,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,SIMULTANEO,REGIONAL,763,19.2,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,SIMULTANEO,LOCAL,2057,51.7,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,SIMULTANEO,TOTAL,3778,94.9,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,POSTERIOR,NACIONAL,33,0.8,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,POSTERIOR,REGIONAL,41,1.0,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,POSTERIOR,LOCAL,94,2.4,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-06-30,POSTERIOR,TOTAL,168,4.2,verificado con la narracion,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,16,4
+2025,2025-09-30,PREVIO,NACIONAL,12,0.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,PREVIO,REGIONAL,17,0.4,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,PREVIO,LOCAL,4,0.1,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,PREVIO,TOTAL,33,0.8,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,SIMULTANEO,NACIONAL,894,25.0,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,SIMULTANEO,REGIONAL,711,19.1,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,SIMULTANEO,LOCAL,1932,51.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,SIMULTANEO,TOTAL,3536,95.4,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,POSTERIOR,NACIONAL,23,0.6,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,POSTERIOR,REGIONAL,43,1.0,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,POSTERIOR,LOCAL,92,2.2,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-09-30,POSTERIOR,TOTAL,158,3.8,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,18,1
+2025,2025-12-31,PREVIO,LOCAL,6,0.1,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,PREVIO,REGIONAL,18,0.4,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,PREVIO,NACIONAL,12,0.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,PREVIO,TOTAL,36,0.9,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,SIMULTANEO,LOCAL,1950,47.9,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,SIMULTANEO,REGIONAL,883,21.7,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,SIMULTANEO,NACIONAL,1048,25.7,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,SIMULTANEO,TOTAL,3879,95.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,POSTERIOR,LOCAL,93,2.3,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,POSTERIOR,REGIONAL,41,1.0,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,POSTERIOR,NACIONAL,21,0.5,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2025,2025-12-31,POSTERIOR,TOTAL,155,3.8,segun el encabezado del PDF,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,17,2
+2026,2026-03-31,PREVIO,NACIONAL,4,0.1,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,PREVIO,REGIONAL,18,0.5,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,PREVIO,LOCAL,12,0.3,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,PREVIO,TOTAL,34,0.9,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,SIMULTANEO,NACIONAL,1806,46.8,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,SIMULTANEO,REGIONAL,766,19.9,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,SIMULTANEO,LOCAL,1102,28.6,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,SIMULTANEO,TOTAL,3672,95.2,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,POSTERIOR,NACIONAL,91,2.4,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,POSTERIOR,REGIONAL,39,1.0,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,POSTERIOR,LOCAL,22,0.6,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-03-31,POSTERIOR,TOTAL,152,3.9,segun el encabezado del PDF,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,19,1
+2026,2026-06-30,PREVIO,NACIONAL,24,0.6,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,PREVIO,REGIONAL,31,0.8,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,PREVIO,LOCAL,4,0.1,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,PREVIO,TOTAL,59,1.5,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,SIMULTANEO,NACIONAL,1066,26.6,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,SIMULTANEO,REGIONAL,852,21.2,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,SIMULTANEO,LOCAL,1885,47.0,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,SIMULTANEO,TOTAL,3803,94.8,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,POSTERIOR,NACIONAL,24,0.6,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,POSTERIOR,REGIONAL,37,0.9,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,POSTERIOR,LOCAL,88,2.2,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1
+2026,2026-06-30,POSTERIOR,TOTAL,149,3.7,verificado con la narracion,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,17,1

@@ -1,0 +1,209 @@
+﻿region,cod_departamento,anio,grado,area,pct_satisfactorio,fuente_pdf,pagina,tabla_n
+AMAZONAS,01,2019,2.° secundaria,lectura,7.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+ANCASH,02,2019,2.° secundaria,lectura,10.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+APURIMAC,03,2019,2.° secundaria,lectura,7.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+AREQUIPA,04,2019,2.° secundaria,lectura,24.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+AYACUCHO,05,2019,2.° secundaria,lectura,10.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+CAJAMARCA,06,2019,2.° secundaria,lectura,7.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+CALLAO,07,2019,2.° secundaria,lectura,18.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+CUSCO,08,2019,2.° secundaria,lectura,11.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+HUANCAVELICA,09,2019,2.° secundaria,lectura,4.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+HUANUCO,10,2019,2.° secundaria,lectura,6.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+ICA,11,2019,2.° secundaria,lectura,15.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+JUNIN,12,2019,2.° secundaria,lectura,15.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LA LIBERTAD,13,2019,2.° secundaria,lectura,13.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LAMBAYEQUE,14,2019,2.° secundaria,lectura,12.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LIMA METROPOLITANA,15,2019,2.° secundaria,lectura,22.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LIMA PROVINCIAS,15,2019,2.° secundaria,lectura,13.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LORETO,16,2019,2.° secundaria,lectura,3.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+MADRE DE DIOS,17,2019,2.° secundaria,lectura,7.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+MOQUEGUA,18,2019,2.° secundaria,lectura,24.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+PASCO,19,2019,2.° secundaria,lectura,9.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+PIURA,20,2019,2.° secundaria,lectura,11.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+PUNO,21,2019,2.° secundaria,lectura,10.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+SAN MARTIN,22,2019,2.° secundaria,lectura,6.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+TACNA,23,2019,2.° secundaria,lectura,27.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+TUMBES,24,2019,2.° secundaria,lectura,8.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+UCAYALI,25,2019,2.° secundaria,lectura,4.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+AMAZONAS,01,2019,2.° secundaria,matematica,11.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+ANCASH,02,2019,2.° secundaria,matematica,12.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+APURIMAC,03,2019,2.° secundaria,matematica,10.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+AREQUIPA,04,2019,2.° secundaria,matematica,30.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+AYACUCHO,05,2019,2.° secundaria,matematica,13.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+CAJAMARCA,06,2019,2.° secundaria,matematica,12.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+CALLAO,07,2019,2.° secundaria,matematica,20.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+CUSCO,08,2019,2.° secundaria,matematica,16.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+HUANCAVELICA,09,2019,2.° secundaria,matematica,8.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+HUANUCO,10,2019,2.° secundaria,matematica,8.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+ICA,11,2019,2.° secundaria,matematica,20.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+JUNIN,12,2019,2.° secundaria,matematica,23.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LA LIBERTAD,13,2019,2.° secundaria,matematica,14.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LAMBAYEQUE,14,2019,2.° secundaria,matematica,15.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LIMA METROPOLITANA,15,2019,2.° secundaria,matematica,24.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LIMA PROVINCIAS,15,2019,2.° secundaria,matematica,17.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LORETO,16,2019,2.° secundaria,matematica,2.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+MADRE DE DIOS,17,2019,2.° secundaria,matematica,9.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+MOQUEGUA,18,2019,2.° secundaria,matematica,34.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+PASCO,19,2019,2.° secundaria,matematica,14.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+PIURA,20,2019,2.° secundaria,matematica,13.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+PUNO,21,2019,2.° secundaria,matematica,16.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+SAN MARTIN,22,2019,2.° secundaria,matematica,8.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+TACNA,23,2019,2.° secundaria,matematica,38.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+TUMBES,24,2019,2.° secundaria,matematica,8.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+UCAYALI,25,2019,2.° secundaria,matematica,4.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+AMAZONAS,01,2019,4.° primaria,lectura,26.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+ANCASH,02,2019,4.° primaria,lectura,30.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+APURIMAC,03,2019,4.° primaria,lectura,31.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+AREQUIPA,04,2019,4.° primaria,lectura,46.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+AYACUCHO,05,2019,4.° primaria,lectura,31.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+CAJAMARCA,06,2019,4.° primaria,lectura,23.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+CALLAO,07,2019,4.° primaria,lectura,43.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+CUSCO,08,2019,4.° primaria,lectura,37.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+HUANCAVELICA,09,2019,4.° primaria,lectura,28.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+HUANUCO,10,2019,4.° primaria,lectura,26.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+ICA,11,2019,4.° primaria,lectura,39.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+JUNIN,12,2019,4.° primaria,lectura,34.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LA LIBERTAD,13,2019,4.° primaria,lectura,28.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LAMBAYEQUE,14,2019,4.° primaria,lectura,31.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LIMA METROPOLITANA,15,2019,4.° primaria,lectura,44.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LIMA PROVINCIAS,15,2019,4.° primaria,lectura,32.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LORETO,16,2019,4.° primaria,lectura,9.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+MADRE DE DIOS,17,2019,4.° primaria,lectura,23.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+MOQUEGUA,18,2019,4.° primaria,lectura,52.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+PASCO,19,2019,4.° primaria,lectura,29.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+PIURA,20,2019,4.° primaria,lectura,30.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+PUNO,21,2019,4.° primaria,lectura,36.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+SAN MARTIN,22,2019,4.° primaria,lectura,24.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+TACNA,23,2019,4.° primaria,lectura,53.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+TUMBES,24,2019,4.° primaria,lectura,19.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+UCAYALI,25,2019,4.° primaria,lectura,17.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+AMAZONAS,01,2019,4.° primaria,matematica,31.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+ANCASH,02,2019,4.° primaria,matematica,30.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+APURIMAC,03,2019,4.° primaria,matematica,35.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+AREQUIPA,04,2019,4.° primaria,matematica,44.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+AYACUCHO,05,2019,4.° primaria,matematica,34.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+CAJAMARCA,06,2019,4.° primaria,matematica,28.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+CALLAO,07,2019,4.° primaria,matematica,38.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+CUSCO,08,2019,4.° primaria,matematica,41.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+HUANCAVELICA,09,2019,4.° primaria,matematica,36.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+HUANUCO,10,2019,4.° primaria,matematica,29.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+ICA,11,2019,4.° primaria,matematica,40.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+JUNIN,12,2019,4.° primaria,matematica,38.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LA LIBERTAD,13,2019,4.° primaria,matematica,30.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LAMBAYEQUE,14,2019,4.° primaria,matematica,28.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LIMA METROPOLITANA,15,2019,4.° primaria,matematica,39.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LIMA PROVINCIAS,15,2019,4.° primaria,matematica,34.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LORETO,16,2019,4.° primaria,matematica,5.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+MADRE DE DIOS,17,2019,4.° primaria,matematica,20.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+MOQUEGUA,18,2019,4.° primaria,matematica,53.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+PASCO,19,2019,4.° primaria,matematica,34.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+PIURA,20,2019,4.° primaria,matematica,31.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+PUNO,21,2019,4.° primaria,matematica,45.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+SAN MARTIN,22,2019,4.° primaria,matematica,24.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+TACNA,23,2019,4.° primaria,matematica,63.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+TUMBES,24,2019,4.° primaria,matematica,16.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+UCAYALI,25,2019,4.° primaria,matematica,13.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+AMAZONAS,01,2022,2.° secundaria,lectura,9.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+ANCASH,02,2022,2.° secundaria,lectura,14.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+APURIMAC,03,2022,2.° secundaria,lectura,12.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+AREQUIPA,04,2022,2.° secundaria,lectura,31.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+AYACUCHO,05,2022,2.° secundaria,lectura,13.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+CAJAMARCA,06,2022,2.° secundaria,lectura,10.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+CALLAO,07,2022,2.° secundaria,lectura,24.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+CUSCO,08,2022,2.° secundaria,lectura,18.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+HUANCAVELICA,09,2022,2.° secundaria,lectura,8.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+HUANUCO,10,2022,2.° secundaria,lectura,9.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+ICA,11,2022,2.° secundaria,lectura,23.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+JUNIN,12,2022,2.° secundaria,lectura,19.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LA LIBERTAD,13,2022,2.° secundaria,lectura,16.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LAMBAYEQUE,14,2022,2.° secundaria,lectura,13.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LIMA METROPOLITANA,15,2022,2.° secundaria,lectura,29.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LIMA PROVINCIAS,15,2022,2.° secundaria,lectura,19.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+LORETO,16,2022,2.° secundaria,lectura,5.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+MADRE DE DIOS,17,2022,2.° secundaria,lectura,11.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+MOQUEGUA,18,2022,2.° secundaria,lectura,34.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+PASCO,19,2022,2.° secundaria,lectura,16.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+PIURA,20,2022,2.° secundaria,lectura,13.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+PUNO,21,2022,2.° secundaria,lectura,14.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+SAN MARTIN,22,2022,2.° secundaria,lectura,9.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+TACNA,23,2022,2.° secundaria,lectura,36.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+TUMBES,24,2022,2.° secundaria,lectura,9.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+UCAYALI,25,2022,2.° secundaria,lectura,7.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,25,1
+AMAZONAS,01,2022,2.° secundaria,matematica,6.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+ANCASH,02,2022,2.° secundaria,matematica,8.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+APURIMAC,03,2022,2.° secundaria,matematica,9.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+AREQUIPA,04,2022,2.° secundaria,matematica,22.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+AYACUCHO,05,2022,2.° secundaria,matematica,10.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+CAJAMARCA,06,2022,2.° secundaria,matematica,7.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+CALLAO,07,2022,2.° secundaria,matematica,15.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+CUSCO,08,2022,2.° secundaria,matematica,12.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+HUANCAVELICA,09,2022,2.° secundaria,matematica,7.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+HUANUCO,10,2022,2.° secundaria,matematica,6.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+ICA,11,2022,2.° secundaria,matematica,15.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+JUNIN,12,2022,2.° secundaria,matematica,15.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LA LIBERTAD,13,2022,2.° secundaria,matematica,9.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LAMBAYEQUE,14,2022,2.° secundaria,matematica,9.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LIMA METROPOLITANA,15,2022,2.° secundaria,matematica,19.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LIMA PROVINCIAS,15,2022,2.° secundaria,matematica,13.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+LORETO,16,2022,2.° secundaria,matematica,2.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+MADRE DE DIOS,17,2022,2.° secundaria,matematica,7.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+MOQUEGUA,18,2022,2.° secundaria,matematica,26.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+PASCO,19,2022,2.° secundaria,matematica,13.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+PIURA,20,2022,2.° secundaria,matematica,7.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+PUNO,21,2022,2.° secundaria,matematica,11.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+SAN MARTIN,22,2022,2.° secundaria,matematica,5.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+TACNA,23,2022,2.° secundaria,matematica,27.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+TUMBES,24,2022,2.° secundaria,matematica,4.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+UCAYALI,25,2022,2.° secundaria,matematica,4.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,28,1
+AMAZONAS,01,2022,4.° primaria,lectura,18.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+ANCASH,02,2022,4.° primaria,lectura,27.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+APURIMAC,03,2022,4.° primaria,lectura,27.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+AREQUIPA,04,2022,4.° primaria,lectura,44.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+AYACUCHO,05,2022,4.° primaria,lectura,27.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+CAJAMARCA,06,2022,4.° primaria,lectura,16.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+CALLAO,07,2022,4.° primaria,lectura,38.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+CUSCO,08,2022,4.° primaria,lectura,32.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+HUANCAVELICA,09,2022,4.° primaria,lectura,25.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+HUANUCO,10,2022,4.° primaria,lectura,20.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+ICA,11,2022,4.° primaria,lectura,30.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+JUNIN,12,2022,4.° primaria,lectura,31.7,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LA LIBERTAD,13,2022,4.° primaria,lectura,26.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LAMBAYEQUE,14,2022,4.° primaria,lectura,25.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LIMA METROPOLITANA,15,2022,4.° primaria,lectura,40.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LIMA PROVINCIAS,15,2022,4.° primaria,lectura,28.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+LORETO,16,2022,4.° primaria,lectura,9.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+MADRE DE DIOS,17,2022,4.° primaria,lectura,15.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+MOQUEGUA,18,2022,4.° primaria,lectura,51.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+PASCO,19,2022,4.° primaria,lectura,24.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+PIURA,20,2022,4.° primaria,lectura,24.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+PUNO,21,2022,4.° primaria,lectura,29.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+SAN MARTIN,22,2022,4.° primaria,lectura,13.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+TACNA,23,2022,4.° primaria,lectura,49.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+TUMBES,24,2022,4.° primaria,lectura,16.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+UCAYALI,25,2022,4.° primaria,lectura,14.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,15,1
+AMAZONAS,01,2022,4.° primaria,matematica,15.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+ANCASH,02,2022,4.° primaria,matematica,21.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+APURIMAC,03,2022,4.° primaria,matematica,26.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+AREQUIPA,04,2022,4.° primaria,matematica,39.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+AYACUCHO,05,2022,4.° primaria,matematica,26.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+CAJAMARCA,06,2022,4.° primaria,matematica,14.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+CALLAO,07,2022,4.° primaria,matematica,26.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+CUSCO,08,2022,4.° primaria,matematica,30.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+HUANCAVELICA,09,2022,4.° primaria,matematica,26.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+HUANUCO,10,2022,4.° primaria,matematica,18.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+ICA,11,2022,4.° primaria,matematica,24.8,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+JUNIN,12,2022,4.° primaria,matematica,29.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LA LIBERTAD,13,2022,4.° primaria,matematica,20.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LAMBAYEQUE,14,2022,4.° primaria,matematica,18.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LIMA METROPOLITANA,15,2022,4.° primaria,matematica,27.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LIMA PROVINCIAS,15,2022,4.° primaria,matematica,21.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+LORETO,16,2022,4.° primaria,matematica,5.2,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+MADRE DE DIOS,17,2022,4.° primaria,matematica,13.0,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+MOQUEGUA,18,2022,4.° primaria,matematica,51.3,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+PASCO,19,2022,4.° primaria,matematica,22.5,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+PIURA,20,2022,4.° primaria,matematica,18.4,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+PUNO,21,2022,4.° primaria,matematica,31.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+SAN MARTIN,22,2022,4.° primaria,matematica,10.9,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+TACNA,23,2022,4.° primaria,matematica,48.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+TUMBES,24,2022,4.° primaria,matematica,11.6,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1
+UCAYALI,25,2022,4.° primaria,matematica,9.1,enla_2022_reporte_nacional_em_2022_2026-10-23.pdf,18,1

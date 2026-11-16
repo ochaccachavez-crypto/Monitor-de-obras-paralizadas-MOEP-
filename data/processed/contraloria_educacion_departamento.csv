@@ -1,0 +1,311 @@
+﻿anio,fecha_corte,cod_departamento,departamento,obras_educacion,costo_educacion_soles,obras_educacion_estricto,costo_educacion_estricto_soles,fuente_excel,hoja
+2023,2023-12-31,01,AMAZONAS,2,12905619.61,2,12905619.61,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,02,ANCASH,15,92059255.68,15,92059255.68,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,03,APURIMAC,24,109984779.36,24,109984779.36,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,04,AREQUIPA,13,33895852.92,13,33895852.92,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,05,AYACUCHO,16,56190615.68,16,56190615.68,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,06,CAJAMARCA,25,134887713.96,25,134887713.96,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,07,CALLAO,2,57569602.84,2,57569602.84,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,08,CUSCO,60,194141555.27,60,194141555.27,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,09,HUANCAVELICA,16,58163822.83,16,58163822.83,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,10,HUANUCO,10,54904356.95,10,54904356.95,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,11,ICA,1,401384.4,1,401384.4,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,12,JUNIN,14,62024314.16,14,62024314.16,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,13,LA LIBERTAD,14,165388391.47,14,165388391.47,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,14,LAMBAYEQUE,12,44883453.24,12,44883453.24,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,15,LIMA,27,235552440.11,27,235552440.11,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,16,LORETO,4,21126404.97,4,21126404.97,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,17,MADRE DE DIOS,3,23494269.11,3,23494269.11,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,18,MOQUEGUA,3,14955355.19,3,14955355.19,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,19,PASCO,4,32158437.99,4,32158437.99,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,20,PIURA,24,121925491.12,24,121925491.12,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,21,PUNO,50,59654754.49,50,59654754.49,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,22,SAN MARTIN,1,10799198.15,1,10799198.15,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,23,TACNA,5,24187144.94,5,24187144.94,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-12-31,25,UCAYALI,1,628167.6,1,628167.6,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,01,AMAZONAS,4,55218553.63,3,53464786.61,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,02,ANCASH,12,86016493.27,12,86016493.27,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,03,APURIMAC,26,114408849.09,24,107117532.19,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,04,AREQUIPA,13,18502690.75,11,17602950.45,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,05,AYACUCHO,14,33469989.4,13,33154616.4,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,06,CAJAMARCA,21,124814224.38,20,124685591.02,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,07,CALLAO,2,57569602.84,2,57569602.84,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,08,CUSCO,62,158400438.5,55,135680672.41,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,09,HUANCAVELICA,18,106218669.99,17,105109655.14,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,10,HUANUCO,8,42317881.41,7,41406411.36,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,11,ICA,3,14647713.13,3,14647713.13,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,12,JUNIN,12,58382441.09,12,58382441.09,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,13,LA LIBERTAD,12,163932050.77,11,163800400.7,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,14,LAMBAYEQUE,10,44600976.18,9,43098476.18,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,15,LIMA,32,246335931.02,21,155871767.11,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,16,LORETO,6,57192189.45,3,9169109.34,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,17,MADRE DE DIOS,3,23494269.11,3,23494269.11,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,18,MOQUEGUA,4,15125628.53,3,14955355.19,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,19,PASCO,4,24156453.45,3,20236964.23,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,20,PIURA,20,91588172.05,19,91542931.07,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,21,PUNO,56,138426577.56,47,49223916.5,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,22,SAN MARTIN,4,26540515.64,3,26360515.64,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,23,TACNA,5,24187144.94,5,24187144.94,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-10-31,25,UCAYALI,1,628167.6,1,628167.6,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,01,AMAZONAS,4,56925118.72,4,56925118.72,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,02,ANCASH,13,96518562.88,13,96518562.88,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,03,APURIMAC,22,102925026.7,22,102925026.7,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,04,AREQUIPA,11,17671770.15,11,17671770.15,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,05,AYACUCHO,13,41024418.13,13,41024418.13,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,06,CAJAMARCA,19,137365077.6,19,137365077.6,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,07,CALLAO,2,57569602.84,2,57569602.84,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,08,CUSCO,53,167924074.16,53,167924074.16,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,09,HUANCAVELICA,15,71986957.37,15,71986957.37,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,10,HUANUCO,8,51328768.32,8,51328768.32,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,11,ICA,3,14647713.13,3,14647713.13,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,12,JUNIN,10,59250012.08,10,59250012.08,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,13,LA LIBERTAD,10,163476618.31,10,163476618.31,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,14,LAMBAYEQUE,4,27676958.23,4,27676958.23,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,15,LIMA,17,142862107.08,17,142862107.08,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,16,LORETO,3,60134212.34,3,60134212.34,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,17,MADRE DE DIOS,3,23494269.11,3,23494269.11,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,18,MOQUEGUA,3,14955355.19,3,14955355.19,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,19,PASCO,2,8865845.41,2,8865845.41,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,20,PIURA,20,92065296.16,20,92065296.16,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,21,PUNO,40,42770694.02,40,42770694.02,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,22,SAN MARTIN,2,19266085.53,2,19266085.53,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,23,TACNA,5,24187144.94,5,24187144.94,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2023,2023-09-30,25,UCAYALI,1,628167.6,1,628167.6,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD
+2024,2024-12-31,01,AMAZONAS,2,42010239.96,2,42010239.96,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,02,ANCASH,24,140349556.73,24,140349556.73,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,03,APURIMAC,14,72569259.06,14,72569259.06,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,04,AREQUIPA,13,74354615.44,13,74354615.44,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,05,AYACUCHO,17,62330210.32,17,62330210.32,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,06,CAJAMARCA,17,105070106.2,17,105070106.2,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,07,CALLAO,4,143940752.88,4,143940752.88,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,08,CUSCO,44,160365675.06,45,161645748.27,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,09,HUANCAVELICA,16,66385480.34,16,66385480.34,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,10,HUANUCO,10,63504748.04,10,63504748.04,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,11,ICA,2,3111359.59,2,3111359.59,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,12,JUNIN,13,177695398.25,13,177695398.25,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,13,LA LIBERTAD,11,165716482.8,11,165716482.8,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,14,LAMBAYEQUE,17,108047948.93,17,108047948.93,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,15,LIMA,30,185519226.21,30,185519226.21,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,16,LORETO,2,77798850.79,2,77798850.79,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,17,MADRE DE DIOS,3,5527472.91,3,5527472.91,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,18,MOQUEGUA,4,48697142.83,4,48697142.83,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,19,PASCO,3,13383279.48,3,13383279.48,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,20,PIURA,39,167243988.49,39,167243988.49,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,21,PUNO,67,259599106.58,67,259599106.58,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,22,SAN MARTIN,3,10303510.26,3,10303510.26,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,23,TACNA,4,57043132.52,4,57043132.52,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,24,TUMBES,2,13007003.88,2,13007003.88,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-12-31,25,UCAYALI,3,50606935.35,3,50606935.35,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024
+2024,2024-06-30,01,AMAZONAS,4,17451603.64,4,17451603.64,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,02,ANCASH,18,105977573.15,18,105977573.15,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,03,APURIMAC,17,112397965.83,17,112397965.83,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,04,AREQUIPA,14,71371807.29,14,71371807.29,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,05,AYACUCHO,17,66933374.94,17,66933374.94,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,06,CAJAMARCA,23,141135391.12,23,141135391.12,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,07,CALLAO,2,52338045.01,2,52338045.01,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,08,CUSCO,48,181809693.36,48,181809693.36,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,09,HUANCAVELICA,18,73506669.62,18,73506669.62,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,10,HUANUCO,8,53915089.47,8,53915089.47,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,11,ICA,1,2709975.19,1,2709975.19,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,12,JUNIN,13,139182557.53,13,139182557.53,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,13,LA LIBERTAD,9,167057026.9,9,167057026.9,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,14,LAMBAYEQUE,8,33762025.95,8,33762025.95,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,15,LIMA,33,319662145.87,33,319662145.87,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,16,LORETO,3,21926840.02,3,21926840.02,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,17,MADRE DE DIOS,2,5136020.9,2,5136020.9,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,18,MOQUEGUA,5,19818933.23,5,19818933.23,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,19,PASCO,3,13718420.75,3,13718420.75,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,20,PIURA,25,135401144.48,25,135401144.48,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,21,PUNO,50,149749200.83,50,149749200.83,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,23,TACNA,5,37920054.69,5,37920054.69,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-06-30,25,UCAYALI,1,628167.6,1,628167.6,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024
+2024,2024-03-31,01,AMAZONAS,3,21530617.55,3,21530617.55,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,02,ANCASH,21,113283643.6,21,113283643.6,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,03,APURIMAC,26,99502255.5,26,99502255.5,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,04,AREQUIPA,17,71448133.76,17,71448133.76,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,05,AYACUCHO,15,62162748.79,15,62162748.79,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,06,CAJAMARCA,25,98672267.22,25,98672267.22,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,07,CALLAO,1,14429699.65,1,14429699.65,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,08,CUSCO,46,146670781.52,46,146670781.52,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,09,HUANCAVELICA,15,55453293.16,15,55453293.16,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,10,HUANUCO,9,62504190.79,9,62504190.79,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,11,ICA,1,3004639.0,1,3004639.0,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,12,JUNIN,20,132131640.29,20,132131640.29,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,13,LA LIBERTAD,13,172013428.21,13,172013428.21,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,14,LAMBAYEQUE,10,38536173.14,10,38536173.14,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,15,LIMA,26,309007905.86,26,309007905.86,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,16,LORETO,3,9169109.34,3,9169109.34,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,17,MADRE DE DIOS,2,5136020.9,2,5136020.9,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,18,MOQUEGUA,5,22116822.53,5,22116822.53,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,19,PASCO,4,26307095.56,4,26307095.56,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,20,PIURA,34,159854473.47,34,159854473.47,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,21,PUNO,60,252337463.43,60,252337463.43,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,22,SAN MARTIN,1,10799198.15,1,10799198.15,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,23,TACNA,9,46122909.31,9,46122909.31,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-03-31,25,UCAYALI,1,628167.6,1,628167.6,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO
+2024,2024-09-30,01,AMAZONAS,3,4685678.57,3,4685678.57,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,02,ANCASH,30,166598406.55,30,166598406.55,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,03,APURIMAC,18,138396898.92,18,138396898.92,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,04,AREQUIPA,15,68978633.18,15,68978633.18,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,05,AYACUCHO,15,53859499.46,15,53859499.46,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,06,CAJAMARCA,24,132577885.79,24,132577885.79,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,07,CALLAO,2,60524633.39,2,60524633.39,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,08,CUSCO,57,191625009.7,57,191625009.7,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,09,HUANCAVELICA,21,124847869.9,21,124847869.9,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,10,HUANUCO,11,68444028.31,11,68444028.31,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,11,ICA,2,10423999.68,2,10423999.68,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,12,JUNIN,16,159684459.75,16,159684459.75,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,13,LA LIBERTAD,13,229485687.11,13,229485687.11,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,14,LAMBAYEQUE,17,127960333.35,17,127960333.35,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,15,LIMA,34,328056764.06,34,328056764.06,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,16,LORETO,3,30954513.47,3,30954513.47,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,17,MADRE DE DIOS,2,5136020.9,2,5136020.9,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,18,MOQUEGUA,8,67236491.83,8,67236491.83,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,19,PASCO,4,35714705.88,4,35714705.88,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,20,PIURA,41,196869933.83,41,196869933.83,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,21,PUNO,66,257840088.95,66,257840088.95,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,22,SAN MARTIN,4,18770397.64,4,18770397.64,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,23,TACNA,3,53906122.14,3,53906122.14,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,24,TUMBES,1,9675607.96,1,9675607.96,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2024,2024-09-30,25,UCAYALI,3,49806294.63,3,49806294.63,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024
+2025,2025-12-31,01,AMAZONAS,3,78272150.13,3,78272150.13,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,02,ANCASH,26,263523983.88,26,263523983.88,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,03,APURIMAC,10,159800850.34,10,159800850.34,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,04,AREQUIPA,7,46631230.6,7,46631230.6,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,05,AYACUCHO,6,24795785.8,6,24795785.8,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,06,CAJAMARCA,16,166661456.99,16,166661456.99,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,07,CALLAO,4,129962848.62,4,129962848.62,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,08,CUSCO,23,129612257.71,23,129612257.71,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,09,HUANCAVELICA,11,67045986.76,11,67045986.76,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,10,HUANUCO,5,21929223.15,5,21929223.15,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,11,ICA,3,29296652.66,3,29296652.66,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,12,JUNIN,10,126529874.89,10,126529874.89,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,13,LA LIBERTAD,5,32705147.34,5,32705147.34,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,14,LAMBAYEQUE,14,133815295.01,14,133815295.01,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,15,LIMA,17,182805430.3,17,182805430.3,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,16,LORETO,3,76096124.32,3,76096124.32,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,17,MADRE DE DIOS,2,942021.76,2,942021.76,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,18,MOQUEGUA,2,4609120.8,2,4609120.8,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,19,PASCO,3,54507440.27,3,54507440.27,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,20,PIURA,27,147959307.36,27,147959307.36,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,21,PUNO,17,136305142.47,17,136305142.47,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,22,SAN MARTIN,6,51317484.74,6,51317484.74,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,23,TACNA,2,15990495.02,2,15990495.02,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-12-31,25,UCAYALI,1,26830714.27,1,26830714.27,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,01,AMAZONAS,2,62288361.79,2,62288361.79,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,02,ANCASH,22,111426230.82,22,111426230.82,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,03,APURIMAC,4,44206635.0,4,44206635.0,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,04,AREQUIPA,6,39076287.8,6,39076287.8,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,05,AYACUCHO,8,40003683.02,8,40003683.02,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,06,CAJAMARCA,15,146927657.02,15,146927657.02,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,07,CALLAO,3,125714101.93,3,125714101.93,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,08,CUSCO,19,108104758.16,19,108104758.16,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,09,HUANCAVELICA,14,55556008.26,14,55556008.26,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,10,HUANUCO,5,25130397.87,5,25130397.87,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,11,ICA,2,13862410.89,2,13862410.89,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,12,JUNIN,8,119977273.48,8,119977273.48,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,13,LA LIBERTAD,8,60643295.62,8,60643295.62,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,14,LAMBAYEQUE,14,92707635.98,14,92707635.98,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,15,LIMA,20,137136172.04,20,137136172.04,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,16,LORETO,2,69847657.47,2,69847657.47,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,17,MADRE DE DIOS,3,12733600.38,3,12733600.38,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,18,MOQUEGUA,2,35360313.84,2,35360313.84,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,19,PASCO,1,2225407.68,1,2225407.68,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,20,PIURA,31,136489109.9,31,136489109.9,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,21,PUNO,27,160128038.79,27,160128038.79,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,22,SAN MARTIN,2,10025990.02,2,10025990.02,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,23,TACNA,1,14939865.98,1,14939865.98,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-06-30,24,TUMBES,1,3245712.15,1,3245712.15,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,01,AMAZONAS,2,60475714.62,2,60475714.62,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,02,ANCASH,24,140535019.16,24,140535019.16,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,03,APURIMAC,16,119369355.55,16,119369355.55,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,04,AREQUIPA,17,89427519.66,17,89427519.66,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,05,AYACUCHO,15,51264079.64,15,51264079.64,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,06,CAJAMARCA,16,113484716.6,16,113484716.6,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,07,CALLAO,2,82830525.48,2,82830525.48,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,08,CUSCO,46,174265517.9,46,174265517.9,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,09,HUANCAVELICA,12,57553171.2,12,57553171.2,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,10,HUANUCO,10,58174358.86,10,58174358.86,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,11,ICA,2,3111359.59,2,3111359.59,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,12,JUNIN,13,137719169.6,13,137719169.6,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,13,LA LIBERTAD,14,190715211.78,14,190715211.78,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,14,LAMBAYEQUE,17,108047948.93,17,108047948.93,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,15,LIMA,29,182042569.64,29,182042569.64,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,16,LORETO,3,84273569.26,3,84273569.26,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,17,MADRE DE DIOS,6,32217398.79,6,32217398.79,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,18,MOQUEGUA,4,49008286.07,4,49008286.07,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,19,PASCO,5,17243413.11,5,17243413.11,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,20,PIURA,34,147497767.63,34,147497767.63,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,21,PUNO,65,239833449.39,65,239833449.39,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,22,SAN MARTIN,2,443271.99,2,443271.99,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,23,TACNA,4,57043132.52,4,57043132.52,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-03-31,25,UCAYALI,2,37261004.1,2,37261004.1,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,01,AMAZONAS,2,62288361.79,2,62288361.79,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,02,ANCASH,23,114261081.82,23,114261081.82,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,03,APURIMAC,6,70041226.11,6,70041226.11,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,04,AREQUIPA,6,44079891.66,6,44079891.66,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,05,AYACUCHO,6,28290285.1,6,28290285.1,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,06,CAJAMARCA,18,117953523.82,18,117953523.82,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,07,CALLAO,2,82830525.48,2,82830525.48,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,08,CUSCO,18,105947953.68,18,105947953.68,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,09,HUANCAVELICA,11,54667013.08,11,54667013.08,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,10,HUANUCO,4,18605239.07,4,18605239.07,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,11,ICA,2,13862410.89,2,13862410.89,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,12,JUNIN,9,138024182.0,9,138024182.0,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,13,LA LIBERTAD,6,44467991.77,6,44467991.77,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,14,LAMBAYEQUE,14,92580546.07,14,92580546.07,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,15,LIMA,17,115211977.3,17,115211977.3,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,16,LORETO,3,71581480.1,3,71581480.1,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,17,MADRE DE DIOS,2,942021.76,2,942021.76,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,18,MOQUEGUA,1,3503678.29,1,3503678.29,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,19,PASCO,2,30789788.68,2,30789788.68,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,20,PIURA,25,112698303.42,25,112698303.42,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,21,PUNO,17,135095929.46,17,135095929.46,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,22,SAN MARTIN,1,165751.75,1,165751.75,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2025,2025-09-30,23,TACNA,1,14939865.98,1,14939865.98,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP
+2026,2026-06-30,01,AMAZONAS,7,70575897.44,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,02,ANCASH,29,293282722.03,6,67582913.44,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,03,APURIMAC,11,132053348.86,2,34954568.5,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,04,AREQUIPA,13,84071192.13,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,05,AYACUCHO,16,23049072.89,1,5734651.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,06,CAJAMARCA,21,212660339.92,2,27765666.26,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,07,CALLAO,3,127611630.14,2,84471726.95,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,08,CUSCO,53,199949347.39,1,2039034.92,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,09,HUANCAVELICA,15,71348649.43,2,31939859.97,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,10,HUANUCO,11,132475538.24,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,11,ICA,3,16575215.58,1,13463855.99,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,12,JUNIN,19,328143078.96,5,259907893.44,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,13,LA LIBERTAD,12,209709514.647,4,30305706.76,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,14,LAMBAYEQUE,12,69833673.54,3,22096810.81,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,15,LIMA,29,436839552.26,15,203908024.25,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,17,MADRE DE DIOS,3,2363787.88,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,18,MOQUEGUA,3,23603104.14,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,19,PASCO,3,53571251.64,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,20,PIURA,27,217583780.8,14,146944137.29,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,21,PUNO,37,1136667670.51,1,117975007.43,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,22,SAN MARTIN,3,54445211.99,2,46115954.64,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,23,TACNA,4,68050179.79,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-06-30,25,UCAYALI,3,55305548.25,0,0.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data
+2026,2026-03-31,01,AMAZONAS,3,77116358.55,3,77116358.55,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,02,ANCASH,26,246030121.43,26,246030121.43,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,03,APURIMAC,6,52253147.3,6,52253147.3,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,04,AREQUIPA,6,58174473.66,6,58174473.66,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,05,AYACUCHO,6,24795785.8,6,24795785.8,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,06,CAJAMARCA,14,149686297.14,14,149686297.14,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,07,CALLAO,3,129000956.61,3,129000956.61,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,08,CUSCO,20,100110564.05,20,100110564.05,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,09,HUANCAVELICA,12,67567389.49,12,67567389.49,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,10,HUANUCO,3,17860188.93,3,17860188.93,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,11,ICA,3,29299482.16,3,29299482.16,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,12,JUNIN,11,265835597.07,11,265835597.07,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,13,LA LIBERTAD,8,75386249.02,8,75386249.02,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,14,LAMBAYEQUE,10,71860497.06,10,71860497.06,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,15,LIMA,16,176649892.43,19,253533215.77,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,16,LORETO,1,6059228.52,1,6059228.52,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,17,MADRE DE DIOS,2,942021.76,2,942021.76,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,19,PASCO,3,61877301.77,3,61877301.77,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,20,PIURA,24,123531598.22,25,190884210.27,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,21,PUNO,15,961642051.37,15,961642051.37,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,22,SAN MARTIN,1,36422197.47,1,36422197.47,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,23,TACNA,2,15831545.14,2,15831545.14,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP
+2026,2026-03-31,25,UCAYALI,2,54806702.27,2,54806702.27,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP

@@ -1,0 +1,557 @@
+﻿anio,fecha_corte,tabla,categoria,nivel_gobierno,obras_paralizadas,costo_actualizado_soles,pct_obras,pct_costo,orden_niveles,fuente_pdf,pagina,tabla_n
+2023,2023-02-28,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,29,149313983.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,50,547920119.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,851,1518124074.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,930,2215358175.0,53.1,9.7,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR CONTRATA,NACIONAL,241,8303175999.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR CONTRATA,REGIONAL,131,5034094538.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR CONTRATA,LOCAL,376,3625457000.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR CONTRATA,TOTAL,748,16962727537.0,42.7,74.5,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,65,60419564.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,65,60419564.0,3.7,0.3,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,37573530.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,2,145678980.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,3,28415639.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,6,211668149.0,0.3,0.9,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,1,3149967556.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,1,3149967556.0,0.1,13.8,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,NACIONAL,1,177954129.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,TOTAL,1,177954129.0,0.1,0.8,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,11,1
+2023,2023-02-28,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,29,149313983.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,50,547920119.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,851,1518124074.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,930,2215358175.0,55.4,11.6,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,241,8303175999.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,131,5034094538.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,POR CONTRATA,LOCAL,376,3625457000.0,,,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-02-28,administracion_directa_y_contrata,POR CONTRATA,TOTAL,748,16962727537.0,44.6,88.4,verificado,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,14,3
+2023,2023-05-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,23,122905666.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,43,382583760.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,820,1442702387.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,886,1948191812.0,55.1,8.6,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR CONTRATA,NACIONAL,189,8922061093.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR CONTRATA,REGIONAL,126,4425988539.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR CONTRATA,LOCAL,359,3797725425.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR CONTRATA,TOTAL,674,17145775057.0,41.9,75.7,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,43,55047918.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,43,55047918.0,2.7,0.2,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,144602568.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,3,28415639.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,4,173018207.0,0.2,0.8,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,1,3148962778.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,1,3148962778.0,0.1,13.9,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,NACIONAL,1,177954129.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,REGIONAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,LOCAL,0,0.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,TOTAL,1,177954129.0,0.1,0.8,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,12,1
+2023,2023-05-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,23,122905666.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,43,382583760.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,820,1442702387.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,886,1948191812.0,56.8,10.2,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,189,8922061093.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,126,4425988539.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,359,3797725425.0,,,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-05-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,674,17145775057.0,43.2,89.8,verificado,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,31,199963279.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,61,873190986.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,938,1792164234.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1030,2865318500.0,56.4,11.9,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR CONTRATA,NACIONAL,211,9185122977.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR CONTRATA,REGIONAL,135,4305244833.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR CONTRATA,LOCAL,404,4181205509.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR CONTRATA,TOTAL,750,17671573319.0,41.1,73.4,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,40,51753235.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,40,51753235.0,2.2,0.2,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,12298340.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,144602568.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,2,17898941.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,4,174799849.0,0.2,0.7,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,1,3148962778.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,1,3148962778.0,0.1,13.1,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,NACIONAL,1,177954129.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,TOTAL,1,177954129.0,0.1,0.7,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,12,1
+2023,2023-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,31,199963279.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,61,873190986.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,938,1792164234.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1030,2865318500.0,57.8,14.0,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,211,9185122977.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,135,4305244833.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,404,4181205509.0,,,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-06-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,750,17671573319.0,42.2,86.0,verificado,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,31,194750827.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,68,907228790.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1043,1873166894.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1142,2975146512.0,55.6,11.7,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR CONTRATA,NACIONAL,244,9286536294.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR CONTRATA,REGIONAL,167,5022073576.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR CONTRATA,LOCAL,456,4585608325.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR CONTRATA,TOTAL,867,18894218196.0,42.3,74.3,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,38,46775918.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1077532.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,39,47853449.0,1.9,0.2,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,4580637.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,144602568.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,3,28415639.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,177598843.0,0.2,0.7,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,1,3148962778.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,1,3148962778.0,0.0,12.4,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,NACIONAL,1,177954129.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,por_modalidad,CONVENIO CON ORGANISMOS INTERNACIONALES,TOTAL,1,177954129.0,0.0,0.7,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,12,1
+2023,2023-07-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,31,194750827.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,68,907228790.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1043,1873166894.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1142,2975146512.0,56.8,13.6,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,244,9286536294.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,167,5022073576.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,456,4585608325.0,,,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-07-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,867,18894218196.0,43.2,86.4,verificado,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,26,168713155.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,60,801386366.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1009,1806805788.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1095,2776905309.0,54.5,10.3,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR CONTRATA,NACIONAL,245,9243868656.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR CONTRATA,REGIONAL,161,4884747054.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR CONTRATA,LOCAL,444,4271838904.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR CONTRATA,TOTAL,850,18400454615.0,42.3,68.2,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,59,63101444.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,60,64243476.0,3.0,0.2,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,144602568.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,2,17898941.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,3,162501509.0,0.1,0.6,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,5580401532.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,5580401532.0,0.1,20.7,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,12,1
+2023,2023-08-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,26,168713155.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,60,801386366.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1009,1806805788.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1095,2776905309.0,56.3,13.1,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,245,9243868656.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,161,4884747054.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,444,4271838904.0,,,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-08-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,850,18400454615.0,43.7,86.9,verificado,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,23,151382188.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,58,786551375.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1039,1794547812.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1120,2732481375.0,54.2,10.1,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR CONTRATA,NACIONAL,264,9298813403.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR CONTRATA,REGIONAL,162,4591341527.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR CONTRATA,LOCAL,438,4647898687.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR CONTRATA,TOTAL,864,18538053616.0,41.8,68.4,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,75,77674163.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,76,78816195.0,3.7,0.3,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,12298340.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,144602568.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,2,17898941.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,4,174799849.0,0.2,0.6,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,5580401532.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,5580401532.0,0.1,20.6,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,12,1
+2023,2023-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,23,151382188.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,58,786551375.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1039,1794547812.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1120,2732481375.0,56.5,12.8,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,264,9298813403.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,162,4591341527.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,438,4647898687.0,,,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-09-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,864,18538053616.0,43.5,87.2,verificado,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,21,131977398.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,54,552455245.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1097,1723638834.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1172,2408071477.0,54.0,8.5,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR CONTRATA,NACIONAL,274,10639539748.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR CONTRATA,REGIONAL,151,4474654385.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR CONTRATA,LOCAL,483,4823287831.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR CONTRATA,TOTAL,908,19937481963.0,41.8,70.7,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,83,81077907.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,84,82219938.0,3.9,0.3,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,12298340.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,144602568.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,3,34742343.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,191643251.0,0.2,0.7,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,5580401532.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,5580401532.0,0.1,19.8,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,12,1
+2023,2023-10-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,21,131977398.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,54,552455245.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1097,1723638834.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1172,2408071477.0,56.3,10.8,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,274,10639539748.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,151,4474654385.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,483,4823287831.0,,,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-10-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,908,19937481963.0,43.7,89.2,verificado,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,27,151317911.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,59,603989558.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1184,2037332454.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1270,2792639923.0,55.3,10.3,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR CONTRATA,NACIONAL,260,9447831996.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR CONTRATA,REGIONAL,162,3934619765.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR CONTRATA,LOCAL,527,5100221915.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR CONTRATA,TOTAL,949,18482673676.0,41.3,68.5,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,73,73426624.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,74,74568656.0,3.2,0.3,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,12298340.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,2,26494350.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,3,38792689.0,0.1,0.1,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,5603524668.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,5603524668.0,0.1,20.8,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,12,1
+2023,2023-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,27,151317911.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,59,603989558.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1184,2037332454.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1270,2792639923.0,57.2,13.1,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,260,9447831996.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,162,3934619765.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,527,5100221915.0,,,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2023,2023-12-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,949,18482673676.0,42.8,86.9,verificado,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,15,1
+2024,2024-03-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,20,112375085.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,75,1038484909.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1120,1873781424.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1215,3024641419.0,52.3,9.1,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR CONTRATA,NACIONAL,273,11413444776.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR CONTRATA,REGIONAL,191,5663795391.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR CONTRATA,LOCAL,588,6387308175.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR CONTRATA,TOTAL,1052,23464548342.0,45.3,70.7,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,49,271967565.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,50,273109597.0,2.2,0.8,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,5,85470896.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,85470896.0,0.2,0.3,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,6319387824.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,6319387824.0,0.1,19.1,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,12,1
+2024,2024-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,20,112375085.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,75,1038484909.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1120,1873781424.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1215,3024641419.0,53.6,11.4,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,273,11413444776.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,191,5663795391.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,588,6387308175.0,,,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-03-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1052,23464548342.0,46.4,88.6,verificado,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,14,2
+2024,2024-06-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,22,152219263.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,66,936369778.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1034,1852445272.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1122,2941034313.0,49.7,8.1,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR CONTRATA,NACIONAL,295,13921001951.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR CONTRATA,REGIONAL,229,6351348150.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR CONTRATA,LOCAL,562,6235987132.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR CONTRATA,TOTAL,1086,26508337233.0,48.2,73.4,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,38,259984420.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,39,261126452.0,1.7,0.8,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,4580637.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,5,56231621.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,7,75238170.0,0.3,0.2,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,6336591720.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,,0.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,6336591720.0,0.1,17.5,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,11,2
+2024,2024-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,22,152219263.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,66,936369778.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1034,1852445272.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1122,2941034313.0,50.8,10.0,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,295,13921001951.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,229,6351348150.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,562,6235987132.0,,,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-06-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1086,26508337233.0,49.2,90.0,verificado,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,por_modalidad,POR CONTRATA,NACIONAL,383,16396646896.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR CONTRATA,REGIONAL,250,7799075730.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR CONTRATA,LOCAL,749,8537144323.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR CONTRATA,TOTAL,1382,32732866949.0,52.2,75.2,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,25,161481324.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,81,1619771872.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1122,1986570225.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1228,3767823422.0,46.4,8.7,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,26,30979401.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,27,32121433.0,1.0,0.1,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,11845110.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,5,121995608.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,7,148266630.0,0.3,0.3,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,3,6296264688.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,3,6296264688.0,0.1,14.5,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,GOBIERNO A GOBIERNO,NACIONAL,1,577972641.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,GOBIERNO A GOBIERNO,REGIONAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,GOBIERNO A GOBIERNO,LOCAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,por_modalidad,GOBIERNO A GOBIERNO,TOTAL,1,577972641.0,0.0,1.3,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,11,2
+2024,2024-09-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,383,16396646896.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,250,7799075730.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,749,8537144323.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1382,32732866949.0,53.0,90.0,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,25,161481324.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,81,1619771872.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1122,1986570225.0,,,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1228,3767823422.0,47.0,10.0,verificado,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,por_modalidad,POR CONTRATA,NACIONAL,329,15603349924.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR CONTRATA,REGIONAL,233,7256907497.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR CONTRATA,LOCAL,661,7634015075.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR CONTRATA,TOTAL,1223,30494272496.0,49.4,70.7,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,27,186687929.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,74,1543897686.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1114,2048444520.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1215,3779030135.0,49.1,8.8,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,27,35422830.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,28,36564862.0,1.1,0.1,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,11845110.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,6,115215452.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,8,141486474.0,0.3,0.3,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ASOCIACIONES PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ASOCIACIONES PUBLICA PRIVADA APP,REGIONAL,2,8667527238.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ASOCIACIONES PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,por_modalidad,ASOCIACIONES PUBLICA PRIVADA APP,TOTAL,2,8667527238.0,0.1,20.1,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,11,2
+2024,2024-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,27,186687929.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,74,1543897686.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1114,2048444520.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1215,3779030135.0,49.8,11.0,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,329,15603349924.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,233,7256907497.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,661,7634015075.0,,,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2024,2024-12-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1223,30494272496.0,50.2,89.0,verificado,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,14,1
+2025,2025-03-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,29,211517243.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,80,1742753268.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1202,2227700067.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1311,4181970578.0,51.0,9.7,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR CONTRATA,NACIONAL,331,15650489801.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR CONTRATA,REGIONAL,256,7094139766.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR CONTRATA,LOCAL,638,7376082911.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR CONTRATA,TOTAL,1225,30120712478.0,47.6,69.8,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,25,36384284.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,26,37526316.0,1.0,0.1,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,2,31876928.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,5,109327857.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,8,155630697.0,0.3,0.3,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,8667527238.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,8667527238.0,0.1,20.1,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,11,2
+2025,2025-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,29,211517243.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,80,1742753268.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1202,2227700067.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1311,4181970578.0,51.7,12.2,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,331,15650489801.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,256,7094139766.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,638,7376082911.0,,,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-03-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1225,30120712478.0,48.3,87.8,verificado,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,14,1
+2025,2025-06-30,por_modalidad,POR CONTRATA,NACIONAL,317,16857209832.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR CONTRATA,REGIONAL,252,7263705157.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR CONTRATA,LOCAL,639,7551702203.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR CONTRATA,TOTAL,1208,31672617193.0,49.8,71.5,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,25,168611918.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,72,1391077815.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1088,2052743843.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1185,3612433576.0,48.8,8.1,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,25,36384284.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,1,1142032.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,26,37526316.0,1.1,0.1,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,11845110.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,4,101079864.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,6,127350886.0,0.2,0.3,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,8670071876.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,8670071876.0,0.1,19.6,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,CON ORGANISMO INTERNACIONAL,NACIONAL,1,177954129.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,CON ORGANISMO INTERNACIONAL,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,CON ORGANISMO INTERNACIONAL,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,por_modalidad,CON ORGANISMO INTERNACIONAL,TOTAL,1,177954129.0,0.0,0.4,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,12,1
+2025,2025-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,25,168611918.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,72,1391077815.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1088,2052743843.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1185,3612433576.0,49.5,10.2,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,317,16857209832.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,252,7263705157.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,639,7551702203.0,,,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-06-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1208,31672617193.0,50.5,89.8,verificado,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,por_modalidad,POR CONTRATA,NACIONAL,286,16267230423.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR CONTRATA,REGIONAL,238,6576293680.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR CONTRATA,LOCAL,609,7038642532.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR CONTRATA,TOTAL,1133,29882166636.0,51.2,70.6,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,25,161845224.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,65,1425296139.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,963,1864303367.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1053,3451444729.0,47.5,8.2,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,21,28488536.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,21,28488536.0,0.9,0.1,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,4,101079864.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,115505776.0,0.2,0.3,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,8670071876.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,8670071876.0,0.1,20.5,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,CON ORGANISMO INTERNACIONAL,NACIONAL,1,177954129.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,CON ORGANISMO INTERNACIONAL,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,CON ORGANISMO INTERNACIONAL,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,por_modalidad,CON ORGANISMO INTERNACIONAL,TOTAL,1,177954129.0,0.0,0.4,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,12,1
+2025,2025-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,25,161845224.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,65,1425296139.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,963,1864303367.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1053,3451444729.0,48.2,10.4,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,286,16267230423.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,238,6576293680.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,609,7038642532.0,,,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-09-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1133,29882166636.0,51.8,89.6,verificado,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,por_modalidad,POR CONTRATA,NACIONAL,327,35465880248.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONTRATA,REGIONAL,261,8515436753.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONTRATA,LOCAL,620,7962380150.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONTRATA,TOTAL,1208,51943697152.0,50.0,77.4,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,30,236658630.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,72,1593157491.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,1069,2461946209.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1171,4291762331.0,48.5,6.4,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,24,33087912.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,24,33087912.0,1.0,0.0,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,1,14425912.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,4,101079864.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,115505776.0,0.2,0.2,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,GOBIERNO A GOBIERNO,NACIONAL,4,1419432350.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,GOBIERNO A GOBIERNO,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,GOBIERNO A GOBIERNO,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,GOBIERNO A GOBIERNO,TOTAL,4,1419432350.0,0.2,2.1,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,9055609730.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,9055609730.0,0.1,13.5,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,CON ORGANISMO INTERNACIONAL,NACIONAL,1,277894531.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,CON ORGANISMO INTERNACIONAL,REGIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,CON ORGANISMO INTERNACIONAL,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,CON ORGANISMO INTERNACIONAL,TOTAL,1,277894531.0,0.0,0.4,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,NACIONAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,REGIONAL,1,2140517.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,LOCAL,0,,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,TOTAL,1,2140517.0,0.0,0.0,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,11,2
+2025,2025-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,30,236658630.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,72,1593157491.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,1069,2461946209.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1171,4291762331.0,49.2,7.6,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,327,35465880248.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,261,8515436753.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,620,7962380150.0,,,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2025,2025-12-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1208,51943697152.0,50.8,92.4,verificado,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,14,2
+2026,2026-03-31,por_modalidad,POR CONTRATA,NACIONAL,321,36231423122.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONTRATA,REGIONAL,241,6884715331.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONTRATA,LOCAL,564,7709014478.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONTRATA,TOTAL,1126,50825152930.0,50.2,69.5,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,26,298359233.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,73,2365452905.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,965,4264738144.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1064,6928550283.0,47.5,9.5,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,24,29401366.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,24,29401366.0,1.1,0.0,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,GOBIERNO A GOBIERNO,NACIONAL,19,5956937134.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,GOBIERNO A GOBIERNO,REGIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,GOBIERNO A GOBIERNO,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,GOBIERNO A GOBIERNO,TOTAL,19,5956937134.0,0.8,8.1,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,48242650.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,4,118225829.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,166468479.0,0.2,0.2,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,NACIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,REGIONAL,2,9257353369.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,ASOCIACION PUBLICA PRIVADA APP,TOTAL,2,9257353369.0,0.1,12.7,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,NACIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,REGIONAL,1,2140517.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,por_modalidad,POR CONVENIO ENTRE ENTIDADES,TOTAL,1,2140517.0,0.0,0.0,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,12,1
+2026,2026-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,26,298359233.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,73,2365452905.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,965,4264738144.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1064,6928550283.0,48.6,12.0,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,321,36231423122.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,241,6884715331.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,POR CONTRATA,LOCAL,564,7709014478.0,,,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-03-31,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1126,50825152930.0,51.4,88.0,verificado,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,15,2
+2026,2026-06-30,por_modalidad,POR CONTRATA,NACIONAL,321,35889324106.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONTRATA,REGIONAL,236,8101127545.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONTRATA,LOCAL,574,7751617657.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONTRATA,TOTAL,1131,51742069307.0,50.0,82.4,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,ADMINISTRACION DIRECTA,NACIONAL,27,400311468.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,ADMINISTRACION DIRECTA,REGIONAL,86,3071263759.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,ADMINISTRACION DIRECTA,LOCAL,965,4124016477.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,ADMINISTRACION DIRECTA,TOTAL,1078,7595591703.0,47.7,12.1,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR NUCLEO EJECUTOR,NACIONAL,27,33134819.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR NUCLEO EJECUTOR,REGIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR NUCLEO EJECUTOR,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR NUCLEO EJECUTOR,TOTAL,27,33134818.0,1.2,0.1,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,GOBIERNO A GOBIERNO,NACIONAL,20,3366568871.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,GOBIERNO A GOBIERNO,REGIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,GOBIERNO A GOBIERNO,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,GOBIERNO A GOBIERNO,TOTAL,20,3366568871.0,0.9,5.4,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,OBRAS POR IMPUESTOS,NACIONAL,1,47918566.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,OBRAS POR IMPUESTOS,REGIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,OBRAS POR IMPUESTOS,LOCAL,4,41190061.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,OBRAS POR IMPUESTOS,TOTAL,5,89108627.0,0.2,0.1,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONVENIO ENTRE ENTIDADES,NACIONAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONVENIO ENTRE ENTIDADES,REGIONAL,1,2140517.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONVENIO ENTRE ENTIDADES,LOCAL,0,,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,por_modalidad,POR CONVENIO ENTRE ENTIDADES,TOTAL,1,2140516.0,0.0,0.0,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,11,2
+2026,2026-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,NACIONAL,321,35889324106.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,REGIONAL,236,8101127545.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,LOCAL,574,7751617657.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,ADMINISTRACION DIRECTA,TOTAL,1131,51742069308.0,51.2,87.2,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,POR CONTRATA,NACIONAL,27,400311468.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,POR CONTRATA,REGIONAL,86,3071263759.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,POR CONTRATA,LOCAL,965,4124016477.0,,,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
+2026,2026-06-30,administracion_directa_y_contrata,POR CONTRATA,TOTAL,1078,7595591704.0,48.8,12.8,verificado,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,14,2
