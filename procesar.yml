@@ -1,0 +1,61 @@
+name: Pipeline completo (desde las tablas procesadas)
+
+# Corre solo cada vez que se sube un cambio al codigo, o con el boton "Run workflow" (pestana Actions).
+# Rehace el producto final SIN datos crudos: parte de las tablas ya procesadas y auditadas (data/processed), que no tienen nombres de personas.
+# Los datos crudos (ESCALE, MEF, ENLA, Contraloria, INFOBRAS) NO estan en el repositorio: algunos traen nombres de directores de colegios y de
+# ingenieros, y pesan unos 450 MB. Se descargan y procesan en la computadora con ejecutar.bat o con el cuaderno (ver README).
+# Pasos que corre (5 a 10): NLP de causas, tablas del producto final, CSV unico, diccionario, auditoria de datos personales,
+# inventario, auditoria de calidad y dashboard HTML (resultados/dashboard.html). Si algun paso falla o la auditoria encuentra un error, la corrida sale en rojo.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/final/**"
+      - "resultados/**"
+      - "docs/**"
+      - "README.md"
+      - "LEEME_PRIMERO.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  procesar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Instalar las librerias
+        run: pip install -r requirements.txt
+
+      - name: Correr el pipeline (pasos 5 a 10, desde las tablas procesadas)
+        run: python src/pipeline_completo.py --desde-tablas --no-abrir
+
+      - name: Guardar los resultados de esta corrida
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados
+          path: |
+            data/final/
+            resultados/dashboard.html
+            docs/validacion_final.csv
+            docs/auditoria_calidad.csv
+            docs/auditoria_datos_personales.csv
+            docs/nlp_causas_metricas.csv
+          retention-days: 30
+
+      - name: Actualizar el CSV y el dashboard en el repositorio (solo si cambiaron)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/final resultados
+          git diff --cached --quiet || (git commit -m "Actualiza el CSV y el dashboard [skip ci]" && git push)
