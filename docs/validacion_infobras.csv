@@ -1,0 +1,10 @@
+﻿comprobacion,valor,detalle
+obras Educacion/Cultura en la lista de la Contraloria,341.0,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx (corte 2026-06-30)
+obras paralizadas de Educacion/Cultura en INFOBRAS,198.0,fichas leidas el 2026-10-27
+diferencia INFOBRAS vs Contraloria (%),-41.9,supera el 10 %: son poblaciones distintas (ver hallazgos)
+obras presentes en ambas,110.0,mismo codigo INFOBRAS
+"de las comunes, monto del expediente tecnico igual (<=0.5 %)",110.0,de 110
+"de las comunes, mismo departamento",109.0,de 110
+obras de INFOBRAS que no estan en la lista de la Contraloria,88.0,motivo no verificado; hipotesis: la lista de la Contraloria sigue su propio criterio (inventario MEF / Invierte.pe) y no el estado de INFOBRAS
+"  de ellas, paralizadas despues del corte",8.0,fecha_paralizacion > 2026-06-30
+obras de la lista de la Contraloria que INFOBRAS ya no marca Paralizada,231.0,"motivo no verificado (reactivadas, concluidas u otro estado en INFOBRAS)"

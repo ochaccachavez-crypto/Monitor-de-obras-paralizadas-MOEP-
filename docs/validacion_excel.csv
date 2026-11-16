@@ -1,0 +1,53 @@
+﻿fecha_corte,anexo_excel,hoja,comprobacion,valor_pdf,valor_excel,diferencia_pct,ok_10pct
+2023-12-31,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD,obras nacional,2298.0,2298.0,0.0,True
+2023-12-31,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD,costo actualizado nacional (S/),26992199613.0,26992199613.1,0.0,True
+2023-12-31,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD,obras sector Educacion,346.0,346.0,0.0,True
+2023-12-31,contraloria_2023_anexo_02_obras_paralizadas_diciembre_2023_2026-10-27.xlsx,BD,costo sector Educacion (S/),1621882382.0,1621882382.04,0.0,True
+2023-10-31,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD,obras nacional,2171.0,2171.0,0.0,True
+2023-10-31,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD,costo actualizado nacional (S/),28199818162.0,28199818162.26,0.0,True
+2023-10-31,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD,obras sector Educacion,352.0,352.0,0.0,True
+2023-10-31,contraloria_2023_anexo_02_obras_paralizadas_octubre_2023_2026-10-27.xlsx,BD,costo sector Educacion (S/),1726175624.0,1726175623.78,-0.0,True
+2023-09-30,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD,obras nacional,2066.0,2060.0,-0.29,True
+2023-09-30,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD,costo actualizado nacional (S/),27104552566.0,27026532268.05,-0.288,True
+2023-09-30,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD,obras sector Educacion,324.0,283.0,-12.654,False
+2023-09-30,contraloria_2023_anexo_02_obras_paralizadas_setiembre_2023_2026-10-27.xlsx,BD,costo sector Educacion (S/),1685647199.0,1495519856.0,-11.279,False
+2024-12-31,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024,obras nacional,2476.0,2479.0,0.121,True
+2024-12-31,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024,costo actualizado nacional (S/),43118881205.0,43118881205.37,0.0,True
+2024-12-31,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024,obras sector Educacion,364.0,364.0,0.0,True
+2024-12-31,contraloria_2024_anexo_02_obras_paralizadas_diciembre_2024_2026-10-27.xlsx,BD_30 DICIEMRE 2024,costo sector Educacion (S/),2274181483.0,2274181482.9,-0.0,True
+2024-06-30,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024,obras nacional,2256.0,2256.0,0.0,True
+2024-06-30,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024,costo actualizado nacional (S/),36122327887.0,36122327887.1,0.0,True
+2024-06-30,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024,obras sector Educacion,327.0,327.0,0.0,True
+2024-06-30,contraloria_2024_anexo_02_obras_paralizadas_junio_2024_2026-10-27.xlsx,BD_JUNIO 2024,costo sector Educacion (S/),1923509727.0,1923509727.37,0.0,True
+2024-03-31,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO,obras nacional,2324.0,2324.0,0.0,True
+2024-03-31,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO,costo actualizado nacional (S/),33167158078.0,33167158077.53,-0.0,True
+2024-03-31,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO,obras sector Educacion,367.0,367.0,0.0,True
+2024-03-31,contraloria_2024_anexo_02_obras_paralizadas_marzo_2024_2026-10-27.xlsx,BD_MARZO,costo sector Educacion (S/),1932822678.0,1932822678.33,0.0,True
+2024-09-30,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024,obras nacional,2648.0,2647.0,-0.038,True
+2024-09-30,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024,costo actualizado nacional (S/),43555315763.0,43543738368.335,-0.027,True
+2024-09-30,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024,obras sector Educacion,413.0,413.0,0.0,True
+2024-09-30,contraloria_2024_anexo_02_obras_paralizadas_setiembre_2024_2026-10-27.xlsx,BD_30SETIEMBRE 2024,costo sector Educacion (S/),2592059965.0,2592059964.95,-0.0,True
+2025-12-31,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP,obras nacional,2416.0,2416.0,0.0,True
+2025-12-31,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP,costo actualizado nacional (S/),67139130298.0,67139130298.4,0.0,True
+2025-12-31,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP,obras sector Educacion,223.0,223.0,0.0,True
+2025-12-31,contraloria_2025_anexo_02_obras_paralizadas_diciembre_2025_2026-10-27.xlsx,BD_OP,costo sector Educacion (S/),2107946025.0,2107946025.19,0.0,True
+2025-06-30,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP,obras nacional,2428.0,2428.0,0.0,True
+2025-06-30,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP,costo actualizado nacional (S/),44297953975.0,44297953975.38,0.0,True
+2025-06-30,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP,obras sector Educacion,220.0,220.0,0.0,True
+2025-06-30,contraloria_2025_anexo_02_obras_paralizadas_junio_2025_2026-10-27.xlsx,BD_OP,costo sector Educacion (S/),1627756606.0,1627756605.89,-0.0,True
+2025-03-31,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP,obras nacional,2572.0,2572.0,0.0,True
+2025-03-31,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP,costo actualizado nacional (S/),43163367307.0,43163367306.64,-0.0,True
+2025-03-31,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP,obras sector Educacion,360.0,360.0,0.0,True
+2025-03-31,contraloria_2025_anexo_02_obras_paralizadas_marzo_2025_2026-10-27.xlsx,BD_OP,costo sector Educacion (S/),2233837531.0,2233837531.07,0.0,True
+2025-09-30,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP,obras nacional,2215.0,2215.0,0.0,True
+2025-09-30,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP,costo actualizado nacional (S/),42325631682.0,42325631681.97,-0.0,True
+2025-09-30,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP,obras sector Educacion,73.0,196.0,168.493,False
+2025-09-30,contraloria_2025_anexo_02_obras_paralizadas_setiembre_2025_2026-10-27.xlsx,BD_OP,costo sector Educacion (S/),5056519950.0,1472829029.08,-70.873,False
+2026-06-30,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data,obras nacional,2262.0,2262.0,0.0,True
+2026-06-30,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data,costo actualizado nacional (S/),62828613846.0,62828613845.694,-0.0,True
+2026-06-30,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data,obras sector Educacion,337.0,337.0,0.0,True
+2026-06-30,contraloria_2026_anexo_01_obras_paralizadas_junio_2026_2026-10-27.xlsx,Data,costo sector Educacion (S/),4019769308.46,4019769308.457,-0.0,True
+2026-03-31,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP,obras nacional,2241.0,2241.0,0.0,True
+2026-03-31,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP,costo actualizado nacional (S/),73166004078.0,73166004078.11,0.0,True
+2026-03-31,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP,obras sector Educacion,197.0,197.0,0.0,True
+2026-03-31,contraloria_2026_anexo_02_obras_paralizadas_marzo_2026_2026-10-27.xlsx,BD_OP,costo sector Educacion (S/),2802739647.0,2802739647.22,0.0,True

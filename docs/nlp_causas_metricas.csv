@@ -1,0 +1,14 @@
+﻿clase,precision,recall,f1,ejemplos
+clima,0.84,0.895,0.866,76
+conflictos_sociales,0.895,0.773,0.829,22
+controversias_arbitraje,0.885,0.852,0.868,135
+expediente_tecnico,0.917,0.964,0.94,194
+incumplimiento_contractual,0.912,0.933,0.923,134
+materiales_logistica,0.87,0.861,0.866,101
+pandemia,1.0,0.917,0.957,24
+permisos_licencias,1.0,0.6,0.75,15
+recursos_financieros,0.941,0.952,0.947,540
+terreno_saneamiento,1.0,0.833,0.909,42
+accuracy,0.919,0.919,0.919,1
+macro avg,0.926,0.858,0.885,1283
+weighted avg,0.92,0.919,0.918,1283

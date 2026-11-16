@@ -1,0 +1,14 @@
+﻿codigo_infobras,departamento,provincia,distrito,ubigeo,ubigeo_metodo,departamento_escale,provincia_escale,distrito_escale,motivo
+135083,HUANCAVELICA,HUANCAVELICA,RIO SANTIAGO,110111,manual,ICA,ICA,SANTIAGO,"INFOBRAS dice HUANCAVELICA-HUANCAVELICA-RIO SANTIAGO (Rio Santiago es de Amazonas), pero la obra es 'DISTRITO DE SANTIAGO - ICA - ICA', la entidad es la Municipalidad Distrital de Santiago-Ica y las coordenadas caen en Ica"
+156196,AYACUCHO,HUANTA,CHAVIN DE HUANTAR,050401,manual,AYACUCHO,HUANTA,HUANTA,INFOBRAS dice distrito CHAVIN DE HUANTAR (es de Ancash); la obra abarca los distritos de Huanta e Iguain (provincia de Huanta). Se asigna Huanta: la mayoria de las I.E. y las coordenadas estan en Huanta
+510315,AYACUCHO,HUANTA,CHAVIN DE HUANTAR,050401,manual,AYACUCHO,HUANTA,HUANTA,"INFOBRAS dice distrito CHAVIN DE HUANTAR (es de Ancash); el nombre de la obra dice 'DISTRITO DE HUANTA, PROVINCIA HUANTA' y las coordenadas caen en Huanta"
+543835,HUANCAVELICA,PALPA,PALPA,110401,manual,ICA,PALPA,PALPA,"INFOBRAS dice HUANCAVELICA-PALPA-PALPA, pero Palpa es provincia de Ica: el nombre de la obra dice 'DISTRITO DE PALPA ... DEPARTAMENTO DE ICA', la entidad es la Municipalidad Provincial de Palpa y las coordenadas caen en Ica"
+114860,APURIMAC,CHINCHEROS,ANCO HUALLO,030602,normalizado,APURIMAC,CHINCHEROS,ANCO_HUALLO,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+141208,CALLAO,PROV. CONST. DEL CALLAO,CALLAO,070101,normalizado,CALLAO,CALLAO,CALLAO,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+143846,HUANUCO,HUANUCO,QUISQUI,100106,normalizado,HUANUCO,HUANUCO,QUISQUI (KICHKI),"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+164517,MOQUEGUA,GENERAL SANCHEZ CERRO,ICHUNA,180204,normalizado,MOQUEGUA,GENERAL SANCHEZ CERRO,ICHUÑA,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+170114,CAJAMARCA,CAJAMARCA,LOS BANOS DEL INCA,060108,normalizado,CAJAMARCA,CAJAMARCA,LOS BAÑOS DEL INCA,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+32435,MOQUEGUA,GENERAL SANCHEZ CERRO,ICHUNA,180204,normalizado,MOQUEGUA,GENERAL SANCHEZ CERRO,ICHUÑA,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+44560,LIMA,CANETE,ASIA,150502,normalizado,LIMA,CAÑETE,ASIA,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+52656,LIMA,CANETE,ASIA,150502,normalizado,LIMA,CAÑETE,ASIA,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"
+83771,CAJAMARCA,CAJAMARCA,LOS BANOS DEL INCA,060108,normalizado,CAJAMARCA,CAJAMARCA,LOS BAÑOS DEL INCA,"difiere solo en tildes, enie, guion bajo, nombre alterno entre parentesis o provincia del Callao"

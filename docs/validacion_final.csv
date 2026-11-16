@@ -1,0 +1,47 @@
+﻿tabla,comprobacion,valor,esperado,ok
+obras_maestra,filas = fichas ampliadas de INFOBRAS,429.0,429.0,True
+obras_maestra,codigo_infobras sin repetidos,0.0,0.0,True
+obras_maestra,contiene las 198 obras paralizadas del 27-oct,198.0,198.0,True
+obras_maestra,ubigeo de 6 digitos en todas,429.0,429.0,True
+obras_maestra,cod_departamento de 2 digitos y = ubigeo[:2],429.0,429.0,True
+obras_maestra,region_enla es una de las 26 regiones ENLA,429.0,429.0,True
+obras_maestra,suma del expediente tecnico = fichas ampliadas,2550634449.6,2550634449.6,True
+obras_maestra,obras paralizadas hoy = estado PARALIZADA en las fichas,179.0,179.0,True
+obras_maestra,todas las obras tienen causal oficial o grupo de causa,429.0,429.0,True
+obras_maestra,grupos de causa y macro-categorias validos,429.0,429.0,True
+obras_maestra,"obras sin causa reconocible (otros + sin_informacion), como maximo 10 %",12.0,42.0,True
+obras_maestra,tipo de infraestructura asignado y valido en todas,429.0,429.0,True
+obras_maestra,obras paralizadas hoy con fecha de paralizacion (para dias_desde_paralizacion),179.0,179.0,True
+obras_maestra,obras de educacion basica (informativo),188.0,429.0,True
+obras_maestra,ninguna macro-categoria de causa supera el 50 % de las obras,0.361,0.5,True
+NLP causas,macro-F1 del modelo de apoyo (validacion cruzada) de al menos 0.75,0.885,0.75,True
+obras_maestra,avance fisico entre 0 y 100,429.0,429.0,True
+obras_maestra,obras con CUI valido que aparecen en el Formato 12-B del MEF (informativo: al menos 80 %),361.0,414.0,True
+resumen_region,26 regiones,26.0,26.0,True
+resumen_region,obras_en_tabla suma = obras_maestra,429.0,429.0,True
+resumen_region,obras paralizadas hoy suma = obras_maestra,179.0,179.0,True
+resumen_region,causas de las paralizadas suman las paralizadas,179.0,179.0,True
+resumen_region,obras de Educacion de la Contraloria suman las del ultimo corte de la serie oficial,337.0,337.0,True
+resumen_region,locales publicos de ESCALE suman el total del censo mas reciente,54311.0,54311.0,True
+resumen_region,porcentajes entre 0 y 100,312.0,312.0,True
+serie_pais_educacion,21 cortes,21.0,21.0,True
+serie_pais_educacion,Educacion corregida solo en set-2023 y set-2025,2.0,2.0,True
+serie_pais_educacion,obras de Educacion <= obras del pais,21.0,21.0,True
+serie_educacion_departamento,13 cortes,13.0,13.0,True
+serie_educacion_departamento,la suma por corte coincide con la serie del pais (informativo: al menos 11 de 13 cortes),13.0,13.0,True
+causales_por_corte,21 cortes,21.0,21.0,True
+causales_por_corte,suma de causales = obras del pais en cada corte (cortes que cuadran),21.0,21.0,True
+dashboard_obras,tipos de registro presentes (7),7.0,7.0,True
+dashboard_obras,filas obra_infobras = obras_maestra,429.0,429.0,True
+dashboard_obras,obras paralizadas hoy = obras_maestra,179.0,179.0,True
+dashboard_obras,codigo_infobras sin repetidos en obra_infobras,0.0,0.0,True
+dashboard_obras,obra_corte_contraloria sin obra repetida en un corte,0.0,0.0,True
+dashboard_obras,obras por corte (Excel) = serie por departamento (tolerancia 2 obras),13.0,13.0,True
+dashboard_obras,serie pais Educacion = tabla serie_pais_educacion,5717.0,5717.0,True
+dashboard_obras,coordenadas dentro del Peru,0.0,0.0,True
+dashboard_obras,obras con coordenadas (informativo: al menos 90 %),412.0,429.0,True
+dashboard_obras,coordenadas para el mapa dentro del Peru,0.0,0.0,True
+dashboard_obras,obras con coordenadas para el mapa (INFOBRAS o aproximadas; informativo: al menos 90 %),429.0,429.0,True
+dashboard_obras,cod_departamento de 2 digitos,4747.0,4747.0,True
+dashboard_obras,ubigeo de 6 digitos,429.0,429.0,True
+dashboard_obras,sin filas completamente repetidas,0.0,0.0,True

@@ -1,0 +1,915 @@
+﻿tarea,fecha_corte,tabla,comprobacion,valor_a,valor_b,diferencia,tolerancia,ok
+A2,2023-09-30,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2060,2060.0,0.0,0,True
+A2,2023-10-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2171,2171.0,0.0,0,True
+A2,2023-12-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2298,2298.0,0.0,0,True
+A2,2024-03-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2324,2324.0,0.0,0,True
+A2,2024-06-30,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2256,2256.0,0.0,0,True
+A2,2024-09-30,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2646,2646.0,0.0,0,True
+A2,2024-12-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2466,2466.0,0.0,0,True
+A2,2025-03-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2571,2571.0,0.0,0,True
+A2,2025-06-30,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2425,2425.0,0.0,0,True
+A2,2025-09-30,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2214,2214.0,0.0,0,True
+A2,2025-12-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2415,2415.0,0.0,0,True
+A2,2026-03-31,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2240,2240.0,0.0,0,True
+A2,2026-06-30,contraloria_obras_corte,obras y costo = leer_base_excel; educacion igual,2262,2262.0,0.0,0,True
+A3,,contraloria_obras_panel,obras distintas,5020,5020.0,0.0,0,True
+A3,,contraloria_obras_panel,suma de n_cortes = filas de obras_corte,30348,30348.0,0.0,0,True
+A3,,contraloria_obras_panel,obras que siguen en el ultimo corte (2026-06-30),2262,2262.0,0.0,0,True
+A3,,contraloria_obras_panel,codigos repetidos dentro de un mismo corte,0,0.0,0.0,0,True
+B7,2022-06-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),231,231.0,0.0,0,True
+B7,2022-09-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),220,220.0,0.0,0,True
+B7,2022-12-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),155,155.0,0.0,0,True
+B7,2023-02-28,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),151,151.0,0.0,0,True
+B7,2023-05-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),136,136.0,0.0,0,True
+B7,2023-06-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),267,267.0,0.0,0,True
+B7,2023-07-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),288,288.0,0.0,0,True
+B7,2023-08-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),284,284.0,0.0,0,True
+B7,2023-09-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),283,324.0,-41.0,0,True
+B7,2023-10-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),352,352.0,0.0,0,True
+B7,2023-12-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),346,346.0,0.0,0,True
+B7,2024-03-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),367,367.0,0.0,0,True
+B7,2024-06-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),327,327.0,0.0,0,True
+B7,2024-09-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),413,413.0,0.0,0,True
+B7,2024-12-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),364,364.0,0.0,0,True
+B7,2025-03-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),360,360.0,0.0,0,True
+B7,2025-06-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),220,220.0,0.0,0,True
+B7,2025-09-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),196,73.0,123.0,0,True
+B7,2025-12-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),223,223.0,0.0,0,True
+B7,2026-03-31,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),197,197.0,0.0,0,True
+B7,2026-06-30,cifras_oficiales_contraloria,Educacion corregida = Excel (y = PDF salvo set-2023 y set-2025),337,337.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,departamentos presentes (25),25.0,25.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,con + sin = total en cada departamento (filas que fallan),0.0,0.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,suma obras con PIM departamentos = fila Total,817.0,817.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,suma obras sin PIM departamentos = fila Total,1398.0,1398.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,fila Total de la tabla = obras nacionales oficiales,2215.0,2215.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,nacional: obras con PIM = suma de departamentos,817.0,817.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,nacional: obras total = obras nacionales oficiales,2215.0,2215.0,0.0,0,True
+B3,2025-09-30,contraloria_pim,nacional: costo total = costo nacional oficial (S/),42325631682.0,42325631682.0,0.0,30,True
+B3,2025-09-30,contraloria_pim,"nacional: con + sin = total (costo, S/)",42325631682.0,42325631682.0,0.0,30,True
+B3,2025-12-31,contraloria_pim,departamentos presentes (25),25.0,25.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,con + sin = total en cada departamento (filas que fallan),0.0,0.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,suma obras con PIM departamentos = fila Total,911.0,911.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,suma obras sin PIM departamentos = fila Total,1505.0,1505.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,fila Total de la tabla = obras nacionales oficiales,2416.0,2416.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,nacional: obras con PIM = suma de departamentos,911.0,911.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,nacional: obras total = obras nacionales oficiales,2416.0,2416.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,nacional: costo total = costo nacional oficial (S/),67139130298.0,67139130298.0,0.0,30,True
+B3,2025-12-31,contraloria_pim,"nacional: con + sin = total (costo, S/)",67139130299.0,67139130298.0,1.0,30,True
+B3,2026-03-31,contraloria_pim,departamentos presentes (25),25.0,25.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,con + sin = total en cada departamento (filas que fallan),0.0,0.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,suma obras con PIM departamentos = fila Total,689.0,689.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,suma obras sin PIM departamentos = fila Total,1552.0,1552.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,fila Total de la tabla = obras nacionales oficiales,2241.0,2241.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,nacional: obras con PIM = suma de departamentos,689.0,689.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,nacional: obras total = obras nacionales oficiales,2241.0,2241.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,nacional: costo total = costo nacional oficial (S/),73166004078.0,73166004078.0,0.0,30,True
+B3,2026-03-31,contraloria_pim,"nacional: con + sin = total (costo, S/)",73166004078.0,73166004078.0,0.0,30,True
+B3,2026-06-30,contraloria_pim,departamentos presentes (25),25.0,25.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,con + sin = total en cada departamento (filas que fallan),0.0,0.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,suma obras con PIM departamentos = fila Total,749.0,749.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,suma obras sin PIM departamentos = fila Total,1513.0,1513.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,fila Total de la tabla = obras nacionales oficiales,2262.0,2262.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,nacional: obras con PIM = suma de departamentos,749.0,749.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,nacional: obras total = obras nacionales oficiales,2262.0,2262.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,nacional: costo total = costo nacional oficial (S/),62828613846.0,62828613846.0,0.0,30,True
+B3,2026-06-30,contraloria_pim,"nacional: con + sin = total (costo, S/)",62828613846.0,62828613846.0,0.0,30,True
+B3,2025-09-30,contraloria_pim,obras con PIM del PDF = columna TIENE PIM del Excel (nacional + 25 departamentos),1634,1634.0,0.0,0,True
+B3,2025-12-31,contraloria_pim,obras con PIM del PDF = columna TIENE PIM del Excel (nacional + 25 departamentos),1822,1822.0,0.0,0,True
+B3,2026-03-31,contraloria_pim,obras con PIM del PDF = columna TIENE PIM del Excel (nacional + 25 departamentos),1378,1378.0,0.0,0,True
+B3,2026-06-30,contraloria_pim,obras con PIM del PDF = columna TIENE PIM del Excel (nacional + 25 departamentos),1498,1498.0,0.0,0,True
+B4,2022-06-30,contraloria_modalidad_ejecucion / por_modalidad,tiene fila Total,0.0,1.0,-1.0,0,False
+B4,2022-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,tiene fila Total,0.0,1.0,-1.0,0,False
+B4,2022-06-30,contraloria_evento_infobras / por_evento,tabla encontrada en el catalogo,0.0,1.0,-1.0,0,False
+B4,2022-09-30,contraloria_modalidad_ejecucion / por_modalidad,tiene fila Total,0.0,1.0,-1.0,0,False
+B4,2022-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,tiene fila Total,0.0,1.0,-1.0,0,False
+B4,2022-09-30,contraloria_evento_infobras / por_evento,tabla encontrada en el catalogo,0.0,1.0,-1.0,0,False
+B4,2022-12-31,contraloria_modalidad_ejecucion / por_modalidad,tiene fila Total,0.0,1.0,-1.0,0,False
+B4,2022-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,tiene fila Total,0.0,1.0,-1.0,0,False
+B4,2022-12-31,contraloria_evento_infobras / por_evento,tabla encontrada en el catalogo,0.0,1.0,-1.0,0,False
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,338.0,338.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),11878404761.0,11878404760.0,1.0,60,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,183.0,183.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),5727693637.0,5727693637.0,0.0,60,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1230.0,1230.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),5171996713.0,5171996713.0,0.0,60,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,1751.0,1751.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,1751.0,1751.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,270.0,270.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),8452489982.0,8452489982.0,0.0,20,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,181.0,181.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),5582014657.0,5582014657.0,0.0,20,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1227.0,1227.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),5143581074.0,5143581074.0,0.0,20,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,1678.0,1678.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,338.0,338.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),11878404760.0,11878404760.0,0.0,30,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,183.0,183.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),5727693637.0,5727693637.0,0.0,30,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1230.0,1230.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),5171996713.0,5171996713.0,0.0,30,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,1751.0,1751.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,1751.0,1751.0,0.0,0,True
+B4,2023-02-28,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,256.0,256.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),9277968806.0,9277968805.0,1.0,60,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,171.0,171.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),8102137645.0,8102137645.0,0.0,60,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1182.0,1182.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),5268843451.0,5268843451.0,0.0,60,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,1609.0,1609.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,1609.0,1609.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,212.0,212.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),9044966759.0,9044966758.0,1.0,20,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,169.0,169.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),4808572299.0,4808572299.0,0.0,20,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1179.0,1179.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),5240427812.0,5240427812.0,0.0,20,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,1560.0,1560.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,256.0,256.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),9277968805.0,9277968805.0,0.0,30,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,171.0,171.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),8102137645.0,8102137645.0,0.0,30,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1182.0,1182.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),5268843451.0,5268843451.0,0.0,30,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,1609.0,1609.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,1609.0,1609.0,0.0,0,True
+B4,2023-05-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,284.0,284.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),9627091960.0,9627091961.0,-1.0,60,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,198.0,198.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),8472001165.0,8472001164.0,1.0,60,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1344.0,1344.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),5991268684.0,5991268684.0,0.0,60,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,1826.0,1826.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,1826.0,1826.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,242.0,242.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),9385086256.0,9385086257.0,-1.0,20,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,196.0,196.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),5178435819.0,5178435818.0,1.0,20,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1342.0,1342.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),5973369743.0,5973369743.0,0.0,20,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,1780.0,1780.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,284.0,284.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),9627091960.0,9627091961.0,-1.0,30,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,198.0,198.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),8472001164.0,8472001164.0,0.0,30,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1344.0,1344.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),5991268684.0,5991268684.0,0.0,30,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,1826.0,1826.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,1826.0,1826.0,0.0,0,True
+B4,2023-06-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,315.0,315.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),9710597805.0,9710597805.0,0.0,60,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,237.0,237.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),9222867712.0,9222867713.0,-1.0,60,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1503.0,1503.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),6488268390.0,6488268390.0,0.0,60,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2055.0,2055.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2055.0,2055.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,275.0,275.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),9481287121.0,9481287122.0,-1.0,20,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,235.0,235.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),5929302366.0,5929302367.0,-1.0,20,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1499.0,1499.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),6458775219.0,6458775220.0,-1.0,20,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2009.0,2009.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,315.0,315.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),9710597805.0,9710597805.0,0.0,30,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,237.0,237.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),9222867713.0,9222867713.0,0.0,30,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1503.0,1503.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),6488268390.0,6488268390.0,0.0,30,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2055.0,2055.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2055.0,2055.0,0.0,0,True
+B4,2023-07-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,330.0,330.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),9475683255.0,9475683255.0,0.0,50,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,224.0,224.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),11411137520.0,11411137520.0,0.0,50,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1456.0,1456.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),6097685665.0,6097685666.0,-1.0,50,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2010.0,2010.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2010.0,2010.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,271.0,271.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),9412581811.0,9412581811.0,0.0,20,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,221.0,221.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),5686133420.0,5686133419.0,1.0,20,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1453.0,1453.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),6078644692.0,6078644693.0,-1.0,20,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,1945.0,1945.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,330.0,330.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),9475683255.0,9475683255.0,0.0,30,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,224.0,224.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),11411137521.0,11411137520.0,1.0,30,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1456.0,1456.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),6097685665.0,6097685666.0,-1.0,30,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2010.0,2010.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2010.0,2010.0,0.0,0,True
+B4,2023-08-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,363.0,363.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),9540168094.0,9540168093.0,1.0,50,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,223.0,223.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),11102897002.0,11102897002.0,0.0,50,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1480.0,1480.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),6461487472.0,6461487471.0,1.0,50,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2066.0,2066.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2066.0,2066.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,287.0,287.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),9450195591.0,9450195590.0,1.0,20,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,220.0,220.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),5377892902.0,5377892902.0,0.0,20,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1477.0,1477.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),6442446499.0,6442446498.0,1.0,20,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,1984.0,1984.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,363.0,363.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),9540168093.0,9540168093.0,0.0,30,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,223.0,223.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),11102897002.0,11102897002.0,0.0,30,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1480.0,1480.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),6461487471.0,6461487471.0,0.0,30,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2066.0,2066.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2066.0,2066.0,0.0,0,True
+B4,2023-09-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,379.0,379.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),10864893393.0,10864893392.0,1.0,50,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,208.0,208.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),10752113730.0,10752113730.0,0.0,50,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1584.0,1584.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),6582811040.0,6582811040.0,0.0,50,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2171.0,2171.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2171.0,2171.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,295.0,295.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),10771517146.0,10771517145.0,1.0,20,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,205.0,205.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),5027109630.0,5027109630.0,0.0,20,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1580.0,1580.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),6546926665.0,6546926666.0,-1.0,20,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2080.0,2080.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,379.0,379.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),10864893391.0,9540168093.0,1324725298.0,30,False
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,208.0,208.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),10752113730.0,10752113730.0,0.0,30,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1584.0,1584.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),6582811041.0,6582811040.0,1.0,30,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2171.0,2171.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2171.0,2171.0,0.0,0,True
+B4,2023-10-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,361.0,361.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),9684874871.0,9684874871.0,0.0,50,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,223.0,223.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),10142133991.0,10142133991.0,0.0,50,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1714.0,1714.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),7165190751.0,7165190751.0,0.0,50,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2298.0,2298.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2298.0,2298.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,287.0,287.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),9599149907.0,9599149907.0,0.0,20,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,221.0,221.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),4538609323.0,4538609323.0,0.0,20,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1711.0,1711.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),7137554369.0,7137554369.0,0.0,20,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2219.0,2219.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,361.0,361.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),9684874871.0,9684874871.0,0.0,30,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,223.0,223.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),10142133991.0,10142133991.0,0.0,30,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1714.0,1714.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),7165190750.0,7165190751.0,-1.0,30,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2298.0,2298.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2298.0,2298.0,0.0,0,True
+B4,2023-12-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,342.0,342.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),11797787426.0,11797787426.0,0.0,50,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,268.0,268.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),13021668124.0,13021668125.0,-1.0,50,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1714.0,1714.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),8347702527.0,8347702527.0,0.0,50,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2324.0,2324.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2324.0,2324.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,293.0,293.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),11525819861.0,11525819861.0,0.0,20,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,266.0,266.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),6702280300.0,6702280300.0,0.0,20,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1708.0,1708.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),8261089599.0,8261089599.0,0.0,20,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2267.0,2267.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,342.0,342.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),11797787426.0,11797787426.0,0.0,30,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,268.0,268.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),13021668124.0,13021668125.0,-1.0,30,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1714.0,1714.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),8347702527.0,8347702527.0,0.0,30,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2324.0,2324.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2324.0,2324.0,0.0,0,True
+B4,2024-03-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,356.0,356.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),14337786271.0,14337786271.0,0.0,50,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,298.0,298.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),13638735560.0,13638735559.0,1.0,50,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1602.0,1602.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),8145806057.0,8145806057.0,0.0,50,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2256.0,2256.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2256.0,2256.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,317.0,317.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),14073221214.0,14073221214.0,0.0,20,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,295.0,295.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),7287717928.0,7287717927.0,1.0,20,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1596.0,1596.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),8088432404.0,8088432404.0,0.0,20,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2208.0,2208.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,356.0,356.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),14337786272.0,14337786271.0,1.0,30,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,298.0,298.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),13638735559.0,13638735559.0,0.0,30,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1602.0,1602.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),8145806058.0,8145806057.0,1.0,30,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2256.0,2256.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2256.0,2256.0,0.0,0,True
+B4,2024-06-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,436.0,436.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),17178925372.0,17178925372.0,0.0,60,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,335.0,335.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),15729538202.0,15729538202.0,0.0,60,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1877.0,1877.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),10646852188.0,10646852188.0,0.0,60,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2648.0,2648.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2648.0,2648.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,408.0,408.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),16558128220.0,16558128220.0,0.0,20,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,331.0,331.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),9418847602.0,9418847602.0,0.0,20,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1871.0,1871.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),10523714548.0,10523714548.0,0.0,20,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2610.0,2610.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,436.0,436.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),17178925372.0,17178925372.0,0.0,30,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,335.0,335.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),15729538202.0,15729538202.0,0.0,30,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1877.0,1877.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),10646852189.0,10646852188.0,1.0,30,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2648.0,2648.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2648.0,2648.0,0.0,0,True
+B4,2024-09-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,384.0,384.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),15837305793.0,15837305793.0,0.0,50,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,310.0,310.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),17482758333.0,17482758333.0,0.0,50,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1782.0,1782.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),9798817079.0,9798817079.0,0.0,50,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2476.0,2476.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2476.0,2476.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,356.0,356.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),15790037853.0,15790037853.0,0.0,20,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,307.0,307.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),8800805183.0,8800805183.0,0.0,20,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1775.0,1775.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),9682459595.0,9682459595.0,0.0,20,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2438.0,2438.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,384.0,384.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),15837305793.0,15837305793.0,0.0,30,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,310.0,310.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),17482758333.0,17482758333.0,0.0,30,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1782.0,1782.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),9798817079.0,9798817079.0,0.0,30,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2476.0,2476.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2476.0,2476.0,0.0,0,True
+B4,2024-12-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,387.0,387.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),15930268256.0,15930268255.0,1.0,50,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,339.0,339.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),17518846184.0,17518846184.0,0.0,50,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1846.0,1846.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),9714252867.0,9714252867.0,0.0,50,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2572.0,2572.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2572.0,2572.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,360.0,360.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),15862007044.0,15862007044.0,0.0,20,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,336.0,336.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),8836893034.0,8836893034.0,0.0,20,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1840.0,1840.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),9603782978.0,9603782978.0,0.0,20,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2536.0,2536.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,387.0,387.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),15930268255.0,15930268255.0,0.0,30,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,339.0,339.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),17518846184.0,17518846184.0,0.0,30,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1846.0,1846.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),9714252867.0,9714252867.0,0.0,30,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2572.0,2572.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2572.0,2572.0,0.0,0,True
+B4,2025-03-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,369.0,369.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),17252005273.0,17252005273.0,0.0,60,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,327.0,327.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),17339280760.0,17339280760.0,0.0,60,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1732.0,1732.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),9706667942.0,9706667942.0,0.0,60,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2428.0,2428.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2428.0,2428.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,342.0,342.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),17025821750.0,17025821750.0,0.0,20,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,324.0,324.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),8654782972.0,8654782973.0,-1.0,20,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1727.0,1727.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),9604446046.0,9604446046.0,0.0,20,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2393.0,2393.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,369.0,369.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),17252005274.0,17252005273.0,1.0,30,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,327.0,327.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),17339280760.0,17339280760.0,0.0,30,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1732.0,1732.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),9706667942.0,9706667942.0,0.0,30,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2428.0,2428.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2428.0,2428.0,0.0,0,True
+B4,2025-06-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,333.0,333.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),16635518312.0,16635518313.0,-1.0,60,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,306.0,306.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),16686087607.0,16686087607.0,0.0,60,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1576.0,1576.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),9004025763.0,9004025763.0,0.0,60,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2215.0,2215.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2215.0,2215.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,311.0,311.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),16429075647.0,16429075647.0,0.0,20,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,303.0,303.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),8001589819.0,8001589819.0,0.0,20,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1572.0,1572.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),8902945899.0,8902945899.0,0.0,20,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2186.0,2186.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,333.0,333.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),16635518313.0,16635518313.0,0.0,30,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,306.0,306.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),16686087606.0,16686087607.0,-1.0,30,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1576.0,1576.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),9004025763.0,9004025763.0,0.0,30,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2215.0,2215.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2215.0,2215.0,0.0,0,True
+B4,2025-09-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,386.0,386.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),37432953671.0,37432953672.0,-1.0,80,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,337.0,337.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),19180770403.0,19180770403.0,0.0,80,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1693.0,1693.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),10525406223.0,10525406224.0,-1.0,80,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2416.0,2416.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2416.0,2416.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,357.0,357.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),35702538878.0,35702538879.0,-1.0,20,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,333.0,333.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),10108594244.0,10108594244.0,0.0,20,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1689.0,1689.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),10424326359.0,10424326360.0,-1.0,20,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2379.0,2379.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,386.0,386.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),37432953672.0,37432953672.0,0.0,30,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,337.0,337.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),19180770403.0,19180770403.0,0.0,30,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1693.0,1693.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),10525406224.0,10525406224.0,0.0,30,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2416.0,2416.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2416.0,2416.0,0.0,0,True
+B4,2025-12-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,391.0,391.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),42564363505.0,42564363505.0,0.0,70,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,317.0,317.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),18509662122.0,18509662122.0,0.0,70,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1533.0,1533.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),12091978451.0,12091978451.0,0.0,70,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2241.0,2241.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2241.0,2241.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,347.0,347.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),36529782355.0,36529782355.0,0.0,20,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,314.0,314.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),9250168236.0,9250168236.0,0.0,20,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1529.0,1529.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),11973752622.0,11973752622.0,0.0,20,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2190.0,2190.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,391.0,391.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),42564363506.0,42564363505.0,1.0,30,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,317.0,317.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),18509662121.0,18509662122.0,-1.0,30,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1533.0,1533.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),12091978452.0,12091978451.0,1.0,30,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2241.0,2241.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2241.0,2241.0,0.0,0,True
+B4,2026-03-31,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras NACIONAL = Total,396.0,396.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo NACIONAL = Total (S/),39737257830.0,39737257830.0,0.0,60,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras REGIONAL = Total,323.0,323.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo REGIONAL = Total (S/),11174531821.0,11174531821.0,0.0,60,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras LOCAL = Total,1543.0,1543.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma costo LOCAL = Total (S/),11916824195.0,11916824195.0,0.0,60,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,suma obras total de filas = Total,2262.0,2262.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,fila Total = obras nacionales oficiales,2262.0,2262.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / por_modalidad,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras NACIONAL = Total,348.0,348.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo NACIONAL = Total (S/),36289635574.0,36289635574.0,0.0,20,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras REGIONAL = Total,322.0,322.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo REGIONAL = Total (S/),11172391304.0,11172391304.0,0.0,20,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras LOCAL = Total,1539.0,1539.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma costo LOCAL = Total (S/),11875634134.0,11875634134.0,0.0,20,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,suma obras total de filas = Total,2209.0,2209.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma obras LOCAL = Total,1543.0,1543.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma costo LOCAL = Total (S/),11916824196.0,11916824195.0,1.0,40,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma obras NACIONAL = Total,396.0,396.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma costo NACIONAL = Total (S/),39737257831.0,39737257830.0,1.0,40,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma obras REGIONAL = Total,323.0,323.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma costo REGIONAL = Total (S/),11174531821.0,11174531821.0,0.0,40,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,suma obras total de filas = Total,2262.0,2262.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,obras por nivel suman el total de la fila (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,fila Total = obras nacionales oficiales,2262.0,2262.0,0.0,0,True
+B4,2026-06-30,contraloria_evento_infobras / por_evento,orden de los niveles verificado con los totales del informe,1.0,1.0,0.0,0,True
+B4,2023-09-30,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4132,4120.0,12.0,0,False
+B4,2023-09-30,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4132,4120.0,12.0,0,False
+B4,2023-10-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4342,4342.0,0.0,0,True
+B4,2023-12-31,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4596,4596.0,0.0,0,True
+B4,2023-12-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4596,4596.0,0.0,0,True
+B4,2024-03-31,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4648,4648.0,0.0,0,True
+B4,2024-03-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4648,4648.0,0.0,0,True
+B4,2024-06-30,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4512,4512.0,0.0,0,True
+B4,2024-06-30,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4512,4512.0,0.0,0,True
+B4,2024-09-30,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),5296,5292.0,4.0,0,False
+B4,2024-09-30,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),5296,5292.0,4.0,0,False
+B4,2024-12-31,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4952,4932.0,20.0,0,False
+B4,2024-12-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4952,4928.0,24.0,0,False
+B4,2025-03-31,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),5144,5142.0,2.0,0,False
+B4,2025-03-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),5144,5142.0,2.0,0,False
+B4,2025-06-30,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4856,4850.0,6.0,0,False
+B4,2025-06-30,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4856,4850.0,6.0,0,False
+B4,2025-09-30,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4430,4428.0,2.0,0,False
+B4,2025-09-30,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4430,4428.0,2.0,0,False
+B4,2025-12-31,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4832,4830.0,2.0,0,False
+B4,2025-12-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4832,4830.0,2.0,0,False
+B4,2026-03-31,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4482,4480.0,2.0,0,False
+B4,2026-03-31,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4482,4480.0,2.0,0,False
+B4,2026-06-30,por_evento,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4524,4524.0,0.0,0,True
+B4,2026-06-30,por_modalidad,obras por categoria y nivel: PDF vs base Excel (detalle en validacion_b4_excel.csv),4524,4524.0,0.0,0,True
+B4,2023-02-28,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-05-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-07-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-08-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-10-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2023-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2024-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2024-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2024-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2024-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2025-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2025-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2025-09-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2025-12-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2026-03-31,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),1,1.0,0.0,0,True
+B4,2026-06-30,contraloria_modalidad_ejecucion / administracion_directa_y_contrata,obras de la subtabla = obras de la tabla por modalidad (mismos rotulos),0,1.0,-1.0,0,False
+B4,2022-06-30,contraloria_servicios_control / total,suma de los tres tipos = Total,1687.0,1687.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,29.0,29.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1561.0,1561.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,97.0,97.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,934.0,934.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,363.0,363.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,390.0,390.0,0.0,0,True
+B4,2022-06-30,contraloria_servicios_control / nivel,total de servicios = tabla total,1687.0,1687.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / total,suma de los tres tipos = Total,1578.0,1578.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,19.0,19.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1448.0,1448.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,111.0,111.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,440.0,440.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,316.0,316.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,822.0,822.0,0.0,0,True
+B4,2022-09-30,contraloria_servicios_control / nivel,total de servicios = tabla total,1578.0,1578.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / total,suma de los tres tipos = Total,1422.0,1422.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,21.0,21.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1297.0,1297.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,104.0,104.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,367.0,367.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,337.0,337.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,718.0,718.0,0.0,0,True
+B4,2022-12-31,contraloria_servicios_control / nivel,total de servicios = tabla total,1422.0,1422.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / total,suma de los tres tipos = Total,1418.0,1418.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,22.0,22.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1288.0,1288.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,108.0,108.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,689.0,689.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,321.0,321.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,408.0,408.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / nivel,total de servicios = tabla total,1418.0,1418.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-02-28,contraloria_servicios_control / departamento,total de servicios = tabla total,1418.0,1418.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / total,suma de los tres tipos = Total,1348.0,1348.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,30.0,30.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1220.0,1220.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,98.0,98.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,658.0,658.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,311.0,311.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,379.0,379.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / nivel,total de servicios = tabla total,1348.0,1348.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-05-31,contraloria_servicios_control / departamento,total de servicios = tabla total,1348.0,1348.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / total,suma de los tres tipos = Total,1495.0,1495.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,20.0,20.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1357.0,1357.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,118.0,118.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,747.0,747.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,318.0,318.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,430.0,430.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / nivel,total de servicios = tabla total,1495.0,1495.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-06-30,contraloria_servicios_control / departamento,total de servicios = tabla total,1495.0,1495.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / total,suma de los tres tipos = Total,1896.0,1896.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,21.0,21.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1751.0,1751.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,124.0,124.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,959.0,959.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,475.0,475.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,462.0,462.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / nivel,total de servicios = tabla total,1896.0,1896.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-07-31,contraloria_servicios_control / departamento,total de servicios = tabla total,1896.0,1896.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / total,suma de los tres tipos = Total,1859.0,1859.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,20.0,20.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1722.0,1722.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,117.0,117.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,933.0,933.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,468.0,468.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,458.0,458.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / nivel,total de servicios = tabla total,1859.0,1859.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-08-31,contraloria_servicios_control / departamento,total de servicios = tabla total,1859.0,1859.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / total,suma de los tres tipos = Total,1946.0,1946.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,20.0,20.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1816.0,1816.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,110.0,110.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1028.0,1028.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,456.0,456.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,462.0,462.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / nivel,total de servicios = tabla total,1946.0,1946.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-09-30,contraloria_servicios_control / departamento,total de servicios = tabla total,1946.0,1946.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / total,suma de los tres tipos = Total,2054.0,2054.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,20.0,20.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1916.0,1916.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,118.0,118.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1124.0,1124.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,463.0,463.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,467.0,467.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / nivel,total de servicios = tabla total,2054.0,2054.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-10-31,contraloria_servicios_control / departamento,total de servicios = tabla total,2054.0,2054.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / total,suma de los tres tipos = Total,2148.0,2148.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,20.0,20.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,131.0,131.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,1997.0,1997.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1215.0,1215.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,466.0,466.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,467.0,467.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / nivel,total de servicios = tabla total,2148.0,2148.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2023-12-31,contraloria_servicios_control / departamento,total de servicios = tabla total,2148.0,2148.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / total,suma de los tres tipos = Total,2178.0,2178.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,27.0,27.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,2024.0,2024.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,127.0,127.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1133.0,1133.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,516.0,516.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,529.0,529.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / nivel,total de servicios = tabla total,2178.0,2178.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-03-31,contraloria_servicios_control / departamento,total de servicios = tabla total,2219.0,2178.0,41.0,0,False
+B4,2024-06-30,contraloria_servicios_control / total,suma de los tres tipos = Total,2504.0,2504.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,30.0,30.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,2331.0,2331.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,143.0,143.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,643.0,643.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,630.0,630.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1231.0,1231.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / nivel,total de servicios = tabla total,2504.0,2504.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-06-30,contraloria_servicios_control / departamento,suma previo departamentos = Total,30.0,0.0,30.0,0,False
+B4,2024-06-30,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,2373.0,0.0,2373.0,0,False
+B4,2024-06-30,contraloria_servicios_control / departamento,suma posterior departamentos = Total,143.0,0.0,143.0,0,False
+B4,2024-06-30,contraloria_servicios_control / departamento,suma total departamentos = Total,2546.0,0.0,2546.0,0,False
+B4,2024-06-30,contraloria_servicios_control / departamento,total de servicios = tabla total,2546.0,2504.0,42.0,0,False
+B4,2024-09-30,contraloria_servicios_control / total,suma de los tres tipos = Total,3612.0,3612.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,44.0,44.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3366.0,3366.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,202.0,202.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,932.0,932.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,780.0,780.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1900.0,1900.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / nivel,total de servicios = tabla total,3612.0,3612.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-09-30,contraloria_servicios_control / departamento,suma previo departamentos = Total,44.0,0.0,44.0,0,False
+B4,2024-09-30,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,3409.0,0.0,3409.0,0,False
+B4,2024-09-30,contraloria_servicios_control / departamento,suma posterior departamentos = Total,202.0,0.0,202.0,0,False
+B4,2024-09-30,contraloria_servicios_control / departamento,suma total departamentos = Total,3655.0,0.0,3655.0,0,False
+B4,2024-09-30,contraloria_servicios_control / departamento,total de servicios = tabla total,3655.0,3612.0,43.0,0,False
+B4,2024-12-31,contraloria_servicios_control / total,suma de los tres tipos = Total,3891.0,3891.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,36.0,36.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3682.0,3682.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,173.0,173.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,971.0,971.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,795.0,795.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,2125.0,2125.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / nivel,total de servicios = tabla total,3891.0,3891.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2024-12-31,contraloria_servicios_control / departamento,total de servicios = tabla total,3937.0,3891.0,46.0,0,False
+B4,2025-03-31,contraloria_servicios_control / total,suma de los tres tipos = Total,3832.0,3832.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,37.0,37.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3634.0,3634.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,161.0,161.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,1035.0,1035.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,794.0,794.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,2003.0,2003.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / nivel,total de servicios = tabla total,3832.0,3832.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-03-31,contraloria_servicios_control / departamento,total de servicios = tabla total,3876.0,3832.0,44.0,0,False
+B4,2025-06-30,contraloria_servicios_control / total,suma de los tres tipos = Total,3980.0,3980.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,34.0,34.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3778.0,3778.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,168.0,168.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,1002.0,1002.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,822.0,822.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,2156.0,2156.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / nivel,total de servicios = tabla total,3980.0,3980.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / departamento,suma previo departamentos = Total,34.0,34.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,3822.0,3778.0,44.0,0,False
+B4,2025-06-30,contraloria_servicios_control / departamento,suma posterior departamentos = Total,168.0,168.0,0.0,0,True
+B4,2025-06-30,contraloria_servicios_control / departamento,suma total departamentos = Total,4024.0,3980.0,44.0,0,False
+B4,2025-06-30,contraloria_servicios_control / departamento,total de servicios = tabla total,4024.0,3980.0,44.0,0,False
+B4,2025-09-30,contraloria_servicios_control / total,suma de los tres tipos = Total,3727.0,3727.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,33.0,33.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3537.0,3536.0,1.0,0,False
+B4,2025-09-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,158.0,158.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,929.0,929.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,771.0,771.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,2028.0,2028.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / nivel,total de servicios = tabla total,3727.0,3727.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / departamento,suma previo departamentos = Total,33.0,33.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,3586.0,3536.0,50.0,0,False
+B4,2025-09-30,contraloria_servicios_control / departamento,suma posterior departamentos = Total,158.0,158.0,0.0,0,True
+B4,2025-09-30,contraloria_servicios_control / departamento,suma total departamentos = Total,3777.0,3727.0,50.0,0,False
+B4,2025-09-30,contraloria_servicios_control / departamento,total de servicios = tabla total,3777.0,3727.0,50.0,0,False
+B4,2025-12-31,contraloria_servicios_control / total,suma de los tres tipos = Total,4070.0,4070.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,36.0,36.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3881.0,3879.0,2.0,0,False
+B4,2025-12-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,155.0,155.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,2049.0,2049.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,942.0,942.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,1081.0,1081.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / nivel,total de servicios = tabla total,4070.0,4070.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / departamento,suma previo departamentos = Total,36.0,36.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,3937.0,3879.0,58.0,0,False
+B4,2025-12-31,contraloria_servicios_control / departamento,suma posterior departamentos = Total,155.0,155.0,0.0,0,True
+B4,2025-12-31,contraloria_servicios_control / departamento,suma total departamentos = Total,4128.0,4070.0,58.0,0,False
+B4,2025-12-31,contraloria_servicios_control / departamento,total de servicios = tabla total,4128.0,4070.0,58.0,0,False
+B4,2026-03-31,contraloria_servicios_control / total,suma de los tres tipos = Total,3858.0,3858.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,34.0,34.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3674.0,3672.0,2.0,0,False
+B4,2026-03-31,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,152.0,152.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,1901.0,1901.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,823.0,823.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1136.0,1136.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / nivel,total de servicios = tabla total,3858.0,3858.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / departamento,suma previo departamentos = Total,34.0,34.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,3736.0,3672.0,64.0,0,False
+B4,2026-03-31,contraloria_servicios_control / departamento,suma posterior departamentos = Total,152.0,152.0,0.0,0,True
+B4,2026-03-31,contraloria_servicios_control / departamento,suma total departamentos = Total,3922.0,3858.0,64.0,0,False
+B4,2026-03-31,contraloria_servicios_control / departamento,total de servicios = tabla total,3922.0,3858.0,64.0,0,False
+B4,2026-06-30,contraloria_servicios_control / total,suma de los tres tipos = Total,4011.0,4011.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,PREVIO: niveles suman el total de la fila,59.0,59.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,SIMULTANEO: niveles suman el total de la fila,3803.0,3803.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,POSTERIOR: niveles suman el total de la fila,149.0,149.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,suma de tipos NACIONAL = Total,1114.0,1114.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,suma de tipos REGIONAL = Total,920.0,920.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,suma de tipos LOCAL = Total,1977.0,1977.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / nivel,total de servicios = tabla total,4011.0,4011.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,departamentos presentes (25),25.0,25.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,previo + simultaneo + posterior = total (filas que fallan),0.0,0.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,suma previo departamentos = Total,149.0,149.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,suma simultaneo departamentos = Total,3803.0,3803.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,suma posterior departamentos = Total,59.0,59.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,suma total departamentos = Total,4011.0,4011.0,0.0,0,True
+B4,2026-06-30,contraloria_servicios_control / departamento,total de servicios = tabla total,4011.0,4011.0,0.0,0,True
+B6,2023-09-30,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,319,319.0,0.0,0,True
+B6,2023-10-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,323,323.0,0.0,0,True
+B6,2023-12-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,319,319.0,0.0,0,True
+B6,2024-03-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,2267,2267.0,0.0,0,True
+B6,2024-06-30,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,342,342.0,0.0,0,True
+B6,2024-09-30,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,344,344.0,0.0,0,True
+B6,2024-12-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,344,345.0,-1.0,0,False
+B6,2025-03-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,347,347.0,0.0,0,True
+B6,2025-06-30,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,343,343.0,0.0,0,True
+B6,2025-09-30,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,330,330.0,0.0,0,True
+B6,2025-12-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,339,339.0,0.0,0,True
+B6,2026-03-31,contraloria_principales_obras,CUI de la lista presentes en la base obra por obra del mismo corte,336,336.0,0.0,0,True

@@ -1,0 +1,249 @@
+﻿fecha_corte,comprobacion,valor_a,valor_b,diferencia,tolerancia,ok
+2022-06-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2022-06-30,suma obras departamentos = total nacional,2346.0,2346.0,0.0,0.0,True
+2022-06-30,suma costo departamentos = total nacional,29732207836.0,29732207833.0,3.0,30.0,True
+2022-06-30,suma saldo departamentos = total nacional,14653696867.0,14653696867.0,0.0,30.0,True
+2022-06-30,suma obras sectores = total nacional,2346.0,2346.0,0.0,0.0,True
+2022-06-30,suma costo sectores = total nacional,29732207833.0,29732207833.0,0.0,3000.0,True
+2022-06-30,suma obras causales = total nacional,2346.0,2346.0,0.0,0.0,True
+2022-06-30,suma costo causales = total nacional,29732207833.0,29732207833.0,0.0,3000.0,True
+2022-06-30,suma obras nivel_gobierno = total nacional,2346.0,2346.0,0.0,0.0,True
+2022-06-30,suma obras rango_avance_fisico = total nacional,2346.0,2346.0,0.0,0.0,True
+2022-06-30,suma obras rango_costo = total nacional,2346.0,2346.0,0.0,0.0,True
+2022-09-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2022-09-30,suma obras departamentos = total nacional,2302.0,2302.0,0.0,0.0,True
+2022-09-30,suma costo departamentos = total nacional,41865900000.0,41867153939.0,-1253939.0,1500000.0,True
+2022-09-30,suma saldo departamentos = total nacional,28042100000.0,28043347952.0,-1247952.0,1500000.0,True
+2022-09-30,suma obras sectores = total nacional,2302.0,2302.0,0.0,0.0,True
+2022-09-30,suma costo sectores = total nacional,41867153940.0,41867153939.0,1.0,3000.0,True
+2022-09-30,suma obras causales = total nacional,2302.0,2302.0,0.0,0.0,True
+2022-09-30,suma costo causales = total nacional,41867153941.0,41867153939.0,2.0,3000.0,True
+2022-09-30,suma obras nivel_gobierno = total nacional,2302.0,2302.0,0.0,0.0,True
+2022-09-30,suma obras rango_avance_fisico = total nacional,2302.0,2302.0,0.0,0.0,True
+2022-09-30,suma obras rango_costo = total nacional,2302.0,2302.0,0.0,0.0,True
+2022-12-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2022-12-31,suma obras departamentos = total nacional,1879.0,1879.0,0.0,0.0,True
+2022-12-31,suma costo departamentos = total nacional,21594200000.0,21595042322.0,-842322.0,1500000.0,True
+2022-12-31,suma saldo departamentos = total nacional,10373000000.0,10374283194.0,-1283194.0,1500000.0,True
+2022-12-31,suma obras sectores = total nacional,1879.0,1879.0,0.0,0.0,True
+2022-12-31,suma costo sectores = total nacional,21595042322.0,21595042322.0,0.0,3000.0,True
+2022-12-31,suma obras causales = total nacional,1879.0,1879.0,0.0,0.0,True
+2022-12-31,suma costo causales = total nacional,21595042324.0,21595042322.0,2.0,3000.0,True
+2022-12-31,suma obras nivel_gobierno = total nacional,1879.0,1879.0,0.0,0.0,True
+2022-12-31,suma obras rango_avance_fisico = total nacional,1879.0,1879.0,0.0,0.0,True
+2022-12-31,suma obras rango_costo = total nacional,1879.0,1879.0,0.0,0.0,True
+2023-02-28,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-02-28,suma obras departamentos = total nacional,1751.0,1751.0,0.0,0.0,True
+2023-02-28,suma costo departamentos = total nacional,22778095111.0,22778095110.0,1.0,30.0,True
+2023-02-28,suma saldo departamentos = total nacional,11421449618.0,11421449617.0,1.0,30.0,True
+2023-02-28,suma obras sectores = total nacional,1751.0,1751.0,0.0,0.0,True
+2023-02-28,suma costo sectores = total nacional,22778095109.0,22778095110.0,-1.0,3000.0,True
+2023-02-28,suma obras causales = total nacional,1751.0,1751.0,0.0,0.0,True
+2023-02-28,suma costo causales = total nacional,22778095110.0,22778095110.0,0.0,3000.0,True
+2023-02-28,suma obras nivel_gobierno = total nacional,1751.0,1751.0,0.0,0.0,True
+2023-02-28,suma obras rango_avance_fisico = total nacional,1751.0,1751.0,0.0,0.0,True
+2023-02-28,suma obras rango_costo = total nacional,1751.0,1751.0,0.0,0.0,True
+2023-05-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-05-31,suma obras departamentos = total nacional,1609.0,1609.0,0.0,0.0,True
+2023-05-31,suma costo departamentos = total nacional,22648949901.0,22648949901.0,0.0,30.0,True
+2023-05-31,suma saldo departamentos = total nacional,11264563989.0,11264563990.0,-1.0,30.0,True
+2023-05-31,suma obras sectores = total nacional,1609.0,1609.0,0.0,0.0,True
+2023-05-31,suma costo sectores = total nacional,22648949900.0,22648949901.0,-1.0,3000.0,True
+2023-05-31,suma obras causales = total nacional,1609.0,1609.0,0.0,0.0,True
+2023-05-31,suma costo causales = total nacional,22648949901.0,22648949901.0,0.0,3000.0,True
+2023-05-31,suma obras nivel_gobierno = total nacional,1609.0,1609.0,0.0,0.0,True
+2023-05-31,suma obras rango_avance_fisico = total nacional,1609.0,1609.0,0.0,0.0,True
+2023-05-31,suma obras rango_costo = total nacional,1609.0,1609.0,0.0,0.0,True
+2023-06-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-06-30,suma obras departamentos = total nacional,1826.0,1826.0,0.0,0.0,True
+2023-06-30,suma costo departamentos = total nacional,24090361810.0,24090361809.0,1.0,30.0,True
+2023-06-30,suma saldo departamentos = total nacional,11776833832.0,11776833831.0,1.0,30.0,True
+2023-06-30,suma obras sectores = total nacional,1825.0,1826.0,-1.0,0.0,False
+2023-06-30,suma costo sectores = total nacional,24090361809.0,24090361809.0,0.0,3000.0,True
+2023-06-30,suma obras causales = total nacional,1826.0,1826.0,0.0,0.0,True
+2023-06-30,suma costo causales = total nacional,24090361810.0,24090361809.0,1.0,3000.0,True
+2023-06-30,suma obras nivel_gobierno = total nacional,1826.0,1826.0,0.0,0.0,True
+2023-06-30,suma obras rango_avance_fisico = total nacional,1826.0,1826.0,0.0,0.0,True
+2023-06-30,suma obras rango_costo = total nacional,1826.0,1826.0,0.0,0.0,True
+2023-07-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-07-31,suma obras departamentos = total nacional,2055.0,2055.0,0.0,0.0,True
+2023-07-31,suma costo departamentos = total nacional,25421733908.0,25421733908.0,0.0,30.0,True
+2023-07-31,suma saldo departamentos = total nacional,12681128975.0,12681128974.0,1.0,30.0,True
+2023-07-31,suma obras sectores = total nacional,2055.0,2055.0,0.0,0.0,True
+2023-07-31,suma costo sectores = total nacional,25421733907.0,25421733908.0,-1.0,3000.0,True
+2023-07-31,suma obras causales = total nacional,2055.0,2055.0,0.0,0.0,True
+2023-07-31,suma costo causales = total nacional,25421733907.0,25421733908.0,-1.0,3000.0,True
+2023-07-31,suma obras nivel_gobierno = total nacional,2055.0,2055.0,0.0,0.0,True
+2023-07-31,suma obras rango_avance_fisico = total nacional,2055.0,2055.0,0.0,0.0,True
+2023-07-31,suma obras rango_costo = total nacional,2055.0,2055.0,0.0,0.0,True
+2023-08-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-08-31,suma obras departamentos = total nacional,2010.0,2010.0,0.0,0.0,True
+2023-08-31,suma costo departamentos = total nacional,26984506441.0,26984506441.0,0.0,30.0,True
+2023-08-31,suma saldo departamentos = total nacional,12292292462.0,12292292462.0,0.0,30.0,True
+2023-08-31,suma obras sectores = total nacional,2010.0,2010.0,0.0,0.0,True
+2023-08-31,suma costo sectores = total nacional,26984506440.0,26984506441.0,-1.0,3000.0,True
+2023-08-31,suma obras causales = total nacional,2010.0,2010.0,0.0,0.0,True
+2023-08-31,suma costo causales = total nacional,26984506440.0,26984506441.0,-1.0,3000.0,True
+2023-08-31,suma obras nivel_gobierno = total nacional,2010.0,2010.0,0.0,0.0,True
+2023-08-31,suma obras rango_avance_fisico = total nacional,2010.0,2010.0,0.0,0.0,True
+2023-08-31,suma obras rango_costo = total nacional,2010.0,2010.0,0.0,0.0,True
+2023-09-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-09-30,suma obras departamentos = total nacional,2066.0,2066.0,0.0,0.0,True
+2023-09-30,suma costo departamentos = total nacional,27104552567.0,27104552566.0,1.0,30.0,True
+2023-09-30,suma saldo departamentos = total nacional,14022522392.0,14022522392.0,0.0,30.0,True
+2023-09-30,suma obras sectores = total nacional,2066.0,2066.0,0.0,0.0,True
+2023-09-30,suma costo sectores = total nacional,27104552567.0,27104552566.0,1.0,3000.0,True
+2023-09-30,suma obras causales = total nacional,2066.0,2066.0,0.0,0.0,True
+2023-09-30,suma costo causales = total nacional,27104552567.0,27104552566.0,1.0,3000.0,True
+2023-09-30,suma obras nivel_gobierno = total nacional,2066.0,2066.0,0.0,0.0,True
+2023-09-30,suma obras rango_avance_fisico = total nacional,2066.0,2066.0,0.0,0.0,True
+2023-09-30,suma obras rango_costo = total nacional,2066.0,2066.0,0.0,0.0,True
+2023-10-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-10-31,suma obras departamentos = total nacional,2171.0,2171.0,0.0,0.0,True
+2023-10-31,suma costo departamentos = total nacional,28199818162.0,28199818162.0,0.0,30.0,True
+2023-10-31,suma saldo departamentos = total nacional,14766432274.0,14766432276.0,-2.0,30.0,True
+2023-10-31,suma obras sectores = total nacional,2171.0,2171.0,0.0,0.0,True
+2023-10-31,suma costo sectores = total nacional,28199818162.0,28199818162.0,0.0,3000.0,True
+2023-10-31,suma obras causales = total nacional,2171.0,2171.0,0.0,0.0,True
+2023-10-31,suma costo causales = total nacional,28199818162.0,28199818162.0,0.0,3000.0,True
+2023-10-31,suma obras nivel_gobierno = total nacional,2171.0,2171.0,0.0,0.0,True
+2023-10-31,suma obras rango_avance_fisico = total nacional,2171.0,2171.0,0.0,0.0,True
+2023-10-31,suma obras rango_costo = total nacional,2171.0,2171.0,0.0,0.0,True
+2023-12-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2023-12-31,suma obras departamentos = total nacional,2298.0,2298.0,0.0,0.0,True
+2023-12-31,suma costo departamentos = total nacional,26992199613.0,26992199613.0,0.0,30.0,True
+2023-12-31,suma saldo departamentos = total nacional,13772416369.0,13772416368.0,1.0,30.0,True
+2023-12-31,suma obras sectores = total nacional,2298.0,2298.0,0.0,0.0,True
+2023-12-31,suma costo sectores = total nacional,26992199612.0,26992199613.0,-1.0,3000.0,True
+2023-12-31,suma obras causales = total nacional,2298.0,2298.0,0.0,0.0,True
+2023-12-31,suma costo causales = total nacional,26992199615.0,26992199613.0,2.0,3000.0,True
+2023-12-31,suma obras nivel_gobierno = total nacional,2298.0,2298.0,0.0,0.0,True
+2023-12-31,suma obras rango_avance_fisico = total nacional,2298.0,2298.0,0.0,0.0,True
+2023-12-31,suma obras rango_costo = total nacional,2298.0,2298.0,0.0,0.0,True
+2024-03-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2024-03-31,suma obras departamentos = total nacional,2324.0,2324.0,0.0,0.0,True
+2024-03-31,suma costo departamentos = total nacional,33167158074.0,33167158078.0,-4.0,30.0,True
+2024-03-31,suma saldo departamentos = total nacional,16237413873.0,16237413871.0,2.0,30.0,True
+2024-03-31,suma obras sectores = total nacional,2324.0,2324.0,0.0,0.0,True
+2024-03-31,suma costo sectores = total nacional,33167158077.0,33167158078.0,-1.0,3000.0,True
+2024-03-31,suma obras causales = total nacional,2324.0,2324.0,0.0,0.0,True
+2024-03-31,suma costo causales = total nacional,33167158075.0,33167158078.0,-3.0,3000.0,True
+2024-03-31,suma obras nivel_gobierno = total nacional,2324.0,2324.0,0.0,0.0,True
+2024-03-31,suma obras rango_avance_fisico = total nacional,2324.0,2324.0,0.0,0.0,True
+2024-03-31,suma obras rango_costo = total nacional,2324.0,2324.0,0.0,0.0,True
+2024-06-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2024-06-30,suma obras departamentos = total nacional,2256.0,2256.0,0.0,0.0,True
+2024-06-30,suma costo departamentos = total nacional,36122327888.0,36122327887.0,1.0,30.0,True
+2024-06-30,suma saldo departamentos = total nacional,17228056077.0,17228056076.0,1.0,30.0,True
+2024-06-30,suma obras sectores = total nacional,2256.0,2256.0,0.0,0.0,True
+2024-06-30,suma costo sectores = total nacional,36122327886.0,36122327887.0,-1.0,3000.0,True
+2024-06-30,suma obras causales = total nacional,2256.0,2256.0,0.0,0.0,True
+2024-06-30,suma costo causales = total nacional,36122327888.0,36122327887.0,1.0,3000.0,True
+2024-06-30,suma obras nivel_gobierno = total nacional,2256.0,2256.0,0.0,0.0,True
+2024-06-30,suma obras rango_avance_fisico = total nacional,2256.0,2256.0,0.0,0.0,True
+2024-06-30,suma obras rango_costo = total nacional,2256.0,2256.0,0.0,0.0,True
+2024-09-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2024-09-30,suma obras departamentos = total nacional,2648.0,2648.0,0.0,0.0,True
+2024-09-30,suma costo departamentos = total nacional,43555315764.0,43555315763.0,1.0,30.0,True
+2024-09-30,suma saldo departamentos = total nacional,19178708908.0,19178708907.0,1.0,30.0,True
+2024-09-30,suma obras sectores = total nacional,2648.0,2648.0,0.0,0.0,True
+2024-09-30,suma costo sectores = total nacional,43555315763.0,43555315763.0,0.0,3000.0,True
+2024-09-30,suma obras causales = total nacional,2648.0,2648.0,0.0,0.0,True
+2024-09-30,suma costo causales = total nacional,43555315763.0,43555315763.0,0.0,3000.0,True
+2024-09-30,suma obras nivel_gobierno = total nacional,2648.0,2648.0,0.0,0.0,True
+2024-09-30,suma obras rango_avance_fisico = total nacional,2648.0,2648.0,0.0,0.0,True
+2024-09-30,suma obras rango_costo = total nacional,2648.0,2648.0,0.0,0.0,True
+2024-12-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2024-12-31,suma obras departamentos = total nacional,2476.0,2476.0,0.0,0.0,True
+2024-12-31,suma costo departamentos = total nacional,43118881204.0,43118881205.0,-1.0,30.0,True
+2024-12-31,suma saldo departamentos = total nacional,22601086086.0,22601086085.0,1.0,30.0,True
+2024-12-31,suma obras sectores = total nacional,2476.0,2476.0,0.0,0.0,True
+2024-12-31,suma costo sectores = total nacional,43118881205.0,43118881205.0,0.0,3000.0,True
+2024-12-31,suma obras causales = total nacional,2476.0,2476.0,0.0,0.0,True
+2024-12-31,suma costo causales = total nacional,43118881205.0,43118881205.0,0.0,3000.0,True
+2024-12-31,suma obras nivel_gobierno = total nacional,2476.0,2476.0,0.0,0.0,True
+2024-12-31,suma obras rango_avance_fisico = total nacional,2476.0,2476.0,0.0,0.0,True
+2024-12-31,suma obras rango_costo = total nacional,2476.0,2476.0,0.0,0.0,True
+2025-03-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2025-03-31,suma obras departamentos = total nacional,2572.0,2572.0,0.0,0.0,True
+2025-03-31,suma costo departamentos = total nacional,43163367306.0,43163367307.0,-1.0,30.0,True
+2025-03-31,suma saldo departamentos = total nacional,22512058098.0,22512058100.0,-2.0,30.0,True
+2025-03-31,suma obras sectores = total nacional,2572.0,2572.0,0.0,0.0,True
+2025-03-31,suma costo sectores = total nacional,43163367307.0,43163367307.0,0.0,3000.0,True
+2025-03-31,suma obras causales = total nacional,2572.0,2572.0,0.0,0.0,True
+2025-03-31,suma costo causales = total nacional,43163367306.0,43163367307.0,-1.0,3000.0,True
+2025-03-31,suma obras nivel_gobierno = total nacional,2572.0,2572.0,0.0,0.0,True
+2025-03-31,suma obras rango_avance_fisico = total nacional,2572.0,2572.0,0.0,0.0,True
+2025-03-31,suma obras rango_costo = total nacional,2572.0,2572.0,0.0,0.0,True
+2025-06-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2025-06-30,suma obras departamentos = total nacional,2428.0,2428.0,0.0,0.0,True
+2025-06-30,suma costo departamentos = total nacional,44297953975.0,44297953975.0,0.0,30.0,True
+2025-06-30,suma saldo departamentos = total nacional,21812778855.0,21812778855.0,0.0,30.0,True
+2025-06-30,suma obras sectores = total nacional,2428.0,2428.0,0.0,0.0,True
+2025-06-30,suma costo sectores = total nacional,44297953976.0,44297953975.0,1.0,3000.0,True
+2025-06-30,suma obras causales = total nacional,2428.0,2428.0,0.0,0.0,True
+2025-06-30,suma costo causales = total nacional,44297953975.0,44297953975.0,0.0,3000.0,True
+2025-06-30,suma obras nivel_gobierno = total nacional,2428.0,2428.0,0.0,0.0,True
+2025-06-30,suma obras rango_avance_fisico = total nacional,2428.0,2428.0,0.0,0.0,True
+2025-06-30,suma obras rango_costo = total nacional,2428.0,2428.0,0.0,0.0,True
+2025-09-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2025-09-30,suma obras departamentos = total nacional,2215.0,2215.0,0.0,0.0,True
+2025-09-30,suma costo departamentos = total nacional,42325631681.0,42325631682.0,-1.0,30.0,True
+2025-09-30,suma saldo departamentos = total nacional,20717884680.0,20717884680.0,0.0,30.0,True
+2025-09-30,suma obras sectores = total nacional,2215.0,2215.0,0.0,0.0,True
+2025-09-30,suma costo sectores = total nacional,42325631682.0,42325631682.0,0.0,3000.0,True
+2025-09-30,suma obras causales = total nacional,2215.0,2215.0,0.0,0.0,True
+2025-09-30,suma costo causales = total nacional,42325631682.0,42325631682.0,0.0,3000.0,True
+2025-09-30,suma obras nivel_gobierno = total nacional,2215.0,2215.0,0.0,0.0,True
+2025-09-30,suma obras rango_avance_fisico = total nacional,2215.0,2215.0,0.0,0.0,True
+2025-09-30,suma obras rango_costo = total nacional,2215.0,2215.0,0.0,0.0,True
+2025-12-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2025-12-31,suma obras departamentos = total nacional,2416.0,2416.0,0.0,0.0,True
+2025-12-31,suma costo departamentos = total nacional,67139130300.0,67139130298.0,2.0,30.0,True
+2025-12-31,suma saldo departamentos = total nacional,32243494945.0,32243494945.0,0.0,30.0,True
+2025-12-31,suma obras sectores = total nacional,2416.0,2416.0,0.0,0.0,True
+2025-12-31,suma costo sectores = total nacional,67139130298.0,67139130298.0,0.0,3000.0,True
+2025-12-31,suma obras causales = total nacional,2416.0,2416.0,0.0,0.0,True
+2025-12-31,suma costo causales = total nacional,67139130301.0,67139130298.0,3.0,3000.0,True
+2025-12-31,suma obras nivel_gobierno = total nacional,2416.0,2416.0,0.0,0.0,True
+2025-12-31,suma obras rango_avance_fisico = total nacional,2416.0,2416.0,0.0,0.0,True
+2025-12-31,suma obras rango_costo = total nacional,2416.0,2416.0,0.0,0.0,True
+2026-03-31,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2026-03-31,suma obras departamentos = total nacional,2241.0,2241.0,0.0,0.0,True
+2026-03-31,suma costo departamentos = total nacional,73166004079.0,73166004078.0,1.0,30.0,True
+2026-03-31,suma saldo departamentos = total nacional,35196467534.0,35196467535.0,-1.0,30.0,True
+2026-03-31,suma obras sectores = total nacional,2241.0,2241.0,0.0,0.0,True
+2026-03-31,suma costo sectores = total nacional,73166004077.0,73166004078.0,-1.0,3000.0,True
+2026-03-31,suma obras causales = total nacional,2241.0,2241.0,0.0,0.0,True
+2026-03-31,suma costo causales = total nacional,73166004079.0,73166004078.0,1.0,3000.0,True
+2026-03-31,suma obras nivel_gobierno = total nacional,2241.0,2241.0,0.0,0.0,True
+2026-03-31,suma obras rango_avance_fisico = total nacional,2241.0,2241.0,0.0,0.0,True
+2026-03-31,suma obras rango_costo = total nacional,2241.0,2241.0,0.0,0.0,True
+2026-06-30,departamentos presentes (25),25.0,25.0,0.0,0.0,True
+2026-06-30,suma obras departamentos = total nacional,2262.0,2262.0,0.0,0.0,True
+2026-06-30,suma costo departamentos = total nacional,62828613849.0,62828613846.0,3.0,30.0,True
+2026-06-30,suma saldo departamentos = total nacional,27548021050.8,27548021050.8,0.0,30.0,True
+2026-06-30,suma obras sectores = total nacional,2262.0,2262.0,0.0,0.0,True
+2026-06-30,suma costo sectores = total nacional,62828613845.7,62828613846.0,-0.3,3000.0,True
+2026-06-30,suma obras causales = total nacional,2262.0,2262.0,0.0,0.0,True
+2026-06-30,suma costo causales = total nacional,62828613846.0,62828613846.0,0.0,3000.0,True
+2026-06-30,suma obras nivel_gobierno = total nacional,2262.0,2262.0,0.0,0.0,True
+2026-06-30,suma obras rango_avance_fisico = total nacional,2262.0,2262.0,0.0,0.0,True
+2026-06-30,suma obras rango_costo = total nacional,2262.0,2262.0,0.0,0.0,True
+ENLA,2019 2.° secundaria lectura: 26 regiones,26.0,26.0,,,True
+ENLA,2019 2.° secundaria lectura: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2019 2.° secundaria matematica: 26 regiones,26.0,26.0,,,True
+ENLA,2019 2.° secundaria matematica: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2019 4.° primaria lectura: 26 regiones,26.0,26.0,,,True
+ENLA,2019 4.° primaria lectura: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2019 4.° primaria matematica: 26 regiones,26.0,26.0,,,True
+ENLA,2019 4.° primaria matematica: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2022 2.° secundaria lectura: 26 regiones,26.0,26.0,,,True
+ENLA,2022 2.° secundaria lectura: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2022 2.° secundaria matematica: 26 regiones,26.0,26.0,,,True
+ENLA,2022 2.° secundaria matematica: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2022 4.° primaria lectura: 26 regiones,26.0,26.0,,,True
+ENLA,2022 4.° primaria lectura: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,2022 4.° primaria matematica: 26 regiones,26.0,26.0,,,True
+ENLA,2022 4.° primaria matematica: valores entre 0 y 100 y sin nulos,0.0,0.0,,,True
+ENLA,"PDF vs SICRECE (104 valores comparables, diferencia maxima en puntos)",0.0,0.0,,,True

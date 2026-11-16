@@ -1,0 +1,11 @@
+﻿comprobacion,valor,esperado,ok,detalle
+obras pedidas (198 paralizadas + Contraloria jun-2026),429,,,
+obras leidas en el cache,429,429.0,True,si falta alguna: ver errores en docs/log_descargas.txt y relanzar
+obras cuyo numero de avances guardados = n_avances de la ficha,429,429.0,True,
+avances en estado Paralizado (tabla de avances) = filas de infobras_paralizaciones,8739,8739.0,True,
+obras con avance fisico del encabezado = ultimo avance de la tabla (±0.01),423,429.0,False,
+obras con ubigeo,429,429.0,True,las que no: ubigeo_metodo = sin_ubigeo
+obras leidas que aparecen en el listado de Educacion con todos los estados,429,429.0,True,infobras_2026_listado_educacion_todos_2026-11-11.csv
+obras con estado del listado distinto al de la ficha,0,0.0,True,el listado y la ficha se leen en momentos distintos
+estados en la ficha (contraloria_educacion_2026-06),EN EJECUCIÓN: 130; FINALIZADO: 95; SIN EJECUCIÓN: 5; PARALIZADA: 1,,,
+estados en la ficha (infobras_paralizada_2026-10-27),PARALIZADA: 178; EN EJECUCIÓN: 20,,,

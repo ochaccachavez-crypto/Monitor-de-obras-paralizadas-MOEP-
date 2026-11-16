@@ -1,0 +1,4 @@
+﻿nivel,tema,detalle
+aviso,costos,98 filas de la Contraloria con costo 0 o vacio en la fuente
+aviso,saldo > costo,9 filas de la Contraloria
+aviso,alertas_calidad,206 de 429 obras de INFOBRAS tienen al menos una alerta (ver columna alertas_calidad)

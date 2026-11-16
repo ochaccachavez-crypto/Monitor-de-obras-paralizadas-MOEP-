@@ -1,0 +1,332 @@
+﻿anio,archivo_dbf,registros,campo,tipo,largo,descripcion,se_usa_en_escale_infraestructura,posible_infraestructura
+2025,loc_lineal_1.dbf,67145,CODLOCAL,C,6,Código de Local Educativo 999999,True,False
+2025,loc_lineal_1.dbf,67145,NROCED,C,2,Número de cedula 11,False,False
+2025,loc_lineal_1.dbf,67145,CODGEO,C,6,Código de Ubicación Geográfica 999999,True,False
+2025,loc_lineal_1.dbf,67145,CODUGEL,C,6,Código de Dependencia Administrativa Códigos de DRE/GRE/UGEL Capítulo 1: Datos generales del local educativo Sección 1: Ubicación geográfica,False,False
+2025,loc_lineal_1.dbf,67145,DPTO,C,30,1.1.1. Departamento Texto,True,False
+2025,loc_lineal_1.dbf,67145,PROV,C,45,1.1.2. Provincia Texto,True,False
+2025,loc_lineal_1.dbf,67145,DISTRITO,C,60,1.1.3. Distrito Texto,True,False
+2025,loc_lineal_1.dbf,67145,AMBITO,C,4,1.1.4. Dependencia Administrativa GRE / DRE / UGEL,False,False
+2025,loc_lineal_1.dbf,67145,REDEDUCA,C,40,1.1.5. Nombre de Dependencia Administrativa Texto,False,False
+2025,loc_lineal_1.dbf,67145,CEN_POB,C,80,1.1.6. Nombre del Centro Poblado Texto,False,False
+2025,loc_lineal_1.dbf,67145,CATEG_CP,C,1,1.1.6. Nombre del Centro Poblado (1:6) Tipo de Centro Poblado,False,False
+2025,loc_lineal_1.dbf,67145,NOMLUGAR,C,60,1.1.7. Núcleo Urbano Texto,False,False
+2025,loc_lineal_1.dbf,67145,CATEG_LG,C,2,1.1.7. Núcleo Urbano (01:11) Tipo de Núcleo Urbano,False,False
+2025,loc_lineal_1.dbf,67145,TIPOVIA,C,1,1.1.8. Dirección principal del Local Educativo (1:9) Tipo de Vía,False,False
+2025,loc_lineal_1.dbf,67145,NOMBVIA,C,80,1.1.8. Dirección principal del Local Educativo Texto Nombre de Vía,False,False
+2025,loc_lineal_1.dbf,67145,NUMERO,C,20,"1.1.8. Dirección principal del Local Educativo (0:9),(A:Z) Número de puerta",False,False
+2025,loc_lineal_1.dbf,67145,MANZANA,C,10,"1.1.8. Dirección principal del Local Educativo (0:9),(A:Z) Manzana",False,False
+2025,loc_lineal_1.dbf,67145,LOTE,C,15,1.1.8. Dirección principal del Local Educativo (0:9) Lote,False,False
+2025,loc_lineal_1.dbf,67145,SECTOR,C,30,1.1.8. Dirección principal del Local Educativo (0:9) Sector,False,False
+2025,loc_lineal_1.dbf,67145,ZONA,C,15,"1.1.8. Dirección principal del Local Educativo (0:9),(A:Z) Zona",False,False
+2025,loc_lineal_1.dbf,67145,ETAPA,C,15,"1.1.8. Dirección principal del Local Educativo (0:9),(A:Z) Etapa",False,False
+2025,loc_lineal_1.dbf,67145,OTROS,C,30,1.1.8. Dirección principal del Local Educativo Texto Otro,False,False
+2025,loc_lineal_1.dbf,67145,REFERENCIA,C,200,1.1.9. Referencia de la dirección del Local Educativo Texto,False,False
+2025,loc_lineal_1.dbf,67145,LATITUD,N,15,1.1.10. Puntos de Georreferenciación 999999.99999999 Latitud,False,False
+2025,loc_lineal_1.dbf,67145,LONGITUD,N,15,1.1.10. Puntos de Georreferenciación 999999.99999999 Longitud,False,False
+2025,loc_lineal_1.dbf,67145,ALTITUD,N,6,1.1.10. Puntos de Georreferenciación 999999 Altura,False,False
+2025,loc_lineal_1.dbf,67145,CLIMA,C,1,1.1.11. Clima (1:9),False,False
+2025,loc_lineal_1.dbf,67145,P122,C,1,"1.2.2. En este local educativo, ¿funciona algún instituto o escuela de 1: Sí educación superior? 2: No 8",False,False
+2025,loc_lineal_1.dbf,67145,P211,C,1,2.1.1. ¿El local educativo se encuentra en construcción/reconstrucción? 1: Sí,False,True
+2025,loc_lineal_1.dbf,67145,P211_SI,C,1,2.1.1. ¿El local educativo se encuentra en construcción/reconstrucción? 1: Total - Sí 2: Parcial,False,True
+2025,loc_lineal_1.dbf,67145,P212_FI,C,10,"2.1.2. Sobre la construcción/reconstrucción total del local educativo, MM-AAAA indique: - Fecha de inicio de la obra",False,True
+2025,loc_lineal_1.dbf,67145,P212_FC,C,10,"2.1.2. Sobre la construcción/reconstrucción total del local educativo, MM-AAAA indique: - Fecha en que concluirá la obra",False,True
+2025,loc_lineal_1.dbf,67145,P212_CUI,C,7,"2.1.2. Sobre la construcción/reconstrucción total del local educativo, 9999999 indique: - Código único de inversión (CUI) de la obra 9",False,True
+2025,loc_lineal_1.dbf,67145,P213,C,1,2.1.3. ¿Qué entidad financia la obra del local educativo? (1:6),False,False
+2025,loc_lineal_1.dbf,67145,P213_4_OT,C,80,2.1.3. ¿Qué entidad financia la obra del local educativo? Texto,False,False
+2025,loc_lineal_1.dbf,67145,P213_6_OT,C,80,2.1.3. ¿Qué entidad financia la obra del local educativo? Texto,False,False
+2025,loc_lineal_1.dbf,67145,P221,C,1,"2.2.1. ¿Los servicios educativos autorizados a funcionar en este local 1: Sí, todos están funcionando en otro lugar al momento del censo educativo? 2: Sí, algunos",False,False
+2025,loc_lineal_1.dbf,67145,P222_1,C,1,"2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los ""X"" servicios educativos?",False,False
+2025,loc_lineal_1.dbf,67145,P222_2,C,1,"2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los ""X"" servicios educativos?",False,False
+2025,loc_lineal_1.dbf,67145,P222_3,C,1,"2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los ""X"" servicios educativos?",False,False
+2025,loc_lineal_1.dbf,67145,P222_4,C,1,"2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los ""X"" servicios educativos?",False,False
+2025,loc_lineal_1.dbf,67145,P222_5,C,1,"2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los ""X"" servicios educativos?",False,False
+2025,loc_lineal_1.dbf,67145,P222_1_COD,C,34,2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los CódigoLocal01- servicios educativos? CódigoLocal02-,False,False
+2025,loc_lineal_1.dbf,67145,P222_5_OT,C,80,2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los Texto servicios educativos?,False,False
+2025,loc_lineal_1.dbf,67145,P223,C,1,2.2.3. ¿Por qué razón todos o algunos de los servicios educativos están (1:7) funcionando en otro lugar?,False,False
+2025,loc_lineal_1.dbf,67145,P223_7_OT,C,80,2.2.3. ¿Por qué razón todos o algunos de los servicios educativos están Texto funcionando en otro lugar?,False,False
+2025,loc_lineal_1.dbf,67145,P231,N,6,2.3.1. Cantidad de terrenos que ocupa el local educativo 999999,False,True
+2025,loc_lineal_1.dbf,67145,P232,N,10,"2.3.2. Área total del terreno o terrenos que ocupa el local educativo 9999999,99 Archivo: Loc_P233_SaFiLe.dbf [ Matriz 04: Saneamiento Físico Legal ] Variable Tipo Descripción Valor",False,True
+2025,loc_lineal_1.dbf,67145,P234,C,1,2.3.4. Topografía predominante del terreno o terrenos que ocupa el (1:4) local educativo,False,True
+2025,loc_lineal_1.dbf,67145,P235,C,1,2.3.5. Tipo de suelo predominante en el terreno o terrenos donde está (1:4) edificado el local educativo,False,True
+2025,loc_lineal_1.dbf,67145,P236,N,3,2.3.6. ¿Con cuántos tramos cuenta el perímetro del terreno del local 999 educativo? - Número de tramos Archivo: Loc_P236_Tramos.dbf [ Matriz 05: Tramos del perímetro del terreno ],False,True
+2025,loc_lineal_1.dbf,67145,P241_1_1,C,1,,False,False
+2025,loc_lineal_1.dbf,67145,P241_1_2,C,1,,False,False
+2025,loc_lineal_1.dbf,67145,P241_1_3,C,1,,False,False
+2025,loc_lineal_1.dbf,67145,P241_1_4,C,1,,False,False
+2025,loc_lineal_1.dbf,67145,P241_1_4_O,C,80,"2.4.1. Tomando como referencia la puerta principal, indique las Texto opciones de acceso e ingreso al local educativo 1. ¿Cuáles son las opciones de tipo de acceso al local",False,False
+2025,loc_lineal_1.dbf,67145,P241_2,N,3,"2.4.1. Tomando como referencia la puerta principal, indique las 999 opciones de acceso e ingreso al local educativo CARACTERÍSTICAS DE LA GRADA 2. ¿Cuál es la medida del paso (en centímetros)?",False,False
+2025,loc_lineal_1.dbf,67145,P241_3,N,3,"2.4.1. Tomando como referencia la puerta principal, indique las 999 opciones de acceso e ingreso al local educativo CARACTERÍSTICAS DE LA GRADA 3. ¿Cuál es la medida del contrapaso (en centímetros)?",False,False
+2025,loc_lineal_1.dbf,67145,P241_4,C,1,"2.4.1. Tomando como referencia la puerta principal, indique las 1: Sí opciones de acceso e ingreso al local educativo 2: No CARACTERÍSTICAS DE LA GRADA 4. ¿La grada cuenta con piso podotáctil al inicio y al final?",False,True
+2025,loc_lineal_1.dbf,67145,P241_5,C,1,"2.4.1. Tomando como referencia la puerta principal, indique las 1: Sí opciones de acceso e ingreso al local educativo 2: No CARACTERÍSTICAS DE LA GRADA 5. ¿Cuenta con baranda/pasamanos?",False,False
+2025,loc_lineal_1.dbf,67145,P241_6,N,7,"2.4.1. Tomando como referencia la puerta principal, indique las 9999,99 opciones de acceso e ingreso al local educativo CARACTERÍSTICAS DE LA RAMPA 6. Ancho (en metros)",False,True
+2025,loc_lineal_1.dbf,67145,P241_7,N,7,"2.4.1. Tomando como referencia la puerta principal, indique las opciones 9999,99 de acceso e ingreso al local educativo CARACTERÍSTICAS DE LA RAMPA 7. Largo (en metros)",False,True
+2025,loc_lineal_1.dbf,67145,P241_8,N,5,"2.4.1. Tomando como referencia la puerta principal, indique las opciones 999,99 de acceso e ingreso al local educativo CARACTERÍSTICAS DE LA RAMPA 8. Alto (en metros)",False,True
+2025,loc_lineal_1.dbf,67145,P241_9,C,1,"2.4.1. Tomando como referencia la puerta principal, indique las opciones 1: Sí de acceso e ingreso al local educativo 2: No CARACTERÍSTICAS DE LA RAMPA 9. ¿El piso de la rampa es homogéneo y antideslizante?",False,True
+2025,loc_lineal_1.dbf,67145,P241_10,C,1,"2.4.1. Tomando como referencia la puerta principal, indique las opciones 1: Sí de acceso e ingreso al local educativo 2: No CARACTERÍSTICAS DE LA RAMPA 10. ¿La rampa cuenta con piso podotáctil al inicio y al final?",False,True
+2025,loc_lineal_1.dbf,67145,P241_11,C,1,"2.4.1. Tomando como referencia la puerta principal, indique las opciones 1: Sí de acceso e ingreso al local educativo 2: No CARACTERÍSTICAS DE LA RAMPA 11. ¿Cuenta con baranda/pasamanos?",False,True
+2025,loc_lineal_1.dbf,67145,P242_1,C,1,"2.4.2. ¿Qué tipo de señalización tiene el local educativo? ""X"" 1. Señalización de seguridad",False,False
+2025,loc_lineal_1.dbf,67145,P242_2,C,1,"2.4.2. ¿Qué tipo de señalización tiene el local educativo? ""X"" 2. Señalización visual",False,False
+2025,loc_lineal_1.dbf,67145,P242_3,C,1,"2.4.2. ¿Qué tipo de señalización tiene el local educativo? ""X"" 3. Señalización braile y planos hápticos",False,False
+2025,loc_lineal_1.dbf,67145,P242_4,C,1,"2.4.2. ¿Qué tipo de señalización tiene el local educativo? ""X"" 4. Señalización podotáctil",False,False
+2025,loc_lineal_1.dbf,67145,P242_5,C,1,"2.4.2. ¿Qué tipo de señalización tiene el local educativo? ""X"" 5. Señales sonoras",False,False
+2025,loc_lineal_1.dbf,67145,P242_6,C,1,"2.4.2. ¿Qué tipo de señalización tiene el local educativo? ""X"" 6. Señales luminosas",False,False
+2025,loc_lineal_1.dbf,67145,P243,C,1,"2.4.3. El local educativo, ¿cuenta con el certificado de inspección técnica 1: Sí de seguridad de edificaciones ITSE? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P243_SI,C,1,"2.4.3. El local educativo, ¿cuenta con el certificado de inspección técnica 1: Sí de seguridad de edificaciones ITSE? 2: No - Sí --> ¿Actualmente está vigente? Sección 5: Accesibilidad al local educativo",False,False
+2025,loc_lineal_1.dbf,67145,P251,N,3,"2.5.1. ¿Cuántos trayectos tiene la ruta que utiliza habitualmente para 999 trasladarse desde el local educativo hasta la UGEL de su jurisdicción, y qué medio de transporte y vía utiliza? - N° de trayectos",False,False
+2025,loc_lineal_1.dbf,67145,P252,C,1,"2.5.2. ¿El local educativo, se encuentra ubicado en la capital distrital 1: Sí donde se encuentra la sede de su UGEL? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P253,N,3,"2.5.3 ¿Cuántos trayectos tiene la ruta que utiliza habitualmente para 999 trasladarse desde el local educativo hasta la capital distrital (plaza de armas), y qué medio de transporte y vía utiliza - N° de Trayectos",False,False
+2025,loc_lineal_1.dbf,67145,P311_1,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 1. Agua potable 2: No,False,True
+2025,loc_lineal_1.dbf,67145,P311_2,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 2. Saneamiento (alcantarillado/desagüe) 2: No,False,True
+2025,loc_lineal_1.dbf,67145,P311_3,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 3. Energía eléctrica 2: No,False,True
+2025,loc_lineal_1.dbf,67145,P311_4,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 4. Telefonía 2: No,False,False
+2025,loc_lineal_1.dbf,67145,P311_5,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 5. Internet 2: No,False,True
+2025,loc_lineal_1.dbf,67145,P311_6,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 6. Gas 2: No,False,False
+2025,loc_lineal_1.dbf,67145,P311_7,C,1,3.1.1.. El centro poblado cuenta con servicios de: 1: Sí 7. Posta médica o centro de salud 2: No Sección 2: Servicios básicos en el local educativo Agua potable,False,True
+2025,loc_lineal_1.dbf,67145,P321,C,1,"3.2.1. El abastecimiento de agua que predomina en el local educativo, (1:8) proviene de:",True,True
+2025,loc_lineal_1.dbf,67145,P321_7_OT,C,80,"3.2.1. El abastecimiento de agua que predomina en el local educativo, Texto proviene de:",False,True
+2025,loc_lineal_1.dbf,67145,P322,C,1,"3.2.2. El servicio de agua potable, ¿lo tiene en todos los terrenos? 1: Sí",False,True
+2025,loc_lineal_1.dbf,67145,P322_NO,N,2,"3.2.2. El servicio de agua potable, ¿lo tiene en todos los terrenos? 99 - No --> ¿En cuántos terrenos los tiene?",False,True
+2025,loc_lineal_1.dbf,67145,P323,C,1,3.2.3. ¿Qué entidad suministra el servicio de agua potable? (1:4),False,True
+2025,loc_lineal_1.dbf,67145,P324,C,80,3.2.4. ¿Cuál es el nombre de la entidad que suministra el servicio de Texto agua potable?,False,True
+2025,loc_lineal_1.dbf,67145,P325,N,3,3.2.5. ¿Con cuántos suministros de agua potable cuenta el local 999 educativo? - Cantidad de suministros 17,False,True
+2025,loc_lineal_1.dbf,67145,P326_1,C,20,"3.2.6. Detalle el(los) número(s) de suministro(s) de agua potable con (0:9),(A:Z) los que cuenta el local educativo 1. Suministro 01",False,True
+2025,loc_lineal_1.dbf,67145,P326_2,C,20,"3.2.6. Detalle el(los) número(s) de suministro(s) de agua potable con (0:9),(A:Z) los que cuenta el local educativo 2. Suministro 02",False,True
+2025,loc_lineal_1.dbf,67145,P326_3,C,20,"3.2.6. Detalle el(los) número(s) de suministro(s) de agua potable con (0:9),(A:Z) los que cuenta el local educativo 3. Suministro 03",False,True
+2025,loc_lineal_1.dbf,67145,P327,C,1,3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos 1: Sí los días de la semana? 2: No,False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_1,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_2,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_3,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_4,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_5,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_6,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P327_NO_7,C,1,"3.2.7. El local educativo ¿cuenta con el servicio de agua potable todos ""X"" los días de la semana? - No --> Marque los días de la semana que tiene el servicio de agua potable",False,True
+2025,loc_lineal_1.dbf,67145,P328,C,1,328. Horario y turno que tiene el servicio de agua potable (1:3),False,True
+2025,loc_lineal_1.dbf,67145,P328_23_1,C,1,"328. Horario y turno que tiene el servicio de agua potable ""X"" 2. Solo por algunas horas/3. Solo durante el horario de clases",False,True
+2025,loc_lineal_1.dbf,67145,P328_23_2,C,1,"328. Horario y turno que tiene el servicio de agua potable ""X"" 2. Solo por algunas horas/3. Solo durante el horario de clases",False,True
+2025,loc_lineal_1.dbf,67145,P328_23_3,C,1,"328. Horario y turno que tiene el servicio de agua potable ""X"" 2. Solo por algunas horas/3. Solo durante el horario de clases",False,True
+2025,loc_lineal_1.dbf,67145,P329,C,1,3.2.9. ¿El Local Educativo cuenta con bebederos? 1: Sí,False,False
+2025,loc_lineal_1.dbf,67145,P329_B_EST,N,5,3.2.9. ¿El Local Educativo cuenta con bebederos? 99999 - Cantidad de bebederos en buen estado,False,False
+2025,loc_lineal_1.dbf,67145,P329_R_EST,N,5,3.2.9. ¿El Local Educativo cuenta con bebederos? 99999 - Cantidad de bebederos en regular estado,False,False
+2025,loc_lineal_1.dbf,67145,P329_M_EST,N,5,3.2.9. ¿El Local Educativo cuenta con bebederos? 99999 - Cantidad de bebederos en mal estado,False,False
+2025,loc_lineal_1.dbf,67145,P3210,C,1,"3.2.10. Si el local educativo no cuenta con conexión a la red pública, 1: Sí ¿se ha realizado el trámite para obtener acceso? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P3210_SI,C,1,"3.2.10. Si el local educativo no cuenta con conexión a la red pública, (1:5) ¿se ha realizado el trámite para obtener acceso? - Sí --> ¿Cuál es el estado de la solicitud?",False,True
+2025,loc_lineal_1.dbf,67145,P3210_NO_1,C,1,"3.2.10. Si el local educativo no cuenta con conexión a la red pública, ""X"" ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3210_NO_2,C,1,"3.2.10. Si el local educativo no cuenta con conexión a la red pública, ""X"" ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3210_NO_3,C,1,"3.2.10. Si el local educativo no cuenta con conexión a la red pública, ""X"" ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3210_NO_O,C,80,"3.2.10. Si el local educativo no cuenta con conexión a la red pública, Texto ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3211,C,1,3.2.11. ¿El agua captada cuenta con un tratamiento que la potabiliza? 1: Sí,False,True
+2025,loc_lineal_1.dbf,67145,P3212,C,1,3.2.12. El saneamiento (alcantarillado/desagüe) que predomina en el (1:8) local educativo es de:,True,True
+2025,loc_lineal_1.dbf,67145,P3212_7_OT,C,80,3.2.12. El saneamiento (alcantarillado/desagüe) que predomina en el Texto local educativo es de:,False,True
+2025,loc_lineal_1.dbf,67145,P3213,C,1,"3.2.13. El servicio de saneamiento (alcantarillado/desagüe), ¿lo tiene 1: Sí en todos los terrenos? 2: No",False,True
+2025,loc_lineal_1.dbf,67145,P3213_NO,N,3,"3.2.13. El servicio de saneamiento (alcantarillado/desagüe), ¿lo tiene 999 en todos los terrenos? - No --> ¿En cuántos terrenos los tiene?",False,True
+2025,loc_lineal_1.dbf,67145,P3214,C,80,3.2.14. ¿Cuál es el nombre de la entidad prestadora del servicio de Texto saneamiento (alcantarillado/desagüe)?,False,True
+2025,loc_lineal_1.dbf,67145,P3215,C,1,"3.2.15. Si el local educativo no cuenta con conexión a la red pública, 1: Sí ¿se ha realizado el trámite para obtener acceso? 2: No 20",False,False
+2025,loc_lineal_1.dbf,67145,P3215_SI,C,1,"3.2.15. Si el local educativo no cuenta con conexión a la red pública, (1:5) ¿se ha realizado el trámite para obtener acceso? - Sí--> ¿Cuál es el estado de la solicitud?",False,True
+2025,loc_lineal_1.dbf,67145,P3215_NO_1,C,1,"3.2.15. Si el local educativo no cuenta con conexión a la red pública, ""X"" ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3215_NO_2,C,1,"3.2.15. Si el local educativo no cuenta con conexión a la red pública, ""X"" ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3215_NO_3,C,1,"3.2.15. Si el local educativo no cuenta con conexión a la red pública, ""X"" ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3215_NO_O,C,80,"3.2.15. Si el local educativo no cuenta con conexión a la red pública, Texto ¿se ha realizado el trámite para obtener acceso? - No--> ¿Cuáles son las razones por las que no se ha hecho el trámite para obtener acceso?",False,False
+2025,loc_lineal_1.dbf,67145,P3216,C,1,3.2.16. ¿El local educativo cuenta con una planta de tratamiento de 1: Sí aguas residuales provenientes de la actividad humana? 2: No,False,True
+2025,loc_lineal_1.dbf,67145,P3216_SI,C,1,3.2.16. ¿El local educativo cuenta con una planta de tratamiento de 1: Sí aguas residuales provenientes de la actividad humana? 2: No - Sí--> ¿El volumen tratado por día es mayor a 20m3 (20 mil litros)? Energía eléctrica,False,True
+2025,loc_lineal_1.dbf,67145,P3217,C,1,3.2.17. La energía eléctrica que predomina en el local educativo (1:7) proviene de:,True,True
+2025,loc_lineal_1.dbf,67145,P3217_6_OT,C,80,3.2.17. La energía eléctrica que predomina en el local educativo Texto proviene de:,False,True
+2025,loc_lineal_1.dbf,67145,P3218,C,1,"3.2.18. El servicio de energía eléctrica, ¿lo tiene en todos los terrenos? 1: Sí",False,True
+2025,loc_lineal_1.dbf,67145,P3218_NO,N,3,"3.2.18. El servicio de energía eléctrica, ¿lo tiene en todos los terrenos? 999 - No--> ¿En cuántos terrenos los tiene?",False,True
+2025,loc_lineal_1.dbf,67145,P3219,C,80,3.2.19. ¿Cuál es el nombre de la entidad prestadora del servicio de Texto energía eléctrica?,False,True
+2025,loc_lineal_1.dbf,67145,P3220,N,3,3.2.20. ¿Cuántos suministros de energía eléctrica tiene el local 999 educativo?,False,True
+2025,loc_lineal_1.dbf,67145,P3221_1,C,20,"3.2.21. Detalle el(los) número(s) de suministro(s) (0:9),(A:Z) 1. Suministro 01",False,False
+2025,loc_lineal_1.dbf,67145,P3221_2,C,20,"3.2.21. Detalle el(los) número(s) de suministro(s) (0:9),(A:Z) 2. Suministro 02",False,False
+2025,loc_lineal_1.dbf,67145,P3221_3,C,20,"3.2.21. Detalle el(los) número(s) de suministro(s) (0:9),(A:Z) 3. Suministro 03",False,False
+2025,loc_lineal_1.dbf,67145,P3222,C,1,3.2.22. ¿Qué tipo de sistema eléctrico tiene? 1: Monofásico,False,False
+2025,loc_lineal_1.dbf,67145,P3223,C,1,3.2.23. ¿Cuenta con medidor de suministro de energía eléctrica? 1: Sí,False,True
+2025,loc_lineal_1.dbf,67145,P3223_S_M,N,3,3.2.23 ¿Cuenta con medidor de suministro de energía eléctrica? 999 Nro. total de medidores,False,True
+2025,loc_lineal_1.dbf,67145,P3223_S_MF,N,3,3.2.23 ¿Cuenta con medidor de suministro de energía eléctrica? 999 Nro. de medidores en funcionamiento,False,True
+2025,loc_lineal_1.dbf,67145,P3224,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica 1: Sí todos los días de la semana? 2: No",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_1,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_2,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_3,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_4,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_5,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_6,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3224_NO_7,C,1,"3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica ""X"" todos los días de la semana? - No--> Marque los días de la semana que tiene el servicio de energía eléctrica",False,True
+2025,loc_lineal_1.dbf,67145,P3225,C,1,3.2.25. Horario y turno que tiene el servicio de energía eléctrica (1:3),False,True
+2025,loc_lineal_1.dbf,67145,P3225_23_1,C,1,"3.2.25. Horario y turno que tiene el servicio de energía eléctrica ""X"" 2. Sólo por algunas horas/3. Sólo durante el horario de clases",False,True
+2025,loc_lineal_1.dbf,67145,P3225_23_2,C,1,"3.2.25. Horario y turno que tiene el servicio de energía eléctrica ""X"" 2. Sólo por algunas horas/3. Sólo durante el horario de clases",False,True
+2025,loc_lineal_1.dbf,67145,P3225_23_3,C,1,"3.2.25. Horario y turno que tiene el servicio de energía eléctrica ""X"" 2. Sólo por algunas horas/3. Sólo durante el horario de clases",False,True
+2025,loc_lineal_1.dbf,67145,P3226,C,1,"3.2.26. El Local Educativo, ¿cuenta con línea de telefonía fija? 1: Sí",False,False
+2025,loc_lineal_1.dbf,67145,P3226_SI,C,1,"3.2.26. El Local Educativo, ¿cuenta con línea de telefonía fija? 1: Sí - Sí--> ¿Funciona? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P3227,C,1,"3.2.27. La línea de telefonía fija con la que cuenta el local educativo, 1: Sí ¿funciona durante el horario de clase? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P3228_COD,C,2,3.2.28. ¿Cuál es el nombre de la empresa que brinda el servicio de (01:05) telefonía fija en el local educativo? - Código del operador 23,False,False
+2025,loc_lineal_1.dbf,67145,P3228_OPER,C,8,"3.2.28. ¿Cuál es el nombre de la empresa que brinda el servicio de Nombre de telefonía fija en el local educativo? operador Código del operador + "": "" + Nombre de operador",False,False
+2025,loc_lineal_1.dbf,67145,P3229_PRE,C,2,3.2.29. Registre el número de teléfono fijo del Local Educativo 99 - Prefijo,False,False
+2025,loc_lineal_1.dbf,67145,P3229_TEL,C,9,3.2.29. Registre el número de teléfono fijo del Local Educativo 999999999999999 - Número de teléfono fijo Internet,False,True
+2025,loc_lineal_1.dbf,67145,P3230,C,1,"3.2.30. El local educativo, ¿cuenta con servicio de internet? 1: Sí",False,True
+2025,loc_lineal_1.dbf,67145,P3230_SI,N,2,"3.2.30. El local educativo, ¿cuenta con servicio de internet? 99 - Sí--> ¿Cuántas líneas de internet tiene?",False,True
+2025,loc_lineal_1.dbf,67145,P3230_NO_1,C,1,"3.2.30. El local educativo, ¿cuenta con servicio de internet? 1: Sí - No--> El director y/o los docentes, para sus funciones pedagógicas, 2: No ¿acceden regularmente a internet dentro del local educativo desde sus propios equipos electrónicos (plan de",False,True
+2025,loc_lineal_1.dbf,67145,P3230_NO_2,C,1,"3.2.30. El local educativo, ¿cuenta con servicio de internet? 1: Sí - No--> Los estudiantes, para sus labores académicas, ¿acceden a 2: No internet desde tablets con plan de datos (chip) adquiridas o dotadas al local educativo?",False,True
+2025,loc_lineal_1.dbf,67145,P3231,C,1,"3.2.31. El Local Educativo, ¿cuenta con instalación del servicio de gas 1: Sí (natural o GLP por balón) 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P3231_SI,C,1,"3.2.31. El Local Educativo, ¿cuenta con instalación del servicio de gas 1: Sí (natural o GLP por balón) 2: No - Sí--> ¿Funciona?",False,False
+2025,loc_lineal_1.dbf,67145,P3232,C,1,"3.2.32. El servicio de gas con el que cuenta el local educativo, 1: Sí ¿funciona durante el horario de clase? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P3233,C,1,3.2.33. ¿Cuenta con el medidor? 1: Sí,False,False
+2025,loc_lineal_1.dbf,67145,P3234,C,1,3.2.34. ¿Tipo de gas? 1: GLP por balón (gas licuado de petróleo),False,False
+2025,loc_lineal_1.dbf,67145,P3235,C,80,3.2.35. Nombre de empresa concesionaria/administradora del servicio Texto de gas,False,False
+2025,loc_lineal_1.dbf,67145,P3236,C,1,3.2.36. El Local Educativo ¿cuenta con módulo de conectividad? 1: Sí,False,True
+2025,loc_lineal_1.dbf,67145,P3237,C,1,"3.2.37. El local educativo, ¿cuenta con un tópico para atención de 1: Sí primeros auxilios? 2: No",False,False
+2025,loc_lineal_1.dbf,67145,P3237_SI,C,1,"3.2.37. El local educativo, ¿cuenta con un tópico para atención de 1: Sí primeros auxilios? 2: No - Sí --> El Tópico, ¿se encuentra implementado?",False,False
+2025,loc_lineal_1.dbf,67145,P3238_1,C,1,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que ""X"" más se ajusten a la realidad 1. La arrojan al camión o triciclo municipal",False,False
+2025,loc_lineal_1.dbf,67145,P3238_2,C,1,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que ""X"" más se ajusten a la realidad 2. La arrojan al camión o triciclo informal",False,False
+2025,loc_lineal_1.dbf,67145,P3238_3,C,1,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que ""X"" más se ajusten a la realidad 3. La entierran",False,False
+2025,loc_lineal_1.dbf,67145,P3238_4,C,1,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que ""X"" más se ajusten a la realidad 4. La queman",False,False
+2025,loc_lineal_1.dbf,67145,P3238_5,C,1,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que ""X"" más se ajusten a la realidad 5. La arrojan a cualquier lugar",False,False
+2025,loc_lineal_1.dbf,67145,P3238_6,C,1,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que ""X"" más se ajusten a la realidad 6. Otro",False,False
+2025,loc_lineal_1.dbf,67145,P3238_6_OT,C,80,"3.2.38. Sobre la eliminación de la basura, marque las alternativas que Texto más se ajusten a la realidad 6. Otro --- Especifique 26",False,False
+2025,loc_lineal_1.dbf,67145,FEC_ENVIO,C,19,,False,False
+2025,loc_lineal_1.dbf,67145,GESTION,C,1,,True,False
+2025,loc_lineal_1.dbf,67145,ANEXO,C,1,2. Número de Anexo Id de Anexo,False,False
+2025,loc_lineal_1.dbf,67145,AREA_LOC,C,1,,False,False
+2025,loc_lineal_1.dbf,67145,GES_LOC,C,1,,False,False
+2025,loc_lineal_1.dbf,67145,TIP_ENVIO,C,18,,False,False
+2025,Loc_P53_Edific.dbf,202417,CODLOCAL,C,6,Código de Local Educativo 999999,True,False
+2025,Loc_P53_Edific.dbf,202417,NROCED,C,2,Número de cedula 11,False,False
+2025,Loc_P53_Edific.dbf,202417,CUADRO,C,4,1.2.1. Servicios/niveles educativos que funcionan en el local educativo C121 7,False,False
+2025,Loc_P53_Edific.dbf,202417,NUMERO,C,3,"1.1.8. Dirección principal del Local Educativo (0:9),(A:Z) Número de puerta",False,False
+2025,Loc_P53_Edific.dbf,202417,ID_EDIF,C,3,"1.Número de edificación ""E"" + [Correlativo de 2 dígitos]",False,False
+2025,Loc_P53_Edific.dbf,202417,ID_TERR,C,4,"Código del Terreno ""TE"" + [Correlativo de 2 dígitos]",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_3,C,1,3. ¿La edificación está en uso actualmente? 1: Sí,True,False
+2025,Loc_P53_Edific.dbf,202417,P53_4,C,1,4. ¿La edificación es un módulo prefabricado? 1: Sí,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_5_1,C,4,5. Sobre el módulo prefabricado 9999 1. Año de instalación del módulo prefabricado,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_5_2,C,2,5. Sobre el módulo prefabricado Ver código en 2. ¿Cuál es la finalidad del uso del módulo Tabla 01 prefabricado?,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_5_3,C,2,5. Sobre el módulo prefabricado Ver código en 3. Estado de conservación del módulo prefabricado Tabla 04,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_6,N,3,6. Número de pisos de la edificación 999,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_7,N,9,7. Área techada de la edificación 999999.99,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_8_1,C,4,8. Datos de construcción de la edificación 9999 1. Año de término de la construcción,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_8_2,C,2,8. Datos de construcción de la edificación Ver código en 2. Tipo de Entidad Ejecutora Tabla 02,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_9,C,1,9. ¿La edificación posee más de un tipo de sistema 1: Sí estructural? 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_10,C,2,10. Sistema Estructural Predominante Ver código en Tabla 03,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_11_11,C,2,11. Elementos Estructrales Ver código en 1. Muros Tabla 03 1. Material Predominante,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_11_12,C,2,11. Elementos Estructrales Ver código en 1. Muros Tabla 04 2. Estado de Conservación,True,True
+2025,Loc_P53_Edific.dbf,202417,P53_11_21,C,2,11. Elementos Estructrales Ver código en 2. Columnas Tabla 03 1. Material Predominante 31,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_11_22,C,2,11. Elementos Estructrales Ver código en Tabla 2. Columnas 04 2. Estado de Conservación,True,True
+2025,Loc_P53_Edific.dbf,202417,P53_11_31,C,2,11. Elementos Estructrales Ver código en Tabla 3. Vigas 03 1. Material Predominante,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_11_32,C,2,11. Elementos Estructrales Ver código en Tabla 3. Vigas 04 2. Estado de Conservación,True,True
+2025,Loc_P53_Edific.dbf,202417,P53_11_41,C,2,11. Elementos Estructrales Ver código en Tabla 4. Estructura de Techos 03 1. Material Predominante,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_11_42,C,2,11. Elementos Estructrales Ver código en Tabla 4. Estructura de Techos 04 2. Estado de Conservación,True,True
+2025,Loc_P53_Edific.dbf,202417,P53_11_43,C,4,11. Elementos Estructrales 9999 4. Estructura de Techos 3. Último año de mantenimiento,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_12_11,C,2,12. Elementos No Estructurales Ver código en Tabla 1. Cobertura de Techos 05 1. Material Predominante,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_12_12,C,2,12. Elementos No Estructurales Ver código en Tabla 1. Cobertura de Techos 04 2. Estado de Conservación,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_12_21,C,2,12. Elementos No Estructurales Ver código en Tabla 2. Estado de Conservación 04 1. Techo y/o Entrepisos,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_12_22,C,2,12. Elementos No Estructurales Ver código en Tabla 2. Estado de Conservación 04 2. Escaleras,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_12_23,C,2,12. Elementos No Estructurales Ver código en Tabla 2. Estado de Conservación 04 3. Parapetos,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_13_1,C,1,13. La edificación cuenta con RED INTERNA de: 1: Sí 1. Agua 2: No,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_13_2,C,1,13. La edificación cuenta con RED INTERNA de: 1: Sí 2. Alcantarillado/Desagüe 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_13_3,C,1,13. La edificación cuenta con RED INTERNA de: 1: Sí 3. Energía Eléctrica 2: No,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_14_1,C,1,14. Formas de acceso a la edificación 1: Sí 1. ¿Tiene acceso directo sin desnivel? 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_14_21,C,1,14. Formas de acceso a la edificación 1: Sí 2. ¿Tiene rampa de acceso? 2: No 1. Primer piso 32,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_14_22,C,1,14. Formas de acceso a la edificación 1: Sí 2. ¿Tiene rampa de acceso? 2: No 2. Todos los pisos,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_14_3,C,1,14. Formas de acceso a la edificación 1: Sí 3. ¿Tiene escalera? 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_14_4,C,1,14. Formas de acceso a la edificación 1: Sí 4. ¿Tiene ascensor? 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_14_51,C,1,14. Formas de acceso a la edificación 1: Sí 5. Si registro que si cuenta con ascensor 2: No 1. ¿Está operativo?,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_14_52,C,4,14. Formas de acceso a la edificación 9999 5. Si registro que si cuenta con ascensor 2. Último año de mantenimiento,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_14_6,C,1,14. Formas de acceso a la edificación 1: Sí 6. ¿Tiene otras formas de acceso? 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_15_1,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 1: Sí las siguientes características 2: No 1. ¿Cuenta con ancho mínimo de 1.5 m?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_2,N,7,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 9999.99 las siguientes características 2. Longitud (m)",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_3,N,5,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 99.99 las siguientes características 3. Desnivel (m)",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_4,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 1: Sí las siguientes características 2: No 4. ¿Los descansos tienen una longitud mínima de largo de 1.50 m?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_5,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 1: Sí las siguientes características 2: No 5. ¿El piso de la rampa es homogéneo y antideslizante?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_6,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 1: Sí las siguientes características 2: No 6. ¿Tiene pasamanos o baranda a ambos lados?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_7,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 1: Sí las siguientes características 2: No 7. ¿Los pasamanos tienen una altura de 0.85 m o 0.90 m?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_8,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta con 1: Sí las siguientes características 2: No 8. ¿Tiene un pasamano adicional entre los 0.45 m y los 0.60 m de altura?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_9,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta 1: Sí con las siguientes características 2: No 9. ¿El inicio y final de la rampa tiene un espacio libre de 1.50 m para el giro de una silla de ruedas?",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_15_10,C,1,"15. En el caso el acceso sea mediante rampa(s), indique si cuenta 1: Sí con las siguientes características 2: No 10. ¿Cuenta con señalización para personas con discapacidad visual? (piso podotáctil)",False,True
+2025,Loc_P53_Edific.dbf,202417,P53_16,C,2,16. ¿Cómo se conectan los espacios interiores en un mismo piso? (01:04),False,True
+2025,Loc_P53_Edific.dbf,202417,P53_17,C,2,17. ¿Cómo se conectan esta edificación con otra edificación? (01:04),False,False
+2025,Loc_P53_Edific.dbf,202417,P53_18_1,C,2,18. Instalaciones Eléctricas Ver código en Tabla 1. Tipo de Instalación del cableado 06,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_18_21,N,5,18. Instalaciones Eléctricas 99999 2. Tablero 1. Cantidad,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_18_22,C,2,18. Instalaciones Eléctricas Ver código en Tabla 2. Tablero 04 2. Estado de Conservación,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_18_31,N,5,18. Instalaciones Eléctricas 99999 3. Gabinete de protección de circuitos 1. Cantidad,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_18_32,C,2,18. Instalaciones Eléctricas Ver código en Tabla 3. Gabinete de protección de circuitos 04 2. Estado de Conservación,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_18_41,N,5,18. Instalaciones Eléctricas 99999 4. Sistema de puesta a tierra 1. Cantidad,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_18_42,C,2,18. Instalaciones Eléctricas Ver código en Tabla 4. Sistema de puesta a tierra 04 2. Estado de Conservación,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_18_43,C,4,18. Instalaciones Eléctricas 9999 4. Sistema de puesta a tierra 3. Último año de mantenimiento,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_19_1,C,2,19. Instalaciones Sanitarias en los techos Ver código en Tabla - Estado de Conservación 04 1. Canaletas del Sistema de captación del agua de las lluvias,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_19_2,C,2,19. Instalaciones Sanitarias en los techos Ver código en - Estado de Conservación Tabla 04 2. Tuberías del Sistema de evacuación del agua de las lluvias,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_20,C,1,20. La edificación ¿se encuentra en riesgo de colapso o presenta 1: Sí riesgo estructural? 2: No,True,True
+2025,Loc_P53_Edific.dbf,202417,P53_21,C,1,21. ¿Cuenta con un informe o certificado que diagnostique esta 1: Sí situación? 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_22,C,2,22. Entidad que elabora el informe (01:04),False,False
+2025,Loc_P53_Edific.dbf,202417,P53_23,C,1,23. La edificación es considerada como un patrimonio cultural 1: Sí,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_24_1,C,1,24. La edificación cuenta con: 1: Sí 1. Señalización de seguridad 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_24_2,C,1,24. La edificación cuenta con: 1: Sí 2. Sistemas de detección y alarma contra incendio 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_24_3,C,1,24. La edificación cuenta con: 1: Sí 3. Botiquín debidamente equipado 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_24_4,C,1,24. La edificación cuenta con: 1: Sí 4. Luces de emergencia operativas 2: No,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_25_1,N,5,25. Extintores 99999 1. Cantidad Total (Operativos + Inoperativos),False,False
+2025,Loc_P53_Edific.dbf,202417,P53_25_2,N,5,25. Extintores 99999 2. Cantidad Operativos,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_25_3,C,4,25. Extintores 9999 3. Último año del mantenimiento de la mayoría de extintores operativos,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_26_1,N,5,26. Gabinete contra incendios 99999 1. Cantidad Total (Operativos + Inoperativos),False,False
+2025,Loc_P53_Edific.dbf,202417,P53_26_2,N,5,26. Gabinete contra incendios 99999 2. Cantidad Operativos,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_26_3,C,4,26. Gabinete contra incendios 9999 3. Último año del mantenimiento de la mayoría de gabinetes operativos,False,True
+2025,Loc_P53_Edific.dbf,202417,P53_27_1,N,5,27. Detectores de humo 99999 1. Cantidad Total (Operativos + Inoperativos),False,False
+2025,Loc_P53_Edific.dbf,202417,P53_27_2,N,5,27. Detectores de humo 99999 2. Cantidad Operativos,False,False
+2025,Loc_P53_Edific.dbf,202417,P53_27_3,C,4,27. Detectores de humo 9999 3. Último año del mantenimiento de la mayoría de detectores operativos 35,False,True
+2025,Loc_P53_Edific.dbf,202417,FEC_ENVIO,C,19,,False,False
+2025,Loc_P53_Edific.dbf,202417,GESTION,C,1,,True,False
+2025,Loc_P53_Edific.dbf,202417,ANEXO,C,1,2. Número de Anexo Id de Anexo,False,False
+2025,Padron.dbf,112724,CODINST,C,8,,False,False
+2025,Padron.dbf,112724,COD_MOD,C,7,1. Código modular Id del Servicio Educativo,False,False
+2025,Padron.dbf,112724,ANEXO,C,1,2. Número de Anexo Id de Anexo,False,False
+2025,Padron.dbf,112724,CODLOCAL,C,6,Código de Local Educativo 999999,True,False
+2025,Padron.dbf,112724,CEN_EDU,C,80,,False,False
+2025,Padron.dbf,112724,NIV_MOD,C,2,5. Código de nivel y/o modalidad del servicio/nivel educativo (A1:S0) A1: Inicial Cuna A2: Inicial Jardín A3: Inicial Cuna-Jardín,False,False
+2025,Padron.dbf,112724,D_NIV_MOD,C,40,,False,False
+2025,Padron.dbf,112724,D_FORMA,C,15,,False,False
+2025,Padron.dbf,112724,TIPSSEXO,C,1,,False,False
+2025,Padron.dbf,112724,D_TIPSSEXO,C,7,,False,False
+2025,Padron.dbf,112724,GESTION,C,1,,True,False
+2025,Padron.dbf,112724,D_GESTION,C,28,,True,False
+2025,Padron.dbf,112724,GES_DEP,C,2,,False,False
+2025,Padron.dbf,112724,D_GES_DEP,C,34,,False,False
+2025,Padron.dbf,112724,DIRECTOR,C,69,,False,False
+2025,Padron.dbf,112724,TELEFONO,C,35,,False,False
+2025,Padron.dbf,112724,EMAIL,C,50,,False,False
+2025,Padron.dbf,112724,PAGWEB,C,50,,False,False
+2025,Padron.dbf,112724,DIR_CEN,C,112,,False,False
+2025,Padron.dbf,112724,LOCALIDAD,C,51,,False,False
+2025,Padron.dbf,112724,CODCP_INEI,C,10,,False,False
+2025,Padron.dbf,112724,CODCCPP,C,6,,False,False
+2025,Padron.dbf,112724,CEN_POB,C,55,1.1.6. Nombre del Centro Poblado Texto,False,False
+2025,Padron.dbf,112724,AREA_CENSO,C,1,,True,False
+2025,Padron.dbf,112724,DAREACENSO,C,6,,False,False
+2025,Padron.dbf,112724,CODGEO,C,6,Código de Ubicación Geográfica 999999,True,False
+2025,Padron.dbf,112724,D_DPTO,C,13,,False,False
+2025,Padron.dbf,112724,D_PROV,C,25,,False,False
+2025,Padron.dbf,112724,D_DIST,C,36,,False,False
+2025,Padron.dbf,112724,D_REGION,C,22,,False,False
+2025,Padron.dbf,112724,CODOOII,C,6,,False,False
+2025,Padron.dbf,112724,D_DREUGEL,C,41,,False,False
+2025,Padron.dbf,112724,NLAT_IE,C,18,,False,False
+2025,Padron.dbf,112724,NLONG_IE,C,18,,False,False
+2025,Padron.dbf,112724,TIPOPROG,C,2,,False,False
+2025,Padron.dbf,112724,D_TIPOPROG,C,30,,False,False
+2025,Padron.dbf,112724,COD_TUR,C,2,,False,False
+2025,Padron.dbf,112724,D_COD_TUR,C,19,,False,False
+2025,Padron.dbf,112724,NRORUC,C,11,,False,False
+2025,Padron.dbf,112724,RZSOCIAL,C,100,,False,False
+2025,Padron.dbf,112724,PROMOTOR,C,77,,False,False
+2025,Padron.dbf,112724,ESTADO,C,1,,True,False
+2025,Padron.dbf,112724,D_ESTADO,C,6,,False,False
+2025,Padron.dbf,112724,FECHAREG,C,10,,False,False
+2025,Padron.dbf,112724,FECHA_ACT,C,10,,False,False
+2025,Padron.dbf,112724,GRAD_2000,C,7,,False,False
+2025,Padron.dbf,112724,ZFRONTERA,C,1,,False,False
+2025,Padron.dbf,112724,PAIS_COLID,C,18,,False,False
+2025,Padron.dbf,112724,VRAEM,C,1,,False,False
+2025,Padron.dbf,112724,INTE_VRAEM,C,10,,False,False
+2025,Padron.dbf,112724,TALUM,N,8,,False,False
+2025,Padron.dbf,112724,TALUM_HOM,N,8,,False,False
+2025,Padron.dbf,112724,TALUM_MUJ,N,8,,False,False
+2025,Padron.dbf,112724,TDOC,N,8,,False,False
+2025,Padron.dbf,112724,TSEC,N,8,,False,False
+2025,Padron.dbf,112724,COD_CAR,C,1,,False,False
+2025,Padron.dbf,112724,D_COD_CAR,C,22,,False,False
+2025,Padron.dbf,112724,IMPUTADO,C,20,,False,False
+2025,Padron.dbf,112724,DES_IMPUTA,C,25,,False,False
